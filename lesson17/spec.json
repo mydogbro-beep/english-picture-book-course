@@ -1,0 +1,546 @@
+{
+ "audio_texts": [
+  "Ruby's Classroom!",
+  "Welcome to my classroom!",
+  "Hello! I am Ruby.",
+  "Welcome to my classroom!",
+  "This is my teacher.",
+  "Hello, teacher!",
+  "What is this?",
+  "It is a pencil.",
+  "I have a book.",
+  "I have a crayon.",
+  "This is my backpack.",
+  "I like my classroom!",
+  "classroom",
+  "teacher",
+  "desk",
+  "book",
+  "pencil",
+  "pen",
+  "crayon",
+  "eraser",
+  "ruler",
+  "backpack",
+  "Hello! I am the teacher!"
+ ],
+ "chapter": "第 5 章 · 上学去",
+ "cover_img": "cover.webp",
+ "cover_line": {
+  "en": "Welcome to my classroom!",
+  "zh": "欢迎来到我的教室！点句子可以听发音"
+ },
+ "cover_sub": "第 17 课 · 第 5 章首课：小兔 Ruby 背上天蓝书包，第一天上学去！教室里有什么文具呢？",
+ "finish_title": "这一课，你认识了教室和文具 🎉",
+ "key": [
+  [
+   "Welcome to my classroom!",
+   "欢迎来到我的教室！"
+  ],
+  [
+   "This is my teacher.",
+   "这是我的老师。"
+  ],
+  [
+   "What is this?",
+   "这是什么？"
+  ],
+  [
+   "It is a pencil.",
+   "这是一支铅笔。"
+  ],
+  [
+   "I have a book.",
+   "我有一本书。"
+  ],
+  [
+   "I like my classroom!",
+   "我喜欢我的教室！"
+  ]
+ ],
+ "num": 17,
+ "pages": [
+  {
+   "img": "p2.webp",
+   "lines": [
+    {
+     "en": "Hello! I am Ruby.",
+     "who": "ruby",
+     "who_name": "小兔",
+     "zh": "你好！我是小兔 Ruby。"
+    },
+    {
+     "en": "Welcome to my classroom!",
+     "who": "ruby",
+     "who_name": "小兔",
+     "zh": "欢迎来到我的教室！"
+    }
+   ],
+   "narr": "早上，Ruby 背着天蓝书包来到学校，站在教室门口欢迎大家。",
+   "spots": [
+    {
+     "who": "ruby",
+     "box": [
+      0.212,
+      0.06,
+      0.523,
+      0.898
+     ],
+     "say": "Hello! I am Ruby.",
+     "zh": "你好！我是小兔 Ruby。"
+    },
+    {
+     "kind": "obj",
+     "who": "backpack",
+     "box": [
+      0.206,
+      0.433,
+      0.4,
+      0.685
+     ],
+     "say": "backpack",
+     "zh": "书包"
+    }
+   ]
+  },
+  {
+   "img": "p3.webp",
+   "lines": [
+    {
+     "en": "This is my teacher.",
+     "who": "ruby",
+     "who_name": "小兔",
+     "zh": "这是我的老师。"
+    },
+    {
+     "en": "Hello, teacher!",
+     "who": "ruby",
+     "who_name": "小兔",
+     "zh": "老师，您好！"
+    }
+   ],
+   "narr": "老师站在讲台边，笑着向 Ruby 招手，教室里亮堂堂的。",
+   "spots": [
+    {
+     "kind": "obj",
+     "who": "desk",
+     "box": [
+      0.459,
+      0.732,
+      1.0,
+      1.0
+     ],
+     "say": "desk",
+     "zh": "课桌"
+    },
+    {
+     "who": "ruby",
+     "box": [
+      0.102,
+      0.206,
+      0.459,
+      1.0
+     ],
+     "say": "This is my teacher.",
+     "zh": "这是我的老师。"
+    },
+    {
+     "who": "teacher",
+     "box": [
+      0.528,
+      0.015,
+      0.913,
+      0.998
+     ],
+     "say": "Hello! I am the teacher!",
+     "zh": "你好！我是老师！"
+    },
+    {
+     "kind": "obj",
+     "who": "backpack",
+     "box": [
+      0.087,
+      0.614,
+      0.368,
+      0.913
+     ],
+     "say": "backpack",
+     "zh": "书包"
+    },
+    {
+     "kind": "obj",
+     "who": "book",
+     "box": [
+      0.576,
+      0.744,
+      0.8,
+      0.828
+     ],
+     "say": "book",
+     "zh": "书"
+    }
+   ]
+  },
+  {
+   "img": "p4.webp",
+   "lines": [
+    {
+     "en": "What is this?",
+     "who": "ruby",
+     "who_name": "小兔",
+     "zh": "这是什么？"
+    },
+    {
+     "en": "It is a pencil.",
+     "who": "ruby",
+     "who_name": "老师",
+     "zh": "这是一支铅笔。"
+    }
+   ],
+   "narr": "老师举起一支黄铅笔，问 Ruby 这是什么，Ruby 大声回答出来。",
+   "spots": [
+    {
+     "who": "ruby",
+     "box": [
+      0.148,
+      0.026,
+      0.583,
+      0.878
+     ],
+     "say": "What is this?",
+     "zh": "这是什么？"
+    },
+    {
+     "kind": "obj",
+     "who": "backpack",
+     "box": [
+      0.1,
+      0.54,
+      0.33,
+      0.88
+     ],
+     "say": "backpack",
+     "zh": "书包"
+    },
+    {
+     "kind": "obj",
+     "who": "ruler",
+     "box": [
+      0.3,
+      0.815,
+      0.65,
+      0.905
+     ],
+     "say": "ruler",
+     "zh": "尺子"
+    },
+    {
+     "who": "teacher",
+     "box": [
+      0.674,
+      0.107,
+      1.0,
+      0.398
+     ],
+     "say": "It is a pencil.",
+     "zh": "这是一支铅笔。"
+    },
+    {
+     "kind": "obj",
+     "who": "pencil",
+     "box": [
+      0.628,
+      0.02,
+      0.798,
+      0.524
+     ],
+     "say": "pencil",
+     "zh": "铅笔"
+    }
+   ]
+  },
+  {
+   "img": "p5.webp",
+   "lines": [
+    {
+     "en": "I have a book.",
+     "who": "ruby",
+     "who_name": "小兔",
+     "zh": "我有一本书。"
+    },
+    {
+     "en": "I have a crayon.",
+     "who": "ruby",
+     "who_name": "小兔",
+     "zh": "我有一支蜡笔。"
+    }
+   ],
+   "narr": "Ruby 打开书包，拿出一本书和一支蜡笔，整整齐齐摆在课桌上。",
+   "spots": [
+    {
+     "kind": "obj",
+     "who": "desk",
+     "box": [
+      0.048,
+      0.706,
+      0.885,
+      0.985
+     ],
+     "say": "desk",
+     "zh": "课桌"
+    },
+    {
+     "kind": "obj",
+     "who": "backpack",
+     "box": [
+      0.079,
+      0.408,
+      0.459,
+      0.921
+     ],
+     "say": "backpack",
+     "zh": "书包"
+    },
+    {
+     "who": "ruby",
+     "box": [
+      0.473,
+      0.067,
+      0.823,
+      0.798
+     ],
+     "say": "I have a book.",
+     "zh": "我有一本书。"
+    },
+    {
+     "kind": "obj",
+     "who": "book",
+     "box": [
+      0.348,
+      0.734,
+      0.673,
+      0.908
+     ],
+     "say": "book",
+     "zh": "书"
+    },
+    {
+     "kind": "obj",
+     "who": "crayon",
+     "box": [
+      0.613,
+      0.816,
+      0.719,
+      0.894
+     ],
+     "say": "crayon",
+     "zh": "蜡笔"
+    }
+   ]
+  },
+  {
+   "img": "p6.webp",
+   "lines": [
+    {
+     "en": "This is my backpack.",
+     "who": "ruby",
+     "who_name": "小兔",
+     "zh": "这是我的书包。"
+    },
+    {
+     "en": "I like my classroom!",
+     "who": "ruby",
+     "who_name": "小兔",
+     "zh": "我喜欢我的教室！"
+    }
+   ],
+   "narr": "放学了，Ruby 收拾好天蓝书包，开开心心地说：我喜欢我的教室！",
+   "spots": [
+    {
+     "kind": "obj",
+     "who": "book",
+     "box": [
+      0.024,
+      0.637,
+      0.172,
+      0.753
+     ],
+     "say": "book",
+     "zh": "书"
+    },
+    {
+     "who": "ruby",
+     "box": [
+      0.424,
+      0.076,
+      0.79,
+      0.818
+     ],
+     "say": "This is my backpack.",
+     "zh": "这是我的书包。"
+    },
+    {
+     "kind": "obj",
+     "who": "backpack",
+     "box": [
+      0.23,
+      0.525,
+      0.695,
+      0.92
+     ],
+     "say": "backpack",
+     "zh": "书包"
+    }
+   ]
+  }
+ ],
+ "taskA": {
+  "options": [
+   "Welcome to my classroom!",
+   "This is my teacher.",
+   "I have a book."
+  ],
+  "right_msg": "对啦！这句是「欢迎来到我的教室！」",
+  "target": "Welcome to my classroom!",
+  "wrong_msg": "再听一遍，听听是不是说欢迎来到教室。"
+ },
+ "taskB": {
+  "done_msg": "三对全配上啦！",
+  "instruction": "先点一个英文词，再点对应的中文词，配成一对。",
+  "left": [
+   {
+    "k": "c-pencil",
+    "label": "pencil"
+   },
+   {
+    "k": "c-crayon",
+    "label": "crayon"
+   },
+   {
+    "k": "c-backpack",
+    "label": "backpack"
+   }
+  ],
+  "right": [
+   {
+    "k": "c-crayon",
+    "label": "蜡笔",
+    "say": "crayon"
+   },
+   {
+    "k": "c-backpack",
+    "label": "书包",
+    "say": "backpack"
+   },
+   {
+    "k": "c-pencil",
+    "label": "铅笔",
+    "say": "pencil"
+   }
+  ],
+  "title": "文具配一配"
+ },
+ "taskC": [
+  [
+   "Welcome to my classroom!",
+   "欢迎来到我的教室！"
+  ],
+  [
+   "This is my teacher.",
+   "这是我的老师。"
+  ],
+  [
+   "What is this?",
+   "这是什么？"
+  ],
+  [
+   "It is a pencil.",
+   "这是一支铅笔。"
+  ],
+  [
+   "I like my classroom!",
+   "我喜欢我的教室！"
+  ]
+ ],
+ "title_en": "Ruby's Classroom!",
+ "title_zh": "小兔上学去",
+ "words": [
+  [
+   "classroom",
+   "教室"
+  ],
+  [
+   "teacher",
+   "老师"
+  ],
+  [
+   "desk",
+   "课桌"
+  ],
+  [
+   "book",
+   "书"
+  ],
+  [
+   "pencil",
+   "铅笔"
+  ],
+  [
+   "pen",
+   "钢笔"
+  ],
+  [
+   "crayon",
+   "蜡笔"
+  ],
+  [
+   "eraser",
+   "橡皮"
+  ],
+  [
+   "ruler",
+   "尺子"
+  ],
+  [
+   "backpack",
+   "书包"
+  ]
+ ],
+ "cover_spots": [
+  {
+   "kind": "obj",
+   "who": "desk",
+   "box": [
+    0.664,
+    0.523,
+    0.82,
+    0.809
+   ],
+   "say": "desk",
+   "zh": "课桌"
+  },
+  {
+   "who": "ruby",
+   "box": [
+    0.332,
+    0.097,
+    0.641,
+    0.957
+   ],
+   "say": "Welcome to my classroom!",
+   "zh": "欢迎来到我的教室！"
+  },
+  {
+   "kind": "obj",
+   "who": "backpack",
+   "box": [
+    0.345,
+    0.54,
+    0.425,
+    0.75
+   ],
+   "say": "backpack",
+   "zh": "书包"
+  }
+ ]
+}

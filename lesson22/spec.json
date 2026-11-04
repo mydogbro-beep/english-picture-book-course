@@ -1,0 +1,474 @@
+{
+ "audio_texts": [
+  "Felix and the Four Seasons!",
+  "What season is it?",
+  "It is spring.",
+  "Summer is hot.",
+  "In summer, I wear shorts.",
+  "Autumn is cool.",
+  "In autumn, I wear a coat.",
+  "Winter is cold.",
+  "In winter, I wear a scarf.",
+  "Four seasons, four clothes!",
+  "I like spring best!",
+  "spring",
+  "summer",
+  "autumn",
+  "winter",
+  "sweater",
+  "shorts",
+  "coat",
+  "scarf",
+  "boots",
+  "hat"
+ ],
+ "chapter": "第 6 章 · 一年四季",
+ "cover_img": "cover.webp",
+ "cover_line": {
+  "en": "What season is it?",
+  "zh": "现在是什么季节？点句子可以听发音"
+ },
+ "cover_sub": "第 22 课 · 小狐狸 Felix 的四季衣橱：春天穿毛衣，夏天穿短裤，秋天穿外套，冬天围围巾。",
+ "finish_title": "这一课，你学会了说四季和穿衣 🎉",
+ "key": [
+  [
+   "What season is it?",
+   "现在是什么季节？"
+  ],
+  [
+   "It is spring.",
+   "现在是春天。"
+  ],
+  [
+   "In summer, I wear shorts.",
+   "夏天我穿短裤。"
+  ],
+  [
+   "In autumn, I wear a coat.",
+   "秋天我穿外套。"
+  ],
+  [
+   "In winter, I wear a scarf.",
+   "冬天我围围巾。"
+  ],
+  [
+   "I like spring best!",
+   "我最喜欢春天！"
+  ]
+ ],
+ "num": 22,
+ "pages": [
+  {
+   "img": "p2.webp",
+   "lines": [
+    {
+     "en": "What season is it?",
+     "who": "felix",
+     "who_name": "小狐",
+     "zh": "现在是什么季节？"
+    },
+    {
+     "en": "It is spring.",
+     "who": "felix",
+     "who_name": "小狐",
+     "zh": "现在是春天。"
+    }
+   ],
+   "narr": "春天来了，天气暖暖的，Felix 穿上毛衣、戴上帽子，到院子里看花开。",
+   "spots": [
+    {
+     "who": "felix",
+     "box": [
+      0.44,
+      0.115,
+      0.873,
+      0.9
+     ],
+     "say": "It is spring.",
+     "zh": "现在是春天。"
+    },
+    {
+     "kind": "obj",
+     "who": "hat",
+     "box": [
+      0.47,
+      0.135,
+      0.7,
+      0.435
+     ],
+     "say": "hat",
+     "zh": "帽子"
+    },
+    {
+     "kind": "obj",
+     "who": "sweater",
+     "box": [
+      0.491,
+      0.485,
+      0.754,
+      0.79
+     ],
+     "say": "sweater",
+     "zh": "毛衣"
+    }
+   ]
+  },
+  {
+   "img": "p3.webp",
+   "lines": [
+    {
+     "en": "Summer is hot.",
+     "who": "felix",
+     "who_name": "小狐",
+     "zh": "夏天很热。"
+    },
+    {
+     "en": "In summer, I wear shorts.",
+     "who": "felix",
+     "who_name": "小狐",
+     "zh": "夏天我穿短裤。"
+    }
+   ],
+   "narr": "夏天到了，太阳火辣辣的，Felix 换上短裤，在树荫下吃冰凉的西瓜。",
+   "spots": [
+    {
+     "who": "felix",
+     "box": [
+      0.267,
+      0.108,
+      0.837,
+      0.915
+     ],
+     "say": "Summer is hot.",
+     "zh": "夏天很热。"
+    },
+    {
+     "kind": "obj",
+     "who": "shorts",
+     "box": [
+      0.384,
+      0.645,
+      0.644,
+      0.867
+     ],
+     "say": "shorts",
+     "zh": "短裤"
+    }
+   ]
+  },
+  {
+   "img": "p4.webp",
+   "lines": [
+    {
+     "en": "Autumn is cool.",
+     "who": "felix",
+     "who_name": "小狐",
+     "zh": "秋天很凉爽。"
+    },
+    {
+     "en": "In autumn, I wear a coat.",
+     "who": "felix",
+     "who_name": "小狐",
+     "zh": "秋天我穿外套。"
+    }
+   ],
+   "narr": "秋天来了，风里凉凉的，Felix 穿上外套、蹬上靴子，去捡金黄的落叶。",
+   "spots": [
+    {
+     "who": "felix",
+     "box": [
+      0.3,
+      0.08,
+      0.822,
+      0.845
+     ],
+     "say": "Autumn is cool.",
+     "zh": "秋天很凉爽。"
+    },
+    {
+     "kind": "obj",
+     "who": "coat",
+     "box": [
+      0.338,
+      0.36,
+      0.708,
+      0.745
+     ],
+     "say": "coat",
+     "zh": "外套"
+    },
+    {
+     "kind": "obj",
+     "who": "boots",
+     "box": [
+      0.43,
+      0.715,
+      0.66,
+      0.845
+     ],
+     "say": "boots",
+     "zh": "靴子"
+    }
+   ]
+  },
+  {
+   "img": "p5.webp",
+   "lines": [
+    {
+     "en": "Winter is cold.",
+     "who": "felix",
+     "who_name": "小狐",
+     "zh": "冬天很冷。"
+    },
+    {
+     "en": "In winter, I wear a scarf.",
+     "who": "felix",
+     "who_name": "小狐",
+     "zh": "冬天我围围巾。"
+    }
+   ],
+   "narr": "冬天到了，天上下起雪，Felix 围上厚厚的围巾，和雪人打招呼。",
+   "spots": [
+    {
+     "who": "felix",
+     "box": [
+      0.088,
+      0.07,
+      0.545,
+      0.912
+     ],
+     "say": "Winter is cold.",
+     "zh": "冬天很冷。"
+    },
+    {
+     "kind": "obj",
+     "who": "scarf",
+     "box": [
+      0.284,
+      0.444,
+      0.506,
+      0.778
+     ],
+     "say": "scarf",
+     "zh": "围巾"
+    }
+   ]
+  },
+  {
+   "img": "p6.webp",
+   "lines": [
+    {
+     "en": "Four seasons, four clothes!",
+     "who": "felix",
+     "who_name": "小狐",
+     "zh": "四个季节，四套衣服！"
+    },
+    {
+     "en": "I like spring best!",
+     "who": "felix",
+     "who_name": "小狐",
+     "zh": "我最喜欢春天！"
+    }
+   ],
+   "narr": "毛衣、短裤、外套、围巾都备齐啦！Felix 说：四个季节我都喜欢，最喜欢春天。",
+   "spots": [
+    {
+     "kind": "obj",
+     "who": "sweater",
+     "box": [
+      0.085,
+      0.685,
+      0.304,
+      0.935
+     ],
+     "say": "sweater",
+     "zh": "毛衣"
+    },
+    {
+     "kind": "obj",
+     "who": "shorts",
+     "box": [
+      0.303,
+      0.722,
+      0.498,
+      0.938
+     ],
+     "say": "shorts",
+     "zh": "短裤"
+    },
+    {
+     "kind": "obj",
+     "who": "coat",
+     "box": [
+      0.505,
+      0.687,
+      0.724,
+      0.957
+     ],
+     "say": "coat",
+     "zh": "外套"
+    },
+    {
+     "kind": "obj",
+     "who": "scarf",
+     "box": [
+      0.727,
+      0.684,
+      0.909,
+      0.941
+     ],
+     "say": "scarf",
+     "zh": "围巾"
+    },
+    {
+     "who": "felix",
+     "box": [
+      0.337,
+      0.042,
+      0.725,
+      0.699
+     ],
+     "say": "Four seasons, four clothes!",
+     "zh": "四个季节，四套衣服！"
+    }
+   ]
+  }
+ ],
+ "taskA": {
+  "options": [
+   "What season is it?",
+   "Summer is hot.",
+   "Winter is cold."
+  ],
+  "right_msg": "对啦！这句是「现在是什么季节？」",
+  "target": "What season is it?",
+  "wrong_msg": "再听一遍，听听是不是在问季节。"
+ },
+ "taskB": {
+  "done_msg": "三对全配上啦！",
+  "instruction": "先点一个英文词，再点对应的中文词，配成一对。",
+  "left": [
+   {
+    "k": "w-spring",
+    "label": "spring"
+   },
+   {
+    "k": "w-coat",
+    "label": "coat"
+   },
+   {
+    "k": "w-scarf",
+    "label": "scarf"
+   }
+  ],
+  "right": [
+   {
+    "k": "w-coat",
+    "label": "外套",
+    "say": "coat"
+   },
+   {
+    "k": "w-scarf",
+    "label": "围巾",
+    "say": "scarf"
+   },
+   {
+    "k": "w-spring",
+    "label": "春天",
+    "say": "spring"
+   }
+  ],
+  "title": "四季配一配"
+ },
+ "taskC": [
+  [
+   "What season is it?",
+   "现在是什么季节？"
+  ],
+  [
+   "It is spring.",
+   "现在是春天。"
+  ],
+  [
+   "Summer is hot.",
+   "夏天很热。"
+  ],
+  [
+   "Autumn is cool.",
+   "秋天很凉爽。"
+  ],
+  [
+   "Winter is cold.",
+   "冬天很冷。"
+  ]
+ ],
+ "title_en": "Felix and the Four Seasons!",
+ "title_zh": "四季与穿衣",
+ "words": [
+  [
+   "spring",
+   "春天"
+  ],
+  [
+   "summer",
+   "夏天"
+  ],
+  [
+   "autumn",
+   "秋天"
+  ],
+  [
+   "winter",
+   "冬天"
+  ],
+  [
+   "sweater",
+   "毛衣"
+  ],
+  [
+   "shorts",
+   "短裤"
+  ],
+  [
+   "coat",
+   "外套"
+  ],
+  [
+   "scarf",
+   "围巾"
+  ],
+  [
+   "boots",
+   "靴子"
+  ],
+  [
+   "hat",
+   "帽子"
+  ]
+ ],
+ "cover_spots": [
+  {
+   "who": "felix",
+   "box": [
+    0.104,
+    0.113,
+    0.48,
+    0.938
+   ],
+   "say": "What season is it?",
+   "zh": "现在是什么季节？"
+  },
+  {
+   "kind": "obj",
+   "who": "sweater",
+   "box": [
+    0.247,
+    0.412,
+    0.472,
+    0.708
+   ],
+   "say": "sweater",
+   "zh": "毛衣"
+  }
+ ]
+}

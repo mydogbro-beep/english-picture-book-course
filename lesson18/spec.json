@@ -1,0 +1,378 @@
+{
+ "audio_texts": [
+  "Ruby's Week!",
+  "What day is it today?",
+  "It is Monday.",
+  "On Monday, we have English.",
+  "I like English!",
+  "It is Tuesday.",
+  "I have math today.",
+  "On Friday, we have music.",
+  "I like music class!",
+  "It is Saturday. No school today!",
+  "I like Saturday and Sunday!",
+  "Monday",
+  "Tuesday",
+  "Wednesday",
+  "Thursday",
+  "Friday",
+  "Saturday",
+  "Sunday",
+  "English",
+  "math",
+  "music"
+ ],
+ "chapter": "第 5 章 · 上学去",
+ "cover_img": "cover.webp",
+ "cover_line": {
+  "en": "What day is it today?",
+  "zh": "今天是星期几？点句子可以听发音"
+ },
+ "cover_sub": "第 18 课 · 星期与课程：小兔 Ruby 的一周课程表！星期一上什么课？星期五又有什么课呢？",
+ "finish_title": "这一课，你认识了一周七天和三门课 🎉",
+ "key": [
+  [
+   "What day is it today?",
+   "今天是星期几？"
+  ],
+  [
+   "It is Monday.",
+   "今天是星期一。"
+  ],
+  [
+   "On Monday, we have English.",
+   "星期一我们上英语课。"
+  ],
+  [
+   "I have math today.",
+   "我今天有数学课。"
+  ],
+  [
+   "On Friday, we have music.",
+   "星期五我们上音乐课。"
+  ],
+  [
+   "I like Saturday and Sunday!",
+   "我喜欢星期六和星期日！"
+  ]
+ ],
+ "num": 18,
+ "pages": [
+  {
+   "img": "p2.webp",
+   "lines": [
+    {
+     "en": "What day is it today?",
+     "who": "ruby",
+     "who_name": "小兔",
+     "zh": "今天是星期几？"
+    },
+    {
+     "en": "It is Monday.",
+     "who": "ruby",
+     "who_name": "小兔",
+     "zh": "今天是星期一。"
+    }
+   ],
+   "narr": "星期一早上，Ruby 背着天蓝书包上学，站在校门口问今天是星期几。",
+   "spots": [
+    {
+     "who": "ruby",
+     "box": [
+      0.329,
+      0.114,
+      0.593,
+      0.904
+     ],
+     "say": "What day is it today?",
+     "zh": "今天是星期几？"
+    }
+   ]
+  },
+  {
+   "img": "p3.webp",
+   "lines": [
+    {
+     "en": "On Monday, we have English.",
+     "who": "ruby",
+     "who_name": "小兔",
+     "zh": "星期一我们上英语课。"
+    },
+    {
+     "en": "I like English!",
+     "who": "ruby",
+     "who_name": "小兔",
+     "zh": "我喜欢英语课！"
+    }
+   ],
+   "narr": "星期一的第一堂课是英语课，Ruby 举着英语书，开开心心地读单词。",
+   "spots": [
+    {
+     "who": "ruby",
+     "box": [
+      0.173,
+      0.1,
+      0.57,
+      0.91
+     ],
+     "say": "On Monday, we have English.",
+     "zh": "星期一我们上英语课。"
+    },
+    {
+     "kind": "obj",
+     "who": "book",
+     "box": [
+      0.298,
+      0.644,
+      0.592,
+      0.917
+     ],
+     "say": "English",
+     "zh": "英语课"
+    }
+   ]
+  },
+  {
+   "img": "p4.webp",
+   "lines": [
+    {
+     "en": "It is Tuesday.",
+     "who": "ruby",
+     "who_name": "小兔",
+     "zh": "今天是星期二。"
+    },
+    {
+     "en": "I have math today.",
+     "who": "ruby",
+     "who_name": "小兔",
+     "zh": "我今天有数学课。"
+    }
+   ],
+   "narr": "星期二，Ruby 在数学课上数小棒、算加法，算得又快又对。",
+   "spots": [
+    {
+     "who": "ruby",
+     "box": [
+      0.128,
+      0.023,
+      0.612,
+      0.96
+     ],
+     "say": "It is Tuesday.",
+     "zh": "今天是星期二。"
+    },
+    {
+     "kind": "obj",
+     "who": "sticks",
+     "box": [
+      0.322,
+      0.744,
+      0.811,
+      0.923
+     ],
+     "say": "math",
+     "zh": "数学课"
+    }
+   ]
+  },
+  {
+   "img": "p5.webp",
+   "lines": [
+    {
+     "en": "On Friday, we have music.",
+     "who": "ruby",
+     "who_name": "小兔",
+     "zh": "星期五我们上音乐课。"
+    },
+    {
+     "en": "I like music class!",
+     "who": "ruby",
+     "who_name": "小兔",
+     "zh": "我喜欢音乐课！"
+    }
+   ],
+   "narr": "星期五的音乐课上，Ruby 唱着歌、拍着手，全班一起唱得可开心了。",
+   "spots": [
+    {
+     "kind": "obj",
+     "who": "tambourine",
+     "box": [
+      0.045,
+      0.215,
+      0.175,
+      0.31
+     ],
+     "say": "music",
+     "zh": "音乐课"
+    },
+    {
+     "who": "ruby",
+     "box": [
+      0.353,
+      0.045,
+      0.635,
+      0.955
+     ],
+     "say": "On Friday, we have music.",
+     "zh": "星期五我们上音乐课。"
+    }
+   ]
+  },
+  {
+   "img": "p6.webp",
+   "lines": [
+    {
+     "en": "It is Saturday. No school today!",
+     "who": "ruby",
+     "who_name": "小兔",
+     "zh": "今天是星期六，今天不用上学！"
+    },
+    {
+     "en": "I like Saturday and Sunday!",
+     "who": "ruby",
+     "who_name": "小兔",
+     "zh": "我喜欢星期六和星期日！"
+    }
+   ],
+   "narr": "星期六不用上学，Ruby 在花园里玩了一整天，周末真是太棒了！",
+   "spots": [
+    {
+     "who": "ruby",
+     "box": [
+      0.271,
+      0.06,
+      0.686,
+      0.865
+     ],
+     "say": "It is Saturday. No school today!",
+     "zh": "今天是星期六，今天不用上学！"
+    }
+   ]
+  }
+ ],
+ "taskA": {
+  "options": [
+   "What day is it today?",
+   "On Monday, we have English.",
+   "I like music class!"
+  ],
+  "right_msg": "对啦！这句是「今天是星期几？」",
+  "target": "What day is it today?",
+  "wrong_msg": "再听一遍，听听是不是在问今天是星期几。"
+ },
+ "taskB": {
+  "done_msg": "三对全配上啦！",
+  "instruction": "先点一个英文词，再点对应的中文词，配成一对。",
+  "left": [
+   {
+    "k": "c-monday",
+    "label": "Monday"
+   },
+   {
+    "k": "c-music",
+    "label": "music"
+   },
+   {
+    "k": "c-friday",
+    "label": "Friday"
+   }
+  ],
+  "right": [
+   {
+    "k": "c-music",
+    "label": "音乐课",
+    "say": "music"
+   },
+   {
+    "k": "c-friday",
+    "label": "星期五",
+    "say": "Friday"
+   },
+   {
+    "k": "c-monday",
+    "label": "星期一",
+    "say": "Monday"
+   }
+  ],
+  "title": "星期配一配"
+ },
+ "taskC": [
+  [
+   "What day is it today?",
+   "今天是星期几？"
+  ],
+  [
+   "It is Monday.",
+   "今天是星期一。"
+  ],
+  [
+   "On Monday, we have English.",
+   "星期一我们上英语课。"
+  ],
+  [
+   "I have math today.",
+   "我今天有数学课。"
+  ],
+  [
+   "I like Saturday and Sunday!",
+   "我喜欢星期六和星期日！"
+  ]
+ ],
+ "title_en": "Ruby's Week!",
+ "title_zh": "小兔的一周",
+ "words": [
+  [
+   "Monday",
+   "星期一"
+  ],
+  [
+   "Tuesday",
+   "星期二"
+  ],
+  [
+   "Wednesday",
+   "星期三"
+  ],
+  [
+   "Thursday",
+   "星期四"
+  ],
+  [
+   "Friday",
+   "星期五"
+  ],
+  [
+   "Saturday",
+   "星期六"
+  ],
+  [
+   "Sunday",
+   "星期日"
+  ],
+  [
+   "English",
+   "英语课"
+  ],
+  [
+   "math",
+   "数学课"
+  ],
+  [
+   "music",
+   "音乐课"
+  ]
+ ],
+ "cover_spots": [
+  {
+   "who": "ruby",
+   "box": [
+    0.377,
+    0.112,
+    0.716,
+    0.947
+   ],
+   "say": "What day is it today?",
+   "zh": "今天是星期几？"
+  }
+ ]
+}

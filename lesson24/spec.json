@@ -1,0 +1,433 @@
+{
+ "audio_texts": [
+  "Felix and the Rainy Day!",
+  "How is the weather today?",
+  "It is rainy today.",
+  "It is windy, too.",
+  "I wear a coat.",
+  "I wear boots.",
+  "I take my umbrella.",
+  "Here is my umbrella!",
+  "Thank you, Felix!",
+  "It is sunny now!",
+  "My birthday is in May.",
+  "umbrella",
+  "rainy",
+  "windy",
+  "coat",
+  "boots",
+  "spring",
+  "sunny",
+  "rain",
+  "May",
+  "birthday"
+ ],
+ "chapter": "第 6 章 · 一年四季",
+ "cover_img": "cover.webp",
+ "cover_line": {
+  "en": "It is rainy today.",
+  "zh": "今天下雨了。点句子可以听发音"
+ },
+ "cover_sub": "第 24 课 · 复习课——雨天里，小狐狸 Felix 穿上外套和雨靴，给朋友送去一把大伞。",
+ "finish_title": "这一课，你复习了天气、四季和生日 🎉",
+ "key": [
+  [
+   "How is the weather today?",
+   "今天天气怎么样？"
+  ],
+  [
+   "It is rainy today.",
+   "今天下雨了。"
+  ],
+  [
+   "I wear a coat.",
+   "我穿上外套。"
+  ],
+  [
+   "I take my umbrella.",
+   "我带上我的雨伞。"
+  ],
+  [
+   "My birthday is in May.",
+   "我的生日在五月。"
+  ]
+ ],
+ "num": 24,
+ "pages": [
+  {
+   "img": "p2.webp",
+   "lines": [
+    {
+     "en": "How is the weather today?",
+     "who": "felix",
+     "who_name": "小狐",
+     "zh": "今天天气怎么样？"
+    },
+    {
+     "en": "It is rainy today.",
+     "who": "felix",
+     "who_name": "小狐",
+     "zh": "今天下雨了。"
+    }
+   ],
+   "narr": "早上起来，Felix 看看窗外：今天天气怎么样？呀，今天下雨了！",
+   "spots": [
+    {
+     "kind": "obj",
+     "who": "rain",
+     "box": [
+      0.4,
+      0.0,
+      0.928,
+      0.792
+     ],
+     "say": "rain",
+     "zh": "雨"
+    },
+    {
+     "who": "felix",
+     "box": [
+      0.254,
+      0.197,
+      0.604,
+      0.88
+     ],
+     "say": "How is the weather today?",
+     "zh": "今天天气怎么样？"
+    }
+   ]
+  },
+  {
+   "img": "p3.webp",
+   "lines": [
+    {
+     "en": "It is windy, too.",
+     "who": "felix",
+     "who_name": "小狐",
+     "zh": "风也很大。"
+    },
+    {
+     "en": "I wear a coat.",
+     "who": "felix",
+     "who_name": "小狐",
+     "zh": "我穿上外套。"
+    }
+   ],
+   "narr": "风也呼呼地吹，Felix 穿上厚厚的外套，准备出门。",
+   "spots": [
+    {
+     "who": "felix",
+     "box": [
+      0.333,
+      0.118,
+      0.754,
+      0.928
+     ],
+     "say": "It is windy, too.",
+     "zh": "风也很大。"
+    },
+    {
+     "kind": "obj",
+     "who": "coat",
+     "box": [
+      0.472,
+      0.358,
+      0.754,
+      0.767
+     ],
+     "say": "coat",
+     "zh": "外套"
+    }
+   ]
+  },
+  {
+   "img": "p4.webp",
+   "lines": [
+    {
+     "en": "I wear boots.",
+     "who": "felix",
+     "who_name": "小狐",
+     "zh": "我穿上雨靴。"
+    },
+    {
+     "en": "I take my umbrella.",
+     "who": "felix",
+     "who_name": "小狐",
+     "zh": "我带上我的雨伞。"
+    }
+   ],
+   "narr": "Felix 穿上雨靴，拿起一把大伞——朋友还在雨里等着呢，送伞去！",
+   "spots": [
+    {
+     "who": "felix",
+     "box": [
+      0.231,
+      0.24,
+      0.623,
+      0.875
+     ],
+     "say": "I wear boots.",
+     "zh": "我穿上雨靴。"
+    },
+    {
+     "kind": "obj",
+     "who": "umbrella",
+     "box": [
+      0.198,
+      0.046,
+      0.689,
+      0.698
+     ],
+     "say": "umbrella",
+     "zh": "雨伞"
+    },
+    {
+     "kind": "obj",
+     "who": "boots",
+     "box": [
+      0.356,
+      0.721,
+      0.62,
+      0.877
+     ],
+     "say": "boots",
+     "zh": "雨靴"
+    }
+   ]
+  },
+  {
+   "img": "p5.webp",
+   "lines": [
+    {
+     "en": "Here is my umbrella!",
+     "who": "felix",
+     "who_name": "小狐",
+     "zh": "我的雨伞给你！"
+    },
+    {
+     "en": "Thank you, Felix!",
+     "who": "felix",
+     "who_name": "朋友",
+     "zh": "谢谢你，Felix！"
+    }
+   ],
+   "narr": "Felix 把大伞递给朋友，朋友笑着说：谢谢你，Felix！",
+   "spots": [
+    {
+     "who": "felix",
+     "box": [
+      0.086,
+      0.262,
+      0.519,
+      0.913
+     ],
+     "say": "Here is my umbrella!",
+     "zh": "我的雨伞给你！"
+    },
+    {
+     "who": "friend",
+     "box": [
+      0.629,
+      0.42,
+      0.846,
+      0.773
+     ],
+     "say": "Thank you, Felix!",
+     "zh": "谢谢你，Felix！"
+    },
+    {
+     "kind": "obj",
+     "who": "umbrella",
+     "box": [
+      0.157,
+      0.033,
+      0.686,
+      0.685
+     ],
+     "say": "umbrella",
+     "zh": "雨伞"
+    }
+   ]
+  },
+  {
+   "img": "p6.webp",
+   "lines": [
+    {
+     "en": "It is sunny now!",
+     "who": "felix",
+     "who_name": "小狐",
+     "zh": "现在出太阳啦！"
+    },
+    {
+     "en": "My birthday is in May.",
+     "who": "felix",
+     "who_name": "小狐",
+     "zh": "我的生日在五月。"
+    }
+   ],
+   "narr": "雨停了，太阳出来了。春天真好，Felix 想：我的生日就在五月！",
+   "spots": [
+    {
+     "kind": "obj",
+     "who": "sun",
+     "box": [
+      0.302,
+      0.106,
+      0.624,
+      0.438
+     ],
+     "say": "sunny",
+     "zh": "晴朗的"
+    },
+    {
+     "who": "felix",
+     "box": [
+      0.483,
+      0.255,
+      0.899,
+      0.888
+     ],
+     "say": "It is sunny now!",
+     "zh": "现在出太阳啦！"
+    }
+   ]
+  }
+ ],
+ "taskA": {
+  "options": [
+   "It is rainy today.",
+   "It is sunny now!",
+   "My birthday is in May."
+  ],
+  "right_msg": "对啦！这句是「今天下雨了。」",
+  "target": "It is rainy today.",
+  "wrong_msg": "再听一遍，听听是不是在说下雨。"
+ },
+ "taskB": {
+  "done_msg": "三对全配上啦！",
+  "instruction": "先点一个英文词，再点对应的中文词，配成一对。",
+  "left": [
+   {
+    "k": "w-umbrella",
+    "label": "umbrella"
+   },
+   {
+    "k": "w-rainy",
+    "label": "rainy"
+   },
+   {
+    "k": "w-coat",
+    "label": "coat"
+   }
+  ],
+  "right": [
+   {
+    "k": "w-coat",
+    "label": "外套",
+    "say": "coat"
+   },
+   {
+    "k": "w-umbrella",
+    "label": "雨伞",
+    "say": "umbrella"
+   },
+   {
+    "k": "w-rainy",
+    "label": "下雨的",
+    "say": "rainy"
+   }
+  ],
+  "title": "雨天配一配"
+ },
+ "taskC": [
+  [
+   "How is the weather today?",
+   "今天天气怎么样？"
+  ],
+  [
+   "It is rainy today.",
+   "今天下雨了。"
+  ],
+  [
+   "I wear a coat.",
+   "我穿上外套。"
+  ],
+  [
+   "I take my umbrella.",
+   "我带上我的雨伞。"
+  ],
+  [
+   "My birthday is in May.",
+   "我的生日在五月。"
+  ]
+ ],
+ "title_en": "Felix and the Rainy Day!",
+ "title_zh": "复习：雨天送伞",
+ "words": [
+  [
+   "umbrella",
+   "雨伞"
+  ],
+  [
+   "rainy",
+   "下雨的"
+  ],
+  [
+   "windy",
+   "有风的"
+  ],
+  [
+   "coat",
+   "外套"
+  ],
+  [
+   "boots",
+   "雨靴"
+  ],
+  [
+   "spring",
+   "春天"
+  ],
+  [
+   "sunny",
+   "晴朗的"
+  ],
+  [
+   "rain",
+   "雨"
+  ],
+  [
+   "May",
+   "五月"
+  ],
+  [
+   "birthday",
+   "生日"
+  ]
+ ],
+ "cover_spots": [
+  {
+   "who": "felix",
+   "box": [
+    0.185,
+    0.246,
+    0.53,
+    0.905
+   ],
+   "say": "It is rainy today.",
+   "zh": "今天下雨了。"
+  },
+  {
+   "kind": "obj",
+   "who": "umbrella",
+   "box": [
+    0.17,
+    0.035,
+    0.655,
+    0.648
+   ],
+   "say": "umbrella",
+   "zh": "雨伞"
+  }
+ ]
+}

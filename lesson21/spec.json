@@ -1,0 +1,391 @@
+{
+ "audio_texts": [
+  "Felix and the Weather!",
+  "How is the weather today?",
+  "Hello! I am Felix.",
+  "How is the weather today?",
+  "It is sunny today.",
+  "Look! The sun is big!",
+  "Oh! It is rainy.",
+  "It is windy.",
+  "It is cold.",
+  "I put on my coat.",
+  "The sun comes back!",
+  "I like sunny days!",
+  "sunny",
+  "cloudy",
+  "rainy",
+  "windy",
+  "snowy",
+  "hot",
+  "cold",
+  "weather",
+  "sun",
+  "rain"
+ ],
+ "chapter": "第 6 章 · 一年四季",
+ "cover_img": "cover.webp",
+ "cover_line": {
+  "en": "How is the weather today?",
+  "zh": "今天天气怎么样？点句子可以听发音"
+ },
+ "cover_sub": "第 21 课 · 第 6 章首课：小狐狸 Felix 登场！今天天气怎么样？晴天、雨天、刮风天都来看看。",
+ "finish_title": "这一课，你学会了说天气 🎉",
+ "key": [
+  [
+   "How is the weather today?",
+   "今天天气怎么样？"
+  ],
+  [
+   "It is sunny today.",
+   "今天是晴天。"
+  ],
+  [
+   "It is rainy.",
+   "下雨了。"
+  ],
+  [
+   "It is windy.",
+   "起风了。"
+  ],
+  [
+   "It is cold.",
+   "天气冷。"
+  ],
+  [
+   "I like sunny days!",
+   "我喜欢晴天！"
+  ]
+ ],
+ "num": 21,
+ "pages": [
+  {
+   "img": "p2.webp",
+   "lines": [
+    {
+     "en": "Hello! I am Felix.",
+     "who": "felix",
+     "who_name": "小狐",
+     "zh": "你好！我是小狐狸 Felix。"
+    },
+    {
+     "en": "How is the weather today?",
+     "who": "felix",
+     "who_name": "小狐",
+     "zh": "今天天气怎么样？"
+    }
+   ],
+   "narr": "早上，Felix 打开窗户，抬头看看天空。",
+   "spots": [
+    {
+     "kind": "obj",
+     "who": "cloud",
+     "box": [
+      0.58,
+      0.171,
+      0.759,
+      0.339
+     ],
+     "say": "cloudy",
+     "zh": "多云的"
+    },
+    {
+     "who": "felix",
+     "box": [
+      0.355,
+      0.32,
+      0.695,
+      0.964
+     ],
+     "say": "Hello! I am Felix.",
+     "zh": "你好！我是小狐狸 Felix。"
+    }
+   ]
+  },
+  {
+   "img": "p3.webp",
+   "lines": [
+    {
+     "en": "It is sunny today.",
+     "who": "felix",
+     "who_name": "小狐",
+     "zh": "今天是晴天。"
+    },
+    {
+     "en": "Look! The sun is big!",
+     "who": "felix",
+     "who_name": "小狐",
+     "zh": "看！太阳又大又圆！"
+    }
+   ],
+   "narr": "太阳出来了，天空蓝蓝的，Felix 笑着跑到院子里。",
+   "spots": [
+    {
+     "kind": "obj",
+     "who": "sun",
+     "box": [
+      0.69,
+      0.06,
+      0.81,
+      0.235
+     ],
+     "say": "sun",
+     "zh": "太阳"
+    },
+    {
+     "who": "felix",
+     "box": [
+      0.173,
+      0.286,
+      0.671,
+      0.85
+     ],
+     "say": "It is sunny today.",
+     "zh": "今天是晴天。"
+    }
+   ]
+  },
+  {
+   "img": "p4.webp",
+   "lines": [
+    {
+     "en": "Oh! It is rainy.",
+     "who": "felix",
+     "who_name": "小狐",
+     "zh": "哎呀！下雨了。"
+    },
+    {
+     "en": "It is windy.",
+     "who": "felix",
+     "who_name": "小狐",
+     "zh": "起风了。"
+    }
+   ],
+   "narr": "忽然，天阴了下来，雨点落下来，风把树叶吹得摇摇晃晃。",
+   "spots": [
+    {
+     "kind": "obj",
+     "who": "clouds",
+     "box": [
+      0.038,
+      0.0,
+      0.975,
+      0.225
+     ],
+     "say": "rainy",
+     "zh": "下雨的"
+    },
+    {
+     "who": "felix",
+     "box": [
+      0.295,
+      0.43,
+      0.592,
+      0.922
+     ],
+     "say": "Oh! It is rainy.",
+     "zh": "哎呀！下雨了。"
+    }
+   ]
+  },
+  {
+   "img": "p5.webp",
+   "lines": [
+    {
+     "en": "It is cold.",
+     "who": "felix",
+     "who_name": "小狐",
+     "zh": "天气变冷了。"
+    },
+    {
+     "en": "I put on my coat.",
+     "who": "felix",
+     "who_name": "小狐",
+     "zh": "我穿上外套。"
+    }
+   ],
+   "narr": "Felix 觉得有点冷，赶紧穿上暖和的外套，撑起小雨伞。",
+   "spots": [
+    {
+     "who": "felix",
+     "box": [
+      0.272,
+      0.206,
+      0.635,
+      0.942
+     ],
+     "say": "It is cold.",
+     "zh": "天气变冷了。"
+    }
+   ]
+  },
+  {
+   "img": "p6.webp",
+   "lines": [
+    {
+     "en": "The sun comes back!",
+     "who": "felix",
+     "who_name": "小狐",
+     "zh": "太阳又回来啦！"
+    },
+    {
+     "en": "I like sunny days!",
+     "who": "felix",
+     "who_name": "小狐",
+     "zh": "我喜欢晴天！"
+    }
+   ],
+   "narr": "雨停了，太阳又出来了，Felix 开心地在阳光下转圈圈。",
+   "spots": [
+    {
+     "who": "felix",
+     "box": [
+      0.238,
+      0.244,
+      0.676,
+      0.9
+     ],
+     "say": "The sun comes back!",
+     "zh": "太阳又回来啦！"
+    }
+   ]
+  }
+ ],
+ "taskA": {
+  "options": [
+   "How is the weather today?",
+   "It is sunny today.",
+   "I like sunny days!"
+  ],
+  "right_msg": "对啦！这句是「今天天气怎么样？」",
+  "target": "How is the weather today?",
+  "wrong_msg": "再听一遍，听听是不是在问天气。"
+ },
+ "taskB": {
+  "done_msg": "三对全配上啦！",
+  "instruction": "先点一个英文词，再点对应的中文词，配成一对。",
+  "left": [
+   {
+    "k": "w-sunny",
+    "label": "sunny"
+   },
+   {
+    "k": "w-rainy",
+    "label": "rainy"
+   },
+   {
+    "k": "w-windy",
+    "label": "windy"
+   }
+  ],
+  "right": [
+   {
+    "k": "w-windy",
+    "label": "有风的",
+    "say": "windy"
+   },
+   {
+    "k": "w-sunny",
+    "label": "晴朗的",
+    "say": "sunny"
+   },
+   {
+    "k": "w-rainy",
+    "label": "下雨的",
+    "say": "rainy"
+   }
+  ],
+  "title": "天气配一配"
+ },
+ "taskC": [
+  [
+   "How is the weather today?",
+   "今天天气怎么样？"
+  ],
+  [
+   "It is sunny today.",
+   "今天是晴天。"
+  ],
+  [
+   "It is rainy.",
+   "下雨了。"
+  ],
+  [
+   "It is cold.",
+   "天气冷。"
+  ],
+  [
+   "I like sunny days!",
+   "我喜欢晴天！"
+  ]
+ ],
+ "title_en": "Felix and the Weather!",
+ "title_zh": "天气怎么样",
+ "words": [
+  [
+   "sunny",
+   "晴朗的"
+  ],
+  [
+   "cloudy",
+   "多云的"
+  ],
+  [
+   "rainy",
+   "下雨的"
+  ],
+  [
+   "windy",
+   "有风的"
+  ],
+  [
+   "snowy",
+   "下雪的"
+  ],
+  [
+   "hot",
+   "热的"
+  ],
+  [
+   "cold",
+   "冷的"
+  ],
+  [
+   "weather",
+   "天气"
+  ],
+  [
+   "sun",
+   "太阳"
+  ],
+  [
+   "rain",
+   "雨"
+  ]
+ ],
+ "cover_spots": [
+  {
+   "kind": "obj",
+   "who": "sun",
+   "box": [
+    0.658,
+    0.042,
+    0.806,
+    0.256
+   ],
+   "say": "sun",
+   "zh": "太阳"
+  },
+  {
+   "who": "felix",
+   "box": [
+    0.228,
+    0.328,
+    0.603,
+    0.933
+   ],
+   "say": "How is the weather today?",
+   "zh": "今天天气怎么样？"
+  }
+ ]
+}

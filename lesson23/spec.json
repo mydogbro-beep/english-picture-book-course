@@ -1,0 +1,410 @@
+{
+ "audio_texts": [
+  "Felix and His Birthday!",
+  "When is your birthday?",
+  "My birthday is in May.",
+  "January is cold.",
+  "February is cold, too.",
+  "March is warm.",
+  "April is warm, too.",
+  "In May, I have a birthday cake.",
+  "I make a wish!",
+  "Happy birthday, Felix!",
+  "I like my birthday!",
+  "birthday",
+  "January",
+  "February",
+  "March",
+  "April",
+  "May",
+  "June",
+  "candle",
+  "wish",
+  "present"
+ ],
+ "chapter": "第 6 章 · 一年四季",
+ "cover_img": "cover.webp",
+ "cover_line": {
+  "en": "When is your birthday?",
+  "zh": "你的生日在什么时候？点句子可以听发音"
+ },
+ "cover_sub": "第 23 课 · 小狐狸 Felix 的生日在五月：数着一月到六月，等生日蛋糕、许个愿。",
+ "finish_title": "这一课，你学会了说生日和月份 🎉",
+ "key": [
+  [
+   "When is your birthday?",
+   "你的生日在什么时候？"
+  ],
+  [
+   "My birthday is in May.",
+   "我的生日在五月。"
+  ],
+  [
+   "In May, I have a birthday cake.",
+   "五月，我有一个生日蛋糕。"
+  ],
+  [
+   "I make a wish!",
+   "我许个愿！"
+  ],
+  [
+   "Happy birthday, Felix!",
+   "Felix，生日快乐！"
+  ]
+ ],
+ "num": 23,
+ "pages": [
+  {
+   "img": "p2.webp",
+   "lines": [
+    {
+     "en": "When is your birthday?",
+     "who": "felix",
+     "who_name": "小狐",
+     "zh": "你的生日在什么时候？"
+    },
+    {
+     "en": "My birthday is in May.",
+     "who": "felix",
+     "who_name": "小狐",
+     "zh": "我的生日在五月。"
+    }
+   ],
+   "narr": "Felix 的生日快到了，朋友们问他：你的生日在什么时候？Felix 说：我的生日在五月。",
+   "spots": [
+    {
+     "who": "felix",
+     "box": [
+      0.132,
+      0.095,
+      0.598,
+      0.83
+     ],
+     "say": "My birthday is in May.",
+     "zh": "我的生日在五月。"
+    }
+   ]
+  },
+  {
+   "img": "p3.webp",
+   "lines": [
+    {
+     "en": "January is cold.",
+     "who": "felix",
+     "who_name": "小狐",
+     "zh": "一月很冷。"
+    },
+    {
+     "en": "February is cold, too.",
+     "who": "felix",
+     "who_name": "小狐",
+     "zh": "二月也很冷。"
+    }
+   ],
+   "narr": "数着月份等生日：一月下雪很冷，二月还是冷冷的，Felix 穿着厚外套数日子。",
+   "spots": [
+    {
+     "who": "felix",
+     "box": [
+      0.203,
+      0.109,
+      0.705,
+      0.894
+     ],
+     "say": "January is cold.",
+     "zh": "一月很冷。"
+    }
+   ]
+  },
+  {
+   "img": "p4.webp",
+   "lines": [
+    {
+     "en": "March is warm.",
+     "who": "felix",
+     "who_name": "小狐",
+     "zh": "三月很暖和。"
+    },
+    {
+     "en": "April is warm, too.",
+     "who": "felix",
+     "who_name": "小狐",
+     "zh": "四月也很暖和。"
+    }
+   ],
+   "narr": "三月暖和起来了，四月花都开了，Felix 知道：再过一个月就是生日啦。",
+   "spots": [
+    {
+     "who": "felix",
+     "box": [
+      0.216,
+      0.168,
+      0.706,
+      0.802
+     ],
+     "say": "March is warm.",
+     "zh": "三月很暖和。"
+    }
+   ]
+  },
+  {
+   "img": "p5.webp",
+   "lines": [
+    {
+     "en": "In May, I have a birthday cake.",
+     "who": "felix",
+     "who_name": "小狐",
+     "zh": "五月，我有一个生日蛋糕。"
+    },
+    {
+     "en": "I make a wish!",
+     "who": "felix",
+     "who_name": "小狐",
+     "zh": "我许个愿！"
+    }
+   ],
+   "narr": "五月到了！生日蛋糕上插着蜡烛，Felix 闭上眼睛，轻轻许了一个愿。",
+   "spots": [
+    {
+     "kind": "obj",
+     "who": "cake",
+     "box": [
+      0.179,
+      0.612,
+      0.477,
+      0.875
+     ],
+     "say": "birthday",
+     "zh": "生日"
+    },
+    {
+     "kind": "obj",
+     "who": "candle",
+     "box": [
+      0.248,
+      0.467,
+      0.412,
+      0.678
+     ],
+     "say": "candle",
+     "zh": "蜡烛"
+    },
+    {
+     "who": "felix",
+     "box": [
+      0.425,
+      0.072,
+      0.891,
+      0.802
+     ],
+     "say": "In May, I have a birthday cake.",
+     "zh": "五月，我有一个生日蛋糕。"
+    }
+   ]
+  },
+  {
+   "img": "p6.webp",
+   "lines": [
+    {
+     "en": "Happy birthday, Felix!",
+     "who": "felix",
+     "who_name": "小狐",
+     "zh": "Felix，生日快乐！"
+    },
+    {
+     "en": "I like my birthday!",
+     "who": "felix",
+     "who_name": "小狐",
+     "zh": "我喜欢我的生日！"
+    }
+   ],
+   "narr": "朋友们送上礼物，一起唱生日歌。Felix 笑着说：我喜欢我的生日！",
+   "spots": [
+    {
+     "kind": "obj",
+     "who": "present",
+     "box": [
+      0.279,
+      0.525,
+      0.41,
+      0.71
+     ],
+     "say": "present",
+     "zh": "礼物"
+    },
+    {
+     "who": "felix",
+     "box": [
+      0.42,
+      0.24,
+      0.71,
+      0.785
+     ],
+     "say": "I like my birthday!",
+     "zh": "我喜欢我的生日！"
+    },
+    {
+     "kind": "obj",
+     "who": "cake",
+     "box": [
+      0.365,
+      0.66,
+      0.585,
+      0.907
+     ],
+     "say": "birthday",
+     "zh": "生日"
+    }
+   ]
+  }
+ ],
+ "taskA": {
+  "options": [
+   "When is your birthday?",
+   "January is cold.",
+   "Happy birthday, Felix!"
+  ],
+  "right_msg": "对啦！这句是「你的生日在什么时候？」",
+  "target": "When is your birthday?",
+  "wrong_msg": "再听一遍，听听是不是在问生日。"
+ },
+ "taskB": {
+  "done_msg": "三对全配上啦！",
+  "instruction": "先点一个英文词，再点对应的中文词，配成一对。",
+  "left": [
+   {
+    "k": "w-birthday",
+    "label": "birthday"
+   },
+   {
+    "k": "w-may",
+    "label": "May"
+   },
+   {
+    "k": "w-candle",
+    "label": "candle"
+   }
+  ],
+  "right": [
+   {
+    "k": "w-may",
+    "label": "五月",
+    "say": "May"
+   },
+   {
+    "k": "w-candle",
+    "label": "蜡烛",
+    "say": "candle"
+   },
+   {
+    "k": "w-birthday",
+    "label": "生日",
+    "say": "birthday"
+   }
+  ],
+  "title": "生日配一配"
+ },
+ "taskC": [
+  [
+   "When is your birthday?",
+   "你的生日在什么时候？"
+  ],
+  [
+   "My birthday is in May.",
+   "我的生日在五月。"
+  ],
+  [
+   "January is cold.",
+   "一月很冷。"
+  ],
+  [
+   "March is warm.",
+   "三月很暖和。"
+  ],
+  [
+   "I make a wish!",
+   "我许个愿！"
+  ]
+ ],
+ "title_en": "Felix and His Birthday!",
+ "title_zh": "生日与月份",
+ "words": [
+  [
+   "birthday",
+   "生日"
+  ],
+  [
+   "January",
+   "一月"
+  ],
+  [
+   "February",
+   "二月"
+  ],
+  [
+   "March",
+   "三月"
+  ],
+  [
+   "April",
+   "四月"
+  ],
+  [
+   "May",
+   "五月"
+  ],
+  [
+   "June",
+   "六月"
+  ],
+  [
+   "candle",
+   "蜡烛"
+  ],
+  [
+   "wish",
+   "愿望"
+  ],
+  [
+   "present",
+   "礼物"
+  ]
+ ],
+ "cover_spots": [
+  {
+   "who": "felix",
+   "box": [
+    0.179,
+    0.232,
+    0.54,
+    0.84
+   ],
+   "say": "When is your birthday?",
+   "zh": "你的生日在什么时候？"
+  },
+  {
+   "kind": "obj",
+   "who": "cake",
+   "box": [
+    0.541,
+    0.58,
+    0.757,
+    0.774
+   ],
+   "say": "birthday",
+   "zh": "生日"
+  },
+  {
+   "kind": "obj",
+   "who": "candle",
+   "box": [
+    0.578,
+    0.502,
+    0.724,
+    0.655
+   ],
+   "say": "candle",
+   "zh": "蜡烛"
+  }
+ ]
+}

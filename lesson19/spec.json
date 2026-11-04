@@ -1,0 +1,425 @@
+{
+ "audio_texts": [
+  "Ruby's Day!",
+  "I wake up in the morning.",
+  "I get up at seven o'clock.",
+  "I wash my face.",
+  "I brush my teeth.",
+  "I eat breakfast in the morning.",
+  "I go to school at eight o'clock.",
+  "I eat lunch at school.",
+  "I play with my friends.",
+  "I do my homework.",
+  "I go to sleep at night.",
+  "wake up",
+  "get up",
+  "wash face",
+  "brush teeth",
+  "breakfast",
+  "school",
+  "lunch",
+  "play",
+  "homework",
+  "sleep"
+ ],
+ "chapter": "第 5 章 · 上学去",
+ "cover_img": "cover.webp",
+ "cover_line": {
+  "en": "I get up in the morning.",
+  "zh": "我早上起床。点句子可以听发音"
+ },
+ "cover_sub": "第 19 课 · 我的一天：小兔 Ruby 从早上起床到晚上睡觉，一天都做了什么？",
+ "finish_title": "这一课，你认识了 Ruby 一天的作息 🎉",
+ "key": [
+  [
+   "I wake up in the morning.",
+   "我早上醒来。"
+  ],
+  [
+   "I get up at seven o'clock.",
+   "我七点起床。"
+  ],
+  [
+   "I wash my face.",
+   "我洗脸。"
+  ],
+  [
+   "I brush my teeth.",
+   "我刷牙。"
+  ],
+  [
+   "I go to school at eight o'clock.",
+   "我八点去上学。"
+  ],
+  [
+   "I go to sleep at night.",
+   "我晚上睡觉。"
+  ]
+ ],
+ "num": 19,
+ "pages": [
+  {
+   "img": "p2.webp",
+   "lines": [
+    {
+     "en": "I wake up in the morning.",
+     "who": "ruby",
+     "who_name": "小兔",
+     "zh": "我早上醒来。"
+    },
+    {
+     "en": "I get up at seven o'clock.",
+     "who": "ruby",
+     "who_name": "小兔",
+     "zh": "我七点起床。"
+    }
+   ],
+   "narr": "早上七点，闹钟一响，Ruby 醒来了，她揉揉眼睛，从床上起来。",
+   "spots": [
+    {
+     "who": "ruby",
+     "box": [
+      0.298,
+      0.12,
+      0.615,
+      0.775
+     ],
+     "say": "I wake up in the morning.",
+     "zh": "我早上醒来。"
+    }
+   ]
+  },
+  {
+   "img": "p3.webp",
+   "lines": [
+    {
+     "en": "I wash my face.",
+     "who": "ruby",
+     "who_name": "小兔",
+     "zh": "我洗脸。"
+    },
+    {
+     "en": "I brush my teeth.",
+     "who": "ruby",
+     "who_name": "小兔",
+     "zh": "我刷牙。"
+    }
+   ],
+   "narr": "Ruby 走到洗手间，先洗脸，再拿起小牙刷，认认真真刷牙。",
+   "spots": [
+    {
+     "who": "ruby",
+     "box": [
+      0.218,
+      0.033,
+      0.682,
+      0.965
+     ],
+     "say": "I wash my face.",
+     "zh": "我洗脸。"
+    },
+    {
+     "kind": "obj",
+     "who": "toothbrush",
+     "box": [
+      0.56,
+      0.444,
+      0.698,
+      0.59
+     ],
+     "say": "brush teeth",
+     "zh": "刷牙"
+    }
+   ]
+  },
+  {
+   "img": "p4.webp",
+   "lines": [
+    {
+     "en": "I eat breakfast in the morning.",
+     "who": "ruby",
+     "who_name": "小兔",
+     "zh": "我早上吃早餐。"
+    },
+    {
+     "en": "I go to school at eight o'clock.",
+     "who": "ruby",
+     "who_name": "小兔",
+     "zh": "我八点去上学。"
+    }
+   ],
+   "narr": "吃完早餐，Ruby 背上天蓝书包，八点准时出门去上学。",
+   "spots": [
+    {
+     "kind": "obj",
+     "who": "school",
+     "box": [
+      0.51,
+      0.145,
+      0.776,
+      0.515
+     ],
+     "say": "school",
+     "zh": "学校"
+    },
+    {
+     "who": "ruby",
+     "box": [
+      0.108,
+      0.15,
+      0.342,
+      0.71
+     ],
+     "say": "I eat breakfast in the morning.",
+     "zh": "我早上吃早餐。"
+    },
+    {
+     "who": "ruby",
+     "box": [
+      0.627,
+      0.295,
+      0.843,
+      0.862
+     ],
+     "say": "I go to school at eight o'clock.",
+     "zh": "我八点去上学。"
+    },
+    {
+     "kind": "obj",
+     "who": "breakfast",
+     "box": [
+      0.111,
+      0.572,
+      0.491,
+      0.872
+     ],
+     "say": "breakfast",
+     "zh": "早餐"
+    }
+   ]
+  },
+  {
+   "img": "p5.webp",
+   "lines": [
+    {
+     "en": "I eat lunch at school.",
+     "who": "ruby",
+     "who_name": "小兔",
+     "zh": "我在学校吃午餐。"
+    },
+    {
+     "en": "I play with my friends.",
+     "who": "ruby",
+     "who_name": "小兔",
+     "zh": "我和朋友们一起玩。"
+    }
+   ],
+   "narr": "中午，Ruby 在学校吃午餐，吃完饭和朋友们在操场上一起玩。",
+   "spots": [
+    {
+     "who": "ruby",
+     "box": [
+      0.282,
+      0.148,
+      0.568,
+      0.829
+     ],
+     "say": "I eat lunch at school.",
+     "zh": "我在学校吃午餐。"
+    },
+    {
+     "kind": "obj",
+     "who": "lunch",
+     "box": [
+      0.49,
+      0.755,
+      0.64,
+      0.88
+     ],
+     "say": "lunch",
+     "zh": "午餐"
+    }
+   ]
+  },
+  {
+   "img": "p6.webp",
+   "lines": [
+    {
+     "en": "I do my homework.",
+     "who": "ruby",
+     "who_name": "小兔",
+     "zh": "我做作业。"
+    },
+    {
+     "en": "I go to sleep at night.",
+     "who": "ruby",
+     "who_name": "小兔",
+     "zh": "我晚上睡觉。"
+    }
+   ],
+   "narr": "放学回家，Ruby 先做完作业，晚上早早上床睡觉，一天过得真充实！",
+   "spots": [
+    {
+     "kind": "obj",
+     "who": "bed",
+     "box": [
+      0.508,
+      0.283,
+      0.975,
+      0.756
+     ],
+     "say": "sleep",
+     "zh": "睡觉"
+    },
+    {
+     "who": "ruby",
+     "box": [
+      0.168,
+      0.202,
+      0.54,
+      0.946
+     ],
+     "say": "I do my homework.",
+     "zh": "我做作业。"
+    },
+    {
+     "kind": "obj",
+     "who": "homework",
+     "box": [
+      0.368,
+      0.694,
+      0.671,
+      0.84
+     ],
+     "say": "homework",
+     "zh": "作业"
+    }
+   ]
+  }
+ ],
+ "taskA": {
+  "options": [
+   "I get up at seven o'clock.",
+   "I wash my face.",
+   "I go to sleep at night."
+  ],
+  "right_msg": "对啦！这句是「我七点起床。」",
+  "target": "I get up at seven o'clock.",
+  "wrong_msg": "再听一遍，听听是不是在说七点起床。"
+ },
+ "taskB": {
+  "done_msg": "三对全配上啦！",
+  "instruction": "先点一个英文词，再点对应的中文词，配成一对。",
+  "left": [
+   {
+    "k": "c-getup",
+    "label": "get up"
+   },
+   {
+    "k": "c-lunch",
+    "label": "lunch"
+   },
+   {
+    "k": "c-homework",
+    "label": "homework"
+   }
+  ],
+  "right": [
+   {
+    "k": "c-lunch",
+    "label": "午餐",
+    "say": "lunch"
+   },
+   {
+    "k": "c-getup",
+    "label": "起床",
+    "say": "get up"
+   },
+   {
+    "k": "c-homework",
+    "label": "作业",
+    "say": "homework"
+   }
+  ],
+  "title": "作息配一配"
+ },
+ "taskC": [
+  [
+   "I wake up in the morning.",
+   "我早上醒来。"
+  ],
+  [
+   "I get up at seven o'clock.",
+   "我七点起床。"
+  ],
+  [
+   "I wash my face.",
+   "我洗脸。"
+  ],
+  [
+   "I eat breakfast in the morning.",
+   "我早上吃早餐。"
+  ],
+  [
+   "I go to sleep at night.",
+   "我晚上睡觉。"
+  ]
+ ],
+ "title_en": "Ruby's Day!",
+ "title_zh": "小兔的一天",
+ "words": [
+  [
+   "wake up",
+   "醒来"
+  ],
+  [
+   "get up",
+   "起床"
+  ],
+  [
+   "wash face",
+   "洗脸"
+  ],
+  [
+   "brush teeth",
+   "刷牙"
+  ],
+  [
+   "breakfast",
+   "早餐"
+  ],
+  [
+   "school",
+   "学校"
+  ],
+  [
+   "lunch",
+   "午餐"
+  ],
+  [
+   "play",
+   "玩"
+  ],
+  [
+   "homework",
+   "作业"
+  ],
+  [
+   "sleep",
+   "睡觉"
+  ]
+ ],
+ "cover_spots": [
+  {
+   "who": "ruby",
+   "box": [
+    0.33,
+    0.145,
+    0.59,
+    0.935
+   ],
+   "say": "I wake up in the morning.",
+   "zh": "我早上醒来。"
+  }
+ ]
+}
