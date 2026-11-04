@@ -1,0 +1,480 @@
+{
+ "audio_texts": [
+  "Milo's Story Time!",
+  "Welcome to story time!",
+  "Let's tell stories together!",
+  "Do you like cookies?",
+  "Yes! I like cookies!",
+  "Can you jump?",
+  "Yes, I can jump!",
+  "Listen to my story!",
+  "On Monday, we have English.",
+  "Excuse me, where is the library?",
+  "Go straight! The library is on the left.",
+  "story",
+  "together",
+  "listen",
+  "wonderful",
+  "again",
+  "show",
+  "game",
+  "picture",
+  "happy",
+  "laugh",
+  "cookie",
+  "tree",
+  "library",
+  "Hello! I am Felix!"
+ ],
+ "chapter": "第 8 章 · 讲个故事吧",
+ "cover_img": "cover.webp",
+ "cover_line": {
+  "en": "Welcome to story time!",
+  "zh": "欢迎来到故事时间！点句子可以听发音"
+ },
+ "cover_sub": "第 29 课 · 能力综合——Milo 和 Coco 主持故事会，老朋友们都来讲故事。",
+ "finish_title": "这一课，你综合运用了食物、能力、学校和问路 🎉",
+ "key": [
+  [
+   "Welcome to story time!",
+   "欢迎来到故事时间！"
+  ],
+  [
+   "Let's tell stories together!",
+   "我们一起讲故事吧！"
+  ],
+  [
+   "Listen to my story!",
+   "听听我的故事！"
+  ],
+  [
+   "Can you jump?",
+   "你会跳吗？"
+  ],
+  [
+   "Excuse me, where is the library?",
+   "请问，图书馆在哪儿？"
+  ]
+ ],
+ "num": 29,
+ "pages": [
+  {
+   "img": "p2.webp",
+   "lines": [
+    {
+     "en": "Welcome to story time!",
+     "who": "milo",
+     "who_name": "小猫",
+     "zh": "欢迎来到故事时间！"
+    },
+    {
+     "en": "Let's tell stories together!",
+     "who": "coco",
+     "who_name": "小狗",
+     "zh": "我们一起讲故事吧！"
+    }
+   ],
+   "narr": "故事会开始啦！Milo 说：欢迎来到故事时间！Coco 说：我们一起讲故事吧！",
+   "spots": [
+    {
+     "box": [
+      0.294,
+      0.738,
+      0.725,
+      0.976
+     ],
+     "who": "picture",
+     "say": "picture",
+     "zh": "图画",
+     "kind": "obj"
+    },
+    {
+     "box": [
+      0.056,
+      0.12,
+      0.501,
+      0.869
+     ],
+     "who": "milo",
+     "say": "Welcome to story time!",
+     "zh": "欢迎来到故事时间！"
+    },
+    {
+     "box": [
+      0.639,
+      0.336,
+      0.981,
+      0.882
+     ],
+     "who": "coco",
+     "say": "Let's tell stories together!",
+     "zh": "我们一起讲故事吧！"
+    }
+   ]
+  },
+  {
+   "img": "p3.webp",
+   "lines": [
+    {
+     "en": "Do you like cookies?",
+     "who": "milo",
+     "who_name": "小猫",
+     "zh": "你喜欢饼干吗？"
+    },
+    {
+     "en": "Yes! I like cookies!",
+     "who": "benny",
+     "who_name": "小熊",
+     "zh": "喜欢！我喜欢饼干！"
+    }
+   ],
+   "narr": "小熊 Benny 带来了饼干。Milo 问：你喜欢饼干吗？Benny 说：喜欢！我喜欢饼干！",
+   "spots": [
+    {
+     "box": [
+      0.048,
+      0.175,
+      0.473,
+      0.998
+     ],
+     "who": "milo",
+     "say": "Do you like cookies?",
+     "zh": "你喜欢饼干吗？"
+    },
+    {
+     "box": [
+      0.54,
+      0.203,
+      0.945,
+      0.955
+     ],
+     "who": "benny",
+     "say": "Yes! I like cookies!",
+     "zh": "喜欢！我喜欢饼干！"
+    },
+    {
+     "box": [
+      0.405,
+      0.685,
+      0.7,
+      0.818
+     ],
+     "who": "cookie",
+     "say": "cookie",
+     "zh": "饼干",
+     "kind": "obj"
+    }
+   ]
+  },
+  {
+   "img": "p4.webp",
+   "lines": [
+    {
+     "en": "Can you jump?",
+     "who": "pip",
+     "who_name": "松鼠",
+     "zh": "你会跳吗？"
+    },
+    {
+     "en": "Yes, I can jump!",
+     "who": "coco",
+     "who_name": "小狗",
+     "zh": "会！我会跳！"
+    }
+   ],
+   "narr": "松鼠 Pip 在树枝上跳来跳去，问 Coco：你会跳吗？Coco 也跳起来：会！我会跳！",
+   "spots": [
+    {
+     "box": [
+      0.0,
+      0.05,
+      0.105,
+      0.85
+     ],
+     "who": "tree",
+     "say": "tree",
+     "zh": "树",
+     "kind": "obj"
+    },
+    {
+     "box": [
+      0.193,
+      0.04,
+      0.66,
+      0.405
+     ],
+     "who": "pip",
+     "say": "Can you jump?",
+     "zh": "你会跳吗？"
+    },
+    {
+     "box": [
+      0.21,
+      0.505,
+      0.485,
+      0.97
+     ],
+     "who": "coco",
+     "say": "Yes, I can jump!",
+     "zh": "会！我会跳！"
+    }
+   ]
+  },
+  {
+   "img": "p5.webp",
+   "lines": [
+    {
+     "en": "Listen to my story!",
+     "who": "ruby",
+     "who_name": "小兔",
+     "zh": "听听我的故事！"
+    },
+    {
+     "en": "On Monday, we have English.",
+     "who": "ruby",
+     "who_name": "小兔",
+     "zh": "星期一，我们有英语课。"
+    }
+   ],
+   "narr": "小兔 Ruby 打开图画书，讲起学校的故事：听听我的故事！星期一，我们有英语课。",
+   "spots": [
+    {
+     "box": [
+      0.088,
+      0.07,
+      0.432,
+      0.755
+     ],
+     "who": "ruby",
+     "say": "Listen to my story!",
+     "zh": "听听我的故事！"
+    },
+    {
+     "box": [
+      0.543,
+      0.314,
+      0.938,
+      0.913
+     ],
+     "who": "felix",
+     "say": "Hello! I am Felix!",
+     "zh": "你好！我是小狐狸！"
+    },
+    {
+     "box": [
+      0.293,
+      0.412,
+      0.524,
+      0.698
+     ],
+     "who": "picture",
+     "say": "picture",
+     "zh": "图画",
+     "kind": "obj"
+    }
+   ]
+  },
+  {
+   "img": "p6.webp",
+   "lines": [
+    {
+     "en": "Excuse me, where is the library?",
+     "who": "daisy",
+     "who_name": "小鸭",
+     "zh": "请问，图书馆在哪儿？"
+    },
+    {
+     "en": "Go straight! The library is on the left.",
+     "who": "milo",
+     "who_name": "小猫",
+     "zh": "一直走！图书馆在左边。"
+    }
+   ],
+   "narr": "小鸭 Daisy 想去图书馆：请问，图书馆在哪儿？Milo 指着路说：一直走！图书馆在左边。",
+   "spots": [
+    {
+     "box": [
+      0.0,
+      0.0,
+      0.145,
+      0.61
+     ],
+     "who": "library",
+     "say": "library",
+     "zh": "图书馆",
+     "kind": "obj"
+    },
+    {
+     "box": [
+      0.149,
+      0.238,
+      0.611,
+      0.917
+     ],
+     "who": "milo",
+     "say": "Go straight! The library is on the left.",
+     "zh": "一直走！图书馆在左边。"
+    },
+    {
+     "box": [
+      0.562,
+      0.464,
+      0.825,
+      0.926
+     ],
+     "who": "daisy",
+     "say": "Excuse me, where is the library?",
+     "zh": "请问，图书馆在哪儿？"
+    }
+   ]
+  }
+ ],
+ "taskA": {
+  "options": [
+   "Can you jump?",
+   "Excuse me, where is the library?",
+   "Let's tell stories together!"
+  ],
+  "right_msg": "对啦！这句是在问图书馆在哪儿。",
+  "target": "Excuse me, where is the library?",
+  "wrong_msg": "再听一遍，听听是不是在问图书馆在哪儿。"
+ },
+ "taskB": {
+  "done_msg": "三对全配上啦！",
+  "instruction": "先点一个英文词，再点对应的中文词，配成一对。",
+  "left": [
+   {
+    "k": "w-story",
+    "label": "story"
+   },
+   {
+    "k": "w-together",
+    "label": "together"
+   },
+   {
+    "k": "w-game",
+    "label": "game"
+   }
+  ],
+  "right": [
+   {
+    "k": "w-game",
+    "label": "游戏",
+    "say": "game"
+   },
+   {
+    "k": "w-story",
+    "label": "故事",
+    "say": "story"
+   },
+   {
+    "k": "w-together",
+    "label": "一起",
+    "say": "together"
+   }
+  ],
+  "title": "故事配一配"
+ },
+ "taskC": [
+  [
+   "Welcome to story time!",
+   "欢迎来到故事时间！"
+  ],
+  [
+   "Let's tell stories together!",
+   "我们一起讲故事吧！"
+  ],
+  [
+   "Listen to my story!",
+   "听听我的故事！"
+  ],
+  [
+   "Can you jump?",
+   "你会跳吗？"
+  ],
+  [
+   "Excuse me, where is the library?",
+   "请问，图书馆在哪儿？"
+  ]
+ ],
+ "title_en": "Milo's Story Time!",
+ "title_zh": "能力综合：故事时间",
+ "words": [
+  [
+   "story",
+   "故事"
+  ],
+  [
+   "together",
+   "一起"
+  ],
+  [
+   "listen",
+   "听"
+  ],
+  [
+   "wonderful",
+   "精彩的"
+  ],
+  [
+   "again",
+   "再一次"
+  ],
+  [
+   "show",
+   "展示"
+  ],
+  [
+   "game",
+   "游戏"
+  ],
+  [
+   "picture",
+   "图画"
+  ],
+  [
+   "happy",
+   "开心的"
+  ],
+  [
+   "laugh",
+   "笑"
+  ]
+ ],
+ "cover_spots": [
+  {
+   "box": [
+    0.076,
+    0.165,
+    0.535,
+    0.86
+   ],
+   "who": "milo",
+   "say": "Welcome to story time!",
+   "zh": "欢迎来到故事时间！"
+  },
+  {
+   "box": [
+    0.528,
+    0.244,
+    0.893,
+    0.808
+   ],
+   "who": "coco",
+   "say": "Let's tell stories together!",
+   "zh": "我们一起讲故事吧！"
+  },
+  {
+   "box": [
+    0.26,
+    0.734,
+    0.755,
+    0.963
+   ],
+   "who": "picture",
+   "say": "picture",
+   "zh": "图画",
+   "kind": "obj"
+  }
+ ]
+}

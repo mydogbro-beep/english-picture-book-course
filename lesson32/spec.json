@@ -1,0 +1,519 @@
+{
+ "audio_texts": [
+  "Milo's Story Party!",
+  "Welcome to our story party!",
+  "Welcome to our story party!",
+  "All our friends are here!",
+  "Yesterday, we played in the park!",
+  "Tomorrow, we will go to the zoo!",
+  "I like cookies!",
+  "I can jump!",
+  "I like spring best!",
+  "Let's go to the park!",
+  "Thank you, my friends!",
+  "Goodbye! See you again!",
+  "party",
+  "photo",
+  "medal",
+  "star",
+  "proud",
+  "friends",
+  "together",
+  "story",
+  "happy",
+  "goodbye",
+  "Hello! I am Coco!",
+  "camera",
+  "Hello! I am Benny!",
+  "gate",
+  "picture",
+  "cookie",
+  "Hello! I am Ruby!",
+  "kite"
+ ],
+ "chapter": "第 8 章 · 讲个故事吧",
+ "cover_img": "cover.webp",
+ "cover_line": {
+  "en": "Welcome to our story party!",
+  "zh": "欢迎来到我们的故事会！点句子可以听发音"
+ },
+ "cover_spots": [
+  {
+   "who": "camera",
+   "say": "camera",
+   "zh": "照相机",
+   "box": [
+    0.825,
+    0.112,
+    0.968,
+    0.516
+   ],
+   "kind": "obj"
+  },
+  {
+   "who": "milo",
+   "say": "Welcome to our story party!",
+   "zh": "欢迎来到我们的故事会！",
+   "box": [
+    0.044,
+    0.46,
+    0.396,
+    0.985
+   ]
+  },
+  {
+   "who": "coco",
+   "say": "Hello! I am Coco!",
+   "zh": "你好！我是小狗！",
+   "box": [
+    0.336,
+    0.549,
+    0.513,
+    0.955
+   ]
+  }
+ ],
+ "cover_sub": "第 32 课 · 毕业故事《Milo 的故事会》——所有好朋友都回来啦，一起开故事会、拍合影。",
+ "finish_title": "这一课，你学会了把学过的句子串成一个故事，还拿到了毕业徽章 🎉",
+ "key": [
+  [
+   "Welcome to our story party!",
+   "欢迎来到我们的故事会！"
+  ],
+  [
+   "Yesterday, we played in the park!",
+   "昨天，我们在公园里玩！"
+  ],
+  [
+   "Tomorrow, we will go to the zoo!",
+   "明天，我们要去动物园！"
+  ],
+  [
+   "Thank you, my friends!",
+   "谢谢你们，我的朋友们！"
+  ],
+  [
+   "Goodbye! See you again!",
+   "再见！我们再见！"
+  ]
+ ],
+ "num": 32,
+ "pages": [
+  {
+   "img": "p2.webp",
+   "lines": [
+    {
+     "en": "Welcome to our story party!",
+     "who": "milo",
+     "who_name": "小猫",
+     "zh": "欢迎来到我们的故事会！"
+    },
+    {
+     "en": "All our friends are here!",
+     "who": "coco",
+     "who_name": "小狗",
+     "zh": "所有的朋友都来啦！"
+    }
+   ],
+   "narr": "Milo 和 Coco 开故事会，所有好朋友都来了。",
+   "spots": [
+    {
+     "who": "gate",
+     "say": "gate",
+     "zh": "大门",
+     "box": [
+      0.085,
+      0.12,
+      0.36,
+      0.48
+     ],
+     "kind": "obj"
+    },
+    {
+     "who": "milo",
+     "say": "Welcome to our story party!",
+     "zh": "欢迎来到我们的故事会！",
+     "box": [
+      0.065,
+      0.354,
+      0.354,
+      0.925
+     ]
+    },
+    {
+     "who": "coco",
+     "say": "All our friends are here!",
+     "zh": "所有的朋友都来啦！",
+     "box": [
+      0.285,
+      0.523,
+      0.486,
+      0.902
+     ]
+    },
+    {
+     "who": "benny",
+     "say": "Hello! I am Benny!",
+     "zh": "你好！我是小熊！",
+     "box": [
+      0.5,
+      0.276,
+      0.674,
+      0.737
+     ]
+    }
+   ]
+  },
+  {
+   "img": "p3.webp",
+   "lines": [
+    {
+     "en": "Yesterday, we played in the park!",
+     "who": "milo",
+     "who_name": "小猫",
+     "zh": "昨天，我们在公园里玩！"
+    },
+    {
+     "en": "Tomorrow, we will go to the zoo!",
+     "who": "coco",
+     "who_name": "小狗",
+     "zh": "明天，我们要去动物园！"
+    }
+   ],
+   "narr": "大家一起回忆昨天、说说明天。",
+   "spots": [
+    {
+     "who": "kite",
+     "say": "kite",
+     "zh": "风筝",
+     "box": [
+      0.72,
+      0.074,
+      0.892,
+      0.291
+     ],
+     "kind": "obj"
+    },
+    {
+     "who": "picture",
+     "say": "picture",
+     "zh": "图画",
+     "box": [
+      0.251,
+      0.702,
+      0.843,
+      0.971
+     ],
+     "kind": "obj"
+    },
+    {
+     "who": "milo",
+     "say": "Yesterday, we played in the park!",
+     "zh": "昨天，我们在公园里玩！",
+     "box": [
+      0.112,
+      0.203,
+      0.496,
+      0.793
+     ]
+    },
+    {
+     "who": "coco",
+     "say": "Tomorrow, we will go to the zoo!",
+     "zh": "明天，我们要去动物园！",
+     "box": [
+      0.523,
+      0.325,
+      0.877,
+      0.757
+     ]
+    }
+   ]
+  },
+  {
+   "img": "p4.webp",
+   "lines": [
+    {
+     "en": "I like cookies!",
+     "who": "benny",
+     "who_name": "小熊",
+     "zh": "我喜欢饼干！"
+    },
+    {
+     "en": "I can jump!",
+     "who": "pip",
+     "who_name": "松鼠",
+     "zh": "我会跳！"
+    }
+   ],
+   "narr": "小熊说喜欢饼干，松鼠说会跳得高高的。",
+   "spots": [
+    {
+     "who": "benny",
+     "say": "I like cookies!",
+     "zh": "我喜欢饼干！",
+     "box": [
+      0.165,
+      0.145,
+      0.59,
+      0.89
+     ]
+    },
+    {
+     "who": "pip",
+     "say": "I can jump!",
+     "zh": "我会跳！",
+     "box": [
+      0.508,
+      0.07,
+      0.905,
+      0.615
+     ]
+    },
+    {
+     "who": "cookie",
+     "say": "cookie",
+     "zh": "饼干",
+     "box": [
+      0.354,
+      0.518,
+      0.553,
+      0.64
+     ],
+     "kind": "obj"
+    }
+   ]
+  },
+  {
+   "img": "p5.webp",
+   "lines": [
+    {
+     "en": "I like spring best!",
+     "who": "felix",
+     "who_name": "小狐狸",
+     "zh": "我最喜欢春天！"
+    },
+    {
+     "en": "Let's go to the park!",
+     "who": "daisy",
+     "who_name": "小鸭",
+     "zh": "我们一起去公园吧！"
+    }
+   ],
+   "narr": "小狐狸和小鸭也来讲自己的故事。",
+   "spots": [
+    {
+     "who": "kite",
+     "say": "kite",
+     "zh": "风筝",
+     "box": [
+      0.508,
+      0.098,
+      0.677,
+      0.326
+     ],
+     "kind": "obj"
+    },
+    {
+     "who": "felix",
+     "say": "I like spring best!",
+     "zh": "我最喜欢春天！",
+     "box": [
+      0.076,
+      0.212,
+      0.494,
+      0.851
+     ]
+    },
+    {
+     "who": "daisy",
+     "say": "Let's go to the park!",
+     "zh": "我们一起去公园吧！",
+     "box": [
+      0.48,
+      0.414,
+      0.656,
+      0.789
+     ]
+    },
+    {
+     "who": "ruby",
+     "say": "Hello! I am Ruby!",
+     "zh": "你好！我是小兔！",
+     "box": [
+      0.611,
+      0.272,
+      0.893,
+      0.905
+     ]
+    }
+   ]
+  },
+  {
+   "img": "p6.webp",
+   "lines": [
+    {
+     "en": "Thank you, my friends!",
+     "who": "milo",
+     "who_name": "小猫",
+     "zh": "谢谢你们，我的朋友们！"
+    },
+    {
+     "en": "Goodbye! See you again!",
+     "who": "coco",
+     "who_name": "小狗",
+     "zh": "再见！我们再见！"
+    }
+   ],
+   "narr": "大家拍一张合影，说谢谢、说再见——毕业快乐！",
+   "spots": [
+    {
+     "who": "star",
+     "say": "star",
+     "zh": "星星",
+     "box": [
+      0.438,
+      0.158,
+      0.484,
+      0.215
+     ],
+     "kind": "obj"
+    },
+    {
+     "who": "milo",
+     "say": "Thank you, my friends!",
+     "zh": "谢谢你们，我的朋友们！",
+     "box": [
+      0.31,
+      0.307,
+      0.482,
+      0.867
+     ]
+    },
+    {
+     "who": "coco",
+     "say": "Goodbye! See you again!",
+     "zh": "再见！我们再见！",
+     "box": [
+      0.459,
+      0.258,
+      0.67,
+      0.73
+     ]
+    }
+   ]
+  }
+ ],
+ "taskA": {
+  "options": [
+   "Welcome to our story party!",
+   "Yesterday, we played in the park!",
+   "Tomorrow, we will go to the zoo!"
+  ],
+  "right_msg": "对啦！这句是在说欢迎来到故事会。",
+  "target": "Welcome to our story party!",
+  "wrong_msg": "再听一遍，听听是不是在说故事会。"
+ },
+ "taskB": {
+  "done_msg": "三对全配上啦！",
+  "instruction": "先点一个英文词，再点对应的中文词，配成一对。",
+  "left": [
+   {
+    "k": "w-party",
+    "label": "party"
+   },
+   {
+    "k": "w-photo",
+    "label": "photo"
+   },
+   {
+    "k": "w-medal",
+    "label": "medal"
+   }
+  ],
+  "right": [
+   {
+    "k": "w-medal",
+    "label": "奖牌",
+    "say": "medal"
+   },
+   {
+    "k": "w-party",
+    "label": "派对",
+    "say": "party"
+   },
+   {
+    "k": "w-photo",
+    "label": "照片",
+    "say": "photo"
+   }
+  ],
+  "title": "故事会配一配"
+ },
+ "taskC": [
+  [
+   "Welcome to our story party!",
+   "欢迎来到我们的故事会！"
+  ],
+  [
+   "Yesterday, we played in the park!",
+   "昨天，我们在公园里玩！"
+  ],
+  [
+   "Tomorrow, we will go to the zoo!",
+   "明天，我们要去动物园！"
+  ],
+  [
+   "Thank you, my friends!",
+   "谢谢你们，我的朋友们！"
+  ],
+  [
+   "Goodbye! See you again!",
+   "再见！我们再见！"
+  ]
+ ],
+ "title_en": "Milo's Story Party!",
+ "title_zh": "毕业故事《Milo 的故事会》",
+ "words": [
+  [
+   "party",
+   "派对"
+  ],
+  [
+   "photo",
+   "照片"
+  ],
+  [
+   "medal",
+   "奖牌"
+  ],
+  [
+   "star",
+   "星星"
+  ],
+  [
+   "proud",
+   "骄傲的"
+  ],
+  [
+   "friends",
+   "朋友们"
+  ],
+  [
+   "together",
+   "一起"
+  ],
+  [
+   "story",
+   "故事"
+  ],
+  [
+   "happy",
+   "开心的"
+  ],
+  [
+   "goodbye",
+   "再见"
+  ]
+ ]
+}

@@ -1,0 +1,469 @@
+{
+ "audio_texts": [
+  "Daisy and the Market Day!",
+  "Let's go to the market!",
+  "The market is near the park.",
+  "Excuse me, where is the market?",
+  "Go straight! Turn left at the corner.",
+  "The market is on the left.",
+  "Look! A doll!",
+  "How much is the doll?",
+  "It is five yuan.",
+  "Here is the money.",
+  "I like the market day!",
+  "market",
+  "park",
+  "library",
+  "near",
+  "far",
+  "left",
+  "right",
+  "money",
+  "doll",
+  "kite",
+  "Hello! I am Hedgehog!"
+ ],
+ "chapter": "第 7 章 · 出门啦",
+ "cover_img": "cover.webp",
+ "cover_line": {
+  "en": "Let's go to the market!",
+  "zh": "我们去集市吧！点句子可以听发音"
+ },
+ "cover_spots": [
+  {
+   "box": [
+    0.448,
+    0.038,
+    0.576,
+    0.221
+   ],
+   "who": "kite",
+   "say": "kite",
+   "zh": "风筝",
+   "kind": "obj"
+  },
+  {
+   "box": [
+    0.334,
+    0.295,
+    0.645,
+    0.962
+   ],
+   "who": "daisy",
+   "say": "Let's go to the market!",
+   "zh": "我们去集市吧！"
+  },
+  {
+   "box": [
+    0.058,
+    0.224,
+    0.207,
+    0.548
+   ],
+   "who": "doll",
+   "say": "doll",
+   "zh": "娃娃",
+   "kind": "obj"
+  }
+ ],
+ "cover_sub": "第 28 课 · 复习课——集市日到了，小鸭 Daisy 去集市，复习地方、问路和买东西。",
+ "finish_title": "这一课，你复习了地方、问路和买东西 🎉",
+ "key": [
+  [
+   "Let's go to the market!",
+   "我们去集市吧！"
+  ],
+  [
+   "Excuse me, where is the market?",
+   "请问，集市在哪儿？"
+  ],
+  [
+   "Go straight! Turn left at the corner.",
+   "一直走，在拐角左转。"
+  ],
+  [
+   "How much is the doll?",
+   "娃娃多少钱？"
+  ],
+  [
+   "Here is the money.",
+   "给你钱。"
+  ]
+ ],
+ "num": 28,
+ "pages": [
+  {
+   "img": "p2.webp",
+   "lines": [
+    {
+     "en": "Let's go to the market!",
+     "who": "daisy",
+     "who_name": "小鸭",
+     "zh": "我们去集市吧！"
+    },
+    {
+     "en": "The market is near the park.",
+     "who": "daisy",
+     "who_name": "小鸭",
+     "zh": "集市在公园附近。"
+    }
+   ],
+   "narr": "集市日到了！Daisy 说：我们去集市吧！集市就在公园附近。",
+   "spots": [
+    {
+     "box": [
+      0.73,
+      0.14,
+      1.0,
+      0.53
+     ],
+     "who": "market",
+     "say": "market",
+     "zh": "集市",
+     "kind": "obj"
+    },
+    {
+     "box": [
+      0.31,
+      0.263,
+      0.633,
+      0.858
+     ],
+     "who": "daisy",
+     "say": "Let's go to the market!",
+     "zh": "我们去集市吧！"
+    },
+    {
+     "box": [
+      0.0,
+      0.0,
+      0.3,
+      0.48
+     ],
+     "who": "park",
+     "say": "park",
+     "zh": "公园",
+     "kind": "obj"
+    }
+   ]
+  },
+  {
+   "img": "p3.webp",
+   "lines": [
+    {
+     "en": "Excuse me, where is the market?",
+     "who": "daisy",
+     "who_name": "小鸭",
+     "zh": "请问，集市在哪儿？"
+    },
+    {
+     "en": "Go straight! Turn left at the corner.",
+     "who": "friend",
+     "who_name": "兔子姐姐",
+     "zh": "一直走，在拐角左转。"
+    }
+   ],
+   "narr": "路上，Daisy 向兔子姐姐问路：请问，集市在哪儿？——一直走，在拐角左转。",
+   "spots": [
+    {
+     "box": [
+      0.114,
+      0.472,
+      0.407,
+      1.0
+     ],
+     "who": "daisy",
+     "say": "Excuse me, where is the market?",
+     "zh": "请问，集市在哪儿？"
+    },
+    {
+     "box": [
+      0.468,
+      0.058,
+      0.872,
+      0.958
+     ],
+     "who": "friend",
+     "say": "Go straight! Turn left at the corner.",
+     "zh": "一直走，在拐角左转。"
+    }
+   ]
+  },
+  {
+   "img": "p4.webp",
+   "lines": [
+    {
+     "en": "The market is on the left.",
+     "who": "daisy",
+     "who_name": "小鸭",
+     "zh": "集市在左边。"
+    },
+    {
+     "en": "Look! A doll!",
+     "who": "daisy",
+     "who_name": "小鸭",
+     "zh": "看！一个娃娃！"
+    }
+   ],
+   "narr": "到了！集市在左边。Daisy 一眼看见摊位上一个漂亮的娃娃。",
+   "spots": [
+    {
+     "box": [
+      0.594,
+      0.161,
+      0.864,
+      0.651
+     ],
+     "who": "doll",
+     "say": "doll",
+     "zh": "娃娃",
+     "kind": "obj"
+    },
+    {
+     "box": [
+      0.085,
+      0.262,
+      0.416,
+      0.932
+     ],
+     "who": "daisy",
+     "say": "The market is on the left.",
+     "zh": "集市在左边。"
+    }
+   ]
+  },
+  {
+   "img": "p5.webp",
+   "lines": [
+    {
+     "en": "How much is the doll?",
+     "who": "daisy",
+     "who_name": "小鸭",
+     "zh": "娃娃多少钱？"
+    },
+    {
+     "en": "It is five yuan.",
+     "who": "daisy",
+     "who_name": "小鸭",
+     "zh": "五元。"
+    }
+   ],
+   "narr": "娃娃多少钱？五元！Daisy 拿出钱，准备买下娃娃。",
+   "spots": [
+    {
+     "box": [
+      0.55,
+      0.06,
+      0.907,
+      0.655
+     ],
+     "who": "hedgehog",
+     "say": "Hello! I am Hedgehog!",
+     "zh": "你好！我是刺猬！"
+    },
+    {
+     "box": [
+      0.095,
+      0.311,
+      0.499,
+      0.973
+     ],
+     "who": "daisy",
+     "say": "How much is the doll?",
+     "zh": "娃娃多少钱？"
+    },
+    {
+     "box": [
+      0.513,
+      0.531,
+      0.771,
+      0.797
+     ],
+     "who": "doll",
+     "say": "doll",
+     "zh": "娃娃",
+     "kind": "obj"
+    },
+    {
+     "box": [
+      0.315,
+      0.644,
+      0.484,
+      0.759
+     ],
+     "who": "money",
+     "say": "money",
+     "zh": "钱",
+     "kind": "obj"
+    }
+   ]
+  },
+  {
+   "img": "p6.webp",
+   "lines": [
+    {
+     "en": "Here is the money.",
+     "who": "daisy",
+     "who_name": "小鸭",
+     "zh": "给你钱。"
+    },
+    {
+     "en": "I like the market day!",
+     "who": "daisy",
+     "who_name": "小鸭",
+     "zh": "我喜欢集市日！"
+    }
+   ],
+   "narr": "Daisy 付了钱，提着袋子、抱着娃娃，开心地说：我喜欢集市日！",
+   "spots": [
+    {
+     "box": [
+      0.681,
+      0.06,
+      0.849,
+      0.314
+     ],
+     "who": "kite",
+     "say": "kite",
+     "zh": "风筝",
+     "kind": "obj"
+    },
+    {
+     "box": [
+      0.26,
+      0.167,
+      0.689,
+      0.931
+     ],
+     "who": "daisy",
+     "say": "Here is the money.",
+     "zh": "给你钱。"
+    },
+    {
+     "box": [
+      0.486,
+      0.395,
+      0.682,
+      0.762
+     ],
+     "who": "doll",
+     "say": "doll",
+     "zh": "娃娃",
+     "kind": "obj"
+    }
+   ]
+  }
+ ],
+ "taskA": {
+  "options": [
+   "How much is the doll?",
+   "Excuse me, where is the market?",
+   "Let's go to the market!"
+  ],
+  "right_msg": "对啦！这句是在问集市在哪儿。",
+  "target": "Excuse me, where is the market?",
+  "wrong_msg": "再听一遍，听听是不是在问集市在哪儿。"
+ },
+ "taskB": {
+  "done_msg": "三对全配上啦！",
+  "instruction": "先点一个英文词，再点对应的中文词，配成一对。",
+  "left": [
+   {
+    "k": "w-market",
+    "label": "market"
+   },
+   {
+    "k": "w-left",
+    "label": "left"
+   },
+   {
+    "k": "w-money",
+    "label": "money"
+   }
+  ],
+  "right": [
+   {
+    "k": "w-money",
+    "label": "钱",
+    "say": "money"
+   },
+   {
+    "k": "w-market",
+    "label": "集市",
+    "say": "market"
+   },
+   {
+    "k": "w-left",
+    "label": "左边",
+    "say": "left"
+   }
+  ],
+  "title": "集市配一配"
+ },
+ "taskC": [
+  [
+   "Let's go to the market!",
+   "我们去集市吧！"
+  ],
+  [
+   "Excuse me, where is the market?",
+   "请问，集市在哪儿？"
+  ],
+  [
+   "Go straight! Turn left at the corner.",
+   "一直走，在拐角左转。"
+  ],
+  [
+   "How much is the doll?",
+   "娃娃多少钱？"
+  ],
+  [
+   "Here is the money.",
+   "给你钱。"
+  ]
+ ],
+ "title_en": "Daisy and the Market Day!",
+ "title_zh": "复习：集市日",
+ "words": [
+  [
+   "market",
+   "集市"
+  ],
+  [
+   "park",
+   "公园"
+  ],
+  [
+   "library",
+   "图书馆"
+  ],
+  [
+   "near",
+   "近的"
+  ],
+  [
+   "far",
+   "远的"
+  ],
+  [
+   "left",
+   "左边"
+  ],
+  [
+   "right",
+   "右边"
+  ],
+  [
+   "money",
+   "钱"
+  ],
+  [
+   "doll",
+   "娃娃"
+  ],
+  [
+   "kite",
+   "风筝"
+  ]
+ ]
+}

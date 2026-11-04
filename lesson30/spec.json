@@ -1,0 +1,462 @@
+{
+ "audio_texts": [
+  "Yesterday Was Fun!",
+  "Yesterday was fun!",
+  "Yesterday, we played in the park!",
+  "We played a game!",
+  "Yesterday, Coco sang a song!",
+  "I sang and danced!",
+  "Yesterday, Milo jumped high!",
+  "I jumped and laughed!",
+  "Yesterday, we visited the library!",
+  "We listened to a story!",
+  "Yesterday, we helped Grandma!",
+  "We watched the birds and laughed!",
+  "Yesterday was wonderful!",
+  "yesterday",
+  "played",
+  "sang",
+  "danced",
+  "jumped",
+  "laughed",
+  "visited",
+  "listened",
+  "helped",
+  "watched",
+  "Hello! I am Milo!",
+  "Hello! I am Coco!",
+  "game",
+  "song",
+  "library",
+  "photo",
+  "park",
+  "birds"
+ ],
+ "chapter": "第 8 章 · 讲个故事吧",
+ "cover_img": "cover.webp",
+ "cover_line": {
+  "en": "Yesterday was fun!",
+  "zh": "昨天真开心！点句子可以听发音"
+ },
+ "cover_spots": [
+  {
+   "who": "milo",
+   "say": "Yesterday was fun!",
+   "zh": "昨天真开心！",
+   "box": [
+    0.053,
+    0.134,
+    0.518,
+    0.843
+   ]
+  },
+  {
+   "who": "coco",
+   "say": "Hello! I am Coco!",
+   "zh": "你好！我是小狗！",
+   "box": [
+    0.536,
+    0.192,
+    0.96,
+    0.822
+   ]
+  },
+  {
+   "who": "photo",
+   "say": "photo",
+   "zh": "相册",
+   "box": [
+    0.248,
+    0.727,
+    0.84,
+    0.938
+   ],
+   "kind": "obj"
+  }
+ ],
+ "cover_sub": "第 30 课 · 昨天发生了什么——Milo 和 Coco 翻开相册，讲讲昨天的好玩事。",
+ "finish_title": "这一课，你学会了用 yesterday 讲昨天的事 🎉",
+ "key": [
+  [
+   "Yesterday, we played in the park!",
+   "昨天，我们在公园里玩了！"
+  ],
+  [
+   "Yesterday, Coco sang a song!",
+   "昨天，Coco 唱了一首歌！"
+  ],
+  [
+   "Yesterday, Milo jumped high!",
+   "昨天，Milo 跳得高高的！"
+  ],
+  [
+   "Yesterday, we visited the library!",
+   "昨天，我们参观了图书馆！"
+  ],
+  [
+   "Yesterday was wonderful!",
+   "昨天真是美好的一天！"
+  ]
+ ],
+ "num": 30,
+ "pages": [
+  {
+   "img": "p2.webp",
+   "lines": [
+    {
+     "en": "Yesterday, we played in the park!",
+     "who": "milo",
+     "who_name": "小猫",
+     "zh": "昨天，我们在公园里玩了！"
+    },
+    {
+     "en": "We played a game!",
+     "who": "coco",
+     "who_name": "小狗",
+     "zh": "我们玩了一个游戏！"
+    }
+   ],
+   "narr": "昨天，Milo 和 Coco 在公园里玩游戏。",
+   "spots": [
+    {
+     "who": "milo",
+     "say": "Yesterday, we played in the park!",
+     "zh": "昨天，我们在公园里玩了！",
+     "box": [
+      0.06,
+      0.16,
+      0.505,
+      0.86
+     ]
+    },
+    {
+     "who": "coco",
+     "say": "We played a game!",
+     "zh": "我们玩了一个游戏！",
+     "box": [
+      0.515,
+      0.225,
+      0.94,
+      0.882
+     ]
+    },
+    {
+     "who": "game",
+     "say": "game",
+     "zh": "游戏",
+     "box": [
+      0.425,
+      0.701,
+      0.558,
+      0.893
+     ],
+     "kind": "obj"
+    }
+   ]
+  },
+  {
+   "img": "p3.webp",
+   "lines": [
+    {
+     "en": "Yesterday, Coco sang a song!",
+     "who": "milo",
+     "who_name": "小猫",
+     "zh": "昨天，Coco 唱了一首歌！"
+    },
+    {
+     "en": "I sang and danced!",
+     "who": "coco",
+     "who_name": "小狗",
+     "zh": "我又唱又跳！"
+    }
+   ],
+   "narr": "Coco 唱起歌来，还跳起了舞。",
+   "spots": [
+    {
+     "who": "milo",
+     "say": "Yesterday, Coco sang a song!",
+     "zh": "昨天，Coco 唱了一首歌！",
+     "box": [
+      0.08,
+      0.195,
+      0.415,
+      0.94
+     ]
+    },
+    {
+     "who": "coco",
+     "say": "I sang and danced!",
+     "zh": "我又唱又跳！",
+     "box": [
+      0.508,
+      0.1,
+      0.92,
+      0.92
+     ]
+    }
+   ]
+  },
+  {
+   "img": "p4.webp",
+   "lines": [
+    {
+     "en": "Yesterday, Milo jumped high!",
+     "who": "coco",
+     "who_name": "小狗",
+     "zh": "昨天，Milo 跳得高高的！"
+    },
+    {
+     "en": "I jumped and laughed!",
+     "who": "milo",
+     "who_name": "小猫",
+     "zh": "我跳起来，还笑了！"
+    }
+   ],
+   "narr": "Milo 跳得高高的，大家都笑了。",
+   "spots": [
+    {
+     "who": "coco",
+     "say": "Yesterday, Milo jumped high!",
+     "zh": "昨天，Milo 跳得高高的！",
+     "box": [
+      0.608,
+      0.504,
+      0.882,
+      0.953
+     ]
+    },
+    {
+     "who": "milo",
+     "say": "I jumped and laughed!",
+     "zh": "我跳起来，还笑了！",
+     "box": [
+      0.141,
+      0.066,
+      0.578,
+      0.738
+     ]
+    }
+   ]
+  },
+  {
+   "img": "p5.webp",
+   "lines": [
+    {
+     "en": "Yesterday, we visited the library!",
+     "who": "milo",
+     "who_name": "小猫",
+     "zh": "昨天，我们参观了图书馆！"
+    },
+    {
+     "en": "We listened to a story!",
+     "who": "coco",
+     "who_name": "小狗",
+     "zh": "我们听了一个故事！"
+    }
+   ],
+   "narr": "昨天，他们还去了图书馆，听了一个故事。",
+   "spots": [
+    {
+     "who": "library",
+     "say": "library",
+     "zh": "图书馆",
+     "box": [
+      0.0,
+      0.0,
+      0.22,
+      0.3
+     ],
+     "kind": "obj"
+    },
+    {
+     "who": "milo",
+     "say": "Yesterday, we visited the library!",
+     "zh": "昨天，我们参观了图书馆！",
+     "box": [
+      0.051,
+      0.137,
+      0.515,
+      0.813
+     ]
+    },
+    {
+     "who": "coco",
+     "say": "We listened to a story!",
+     "zh": "我们听了一个故事！",
+     "box": [
+      0.526,
+      0.212,
+      0.966,
+      0.799
+     ]
+    }
+   ]
+  },
+  {
+   "img": "p6.webp",
+   "lines": [
+    {
+     "en": "Yesterday, we helped Grandma!",
+     "who": "milo",
+     "who_name": "小猫",
+     "zh": "昨天，我们帮助了奶奶！"
+    },
+    {
+     "en": "We watched the birds and laughed!",
+     "who": "coco",
+     "who_name": "小狗",
+     "zh": "我们看着小鸟，笑了起来！"
+    }
+   ],
+   "narr": "他们帮奶奶干活、看小鸟，昨天真是美好的一天。",
+   "spots": [
+    {
+     "who": "birds",
+     "say": "birds",
+     "zh": "小鸟",
+     "box": [
+      0.375,
+      0.046,
+      0.646,
+      0.195
+     ],
+     "kind": "obj"
+    },
+    {
+     "who": "milo",
+     "say": "Yesterday, we helped Grandma!",
+     "zh": "昨天，我们帮助了奶奶！",
+     "box": [
+      0.062,
+      0.205,
+      0.43,
+      0.931
+     ]
+    },
+    {
+     "who": "coco",
+     "say": "We watched the birds and laughed!",
+     "zh": "我们看着小鸟，笑了起来！",
+     "box": [
+      0.59,
+      0.36,
+      0.923,
+      0.923
+     ]
+    }
+   ]
+  }
+ ],
+ "taskA": {
+  "options": [
+   "Yesterday, we played in the park!",
+   "Yesterday, we visited the library!",
+   "Yesterday was wonderful!"
+  ],
+  "right_msg": "对啦！这句是在说昨天去了图书馆。",
+  "target": "Yesterday, we visited the library!",
+  "wrong_msg": "再听一遍，听听是不是在说图书馆。"
+ },
+ "taskB": {
+  "done_msg": "三对全配上啦！",
+  "instruction": "先点一个英文词，再点对应的中文词，配成一对。",
+  "left": [
+   {
+    "k": "w-played",
+    "label": "played"
+   },
+   {
+    "k": "w-sang",
+    "label": "sang"
+   },
+   {
+    "k": "w-visited",
+    "label": "visited"
+   }
+  ],
+  "right": [
+   {
+    "k": "w-visited",
+    "label": "参观了",
+    "say": "visited"
+   },
+   {
+    "k": "w-played",
+    "label": "玩了",
+    "say": "played"
+   },
+   {
+    "k": "w-sang",
+    "label": "唱了",
+    "say": "sang"
+   }
+  ],
+  "title": "昨天做了什么，配一配"
+ },
+ "taskC": [
+  [
+   "Yesterday, we played in the park!",
+   "昨天，我们在公园里玩了！"
+  ],
+  [
+   "Yesterday, Coco sang a song!",
+   "昨天，Coco 唱了一首歌！"
+  ],
+  [
+   "Yesterday, Milo jumped high!",
+   "昨天，Milo 跳得高高的！"
+  ],
+  [
+   "Yesterday, we visited the library!",
+   "昨天，我们参观了图书馆！"
+  ],
+  [
+   "Yesterday was wonderful!",
+   "昨天真是美好的一天！"
+  ]
+ ],
+ "title_en": "Yesterday Was Fun!",
+ "title_zh": "昨天发生了什么",
+ "words": [
+  [
+   "yesterday",
+   "昨天"
+  ],
+  [
+   "played",
+   "玩了"
+  ],
+  [
+   "sang",
+   "唱了"
+  ],
+  [
+   "danced",
+   "跳舞了"
+  ],
+  [
+   "jumped",
+   "跳了"
+  ],
+  [
+   "laughed",
+   "笑了"
+  ],
+  [
+   "visited",
+   "参观了"
+  ],
+  [
+   "listened",
+   "听了"
+  ],
+  [
+   "helped",
+   "帮助了"
+  ],
+  [
+   "watched",
+   "看了"
+  ]
+ ]
+}

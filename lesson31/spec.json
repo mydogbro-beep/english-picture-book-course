@@ -1,0 +1,531 @@
+{
+ "audio_texts": [
+  "Tomorrow We Will Go!",
+  "Tomorrow will be fun!",
+  "Tomorrow, we will go to the zoo!",
+  "We will see the animals!",
+  "Tomorrow, we will go to the beach!",
+  "We will play on the beach!",
+  "We will take a train!",
+  "We will take a boat, too!",
+  "We will have a picnic!",
+  "We will take a camera!",
+  "Tomorrow will be wonderful!",
+  "Let's go together tomorrow!",
+  "tomorrow",
+  "will",
+  "zoo",
+  "beach",
+  "train",
+  "boat",
+  "picnic",
+  "kite",
+  "camera",
+  "trip",
+  "Hello! I am Milo!",
+  "Hello! I am Coco!",
+  "map",
+  "giraffe",
+  "zebra",
+  "sun"
+ ],
+ "chapter": "第 8 章 · 讲个故事吧",
+ "cover_img": "cover.webp",
+ "cover_line": {
+  "en": "Tomorrow will be fun!",
+  "zh": "明天一定很好玩！点句子可以听发音"
+ },
+ "cover_spots": [
+  {
+   "who": "map",
+   "say": "map",
+   "zh": "地图",
+   "box": [
+    0.132,
+    0.667,
+    0.86,
+    0.984
+   ],
+   "kind": "obj"
+  },
+  {
+   "who": "kite",
+   "say": "kite",
+   "zh": "风筝",
+   "box": [
+    0.8,
+    0.464,
+    0.99,
+    0.798
+   ],
+   "kind": "obj"
+  },
+  {
+   "who": "camera",
+   "say": "camera",
+   "zh": "照相机",
+   "box": [
+    0.805,
+    0.785,
+    0.995,
+    0.979
+   ],
+   "kind": "obj"
+  },
+  {
+   "who": "milo",
+   "say": "Tomorrow will be fun!",
+   "zh": "明天一定很好玩！",
+   "box": [
+    0.168,
+    0.183,
+    0.53,
+    0.742
+   ]
+  },
+  {
+   "who": "coco",
+   "say": "Hello! I am Coco!",
+   "zh": "你好！我是小狗！",
+   "box": [
+    0.512,
+    0.203,
+    0.818,
+    0.734
+   ]
+  }
+ ],
+ "cover_sub": "第 31 课 · 明天去哪儿——Milo 和 Coco 商量明天去动物园、海滩玩。",
+ "finish_title": "这一课，你学会了用 tomorrow 和 will 说说明天的计划 🎉",
+ "key": [
+  [
+   "Tomorrow, we will go to the zoo!",
+   "明天，我们要去动物园！"
+  ],
+  [
+   "Tomorrow, we will go to the beach!",
+   "明天，我们要去海滩！"
+  ],
+  [
+   "We will take a train!",
+   "我们要坐火车去！"
+  ],
+  [
+   "We will have a picnic!",
+   "我们要野餐！"
+  ],
+  [
+   "Tomorrow will be wonderful!",
+   "明天一定是美好的一天！"
+  ]
+ ],
+ "num": 31,
+ "pages": [
+  {
+   "img": "p2.webp",
+   "lines": [
+    {
+     "en": "Tomorrow, we will go to the zoo!",
+     "who": "milo",
+     "who_name": "小猫",
+     "zh": "明天，我们要去动物园！"
+    },
+    {
+     "en": "We will see the animals!",
+     "who": "coco",
+     "who_name": "小狗",
+     "zh": "我们要看小动物！"
+    }
+   ],
+   "narr": "明天，Milo 和 Coco 要去动物园看小动物。",
+   "spots": [
+    {
+     "who": "giraffe",
+     "say": "giraffe",
+     "zh": "长颈鹿",
+     "box": [
+      0.709,
+      0.047,
+      0.984,
+      0.778
+     ],
+     "kind": "obj"
+    },
+    {
+     "who": "zebra",
+     "say": "zebra",
+     "zh": "斑马",
+     "box": [
+      0.64,
+      0.233,
+      0.839,
+      0.772
+     ],
+     "kind": "obj"
+    },
+    {
+     "who": "milo",
+     "say": "Tomorrow, we will go to the zoo!",
+     "zh": "明天，我们要去动物园！",
+     "box": [
+      0.048,
+      0.268,
+      0.38,
+      0.945
+     ]
+    },
+    {
+     "who": "coco",
+     "say": "We will see the animals!",
+     "zh": "我们要看小动物！",
+     "box": [
+      0.341,
+      0.383,
+      0.623,
+      0.935
+     ]
+    }
+   ]
+  },
+  {
+   "img": "p3.webp",
+   "lines": [
+    {
+     "en": "Tomorrow, we will go to the beach!",
+     "who": "milo",
+     "who_name": "小猫",
+     "zh": "明天，我们要去海滩！"
+    },
+    {
+     "en": "We will play on the beach!",
+     "who": "coco",
+     "who_name": "小狗",
+     "zh": "我们要在海滩上玩！"
+    }
+   ],
+   "narr": "他们还要去海滩，在沙滩上玩。",
+   "spots": [
+    {
+     "who": "kite",
+     "say": "kite",
+     "zh": "风筝",
+     "box": [
+      0.22,
+      0.038,
+      0.588,
+      0.32
+     ],
+     "kind": "obj"
+    },
+    {
+     "who": "milo",
+     "say": "Tomorrow, we will go to the beach!",
+     "zh": "明天，我们要去海滩！",
+     "box": [
+      0.13,
+      0.345,
+      0.51,
+      0.83
+     ]
+    },
+    {
+     "who": "coco",
+     "say": "We will play on the beach!",
+     "zh": "我们要在海滩上玩！",
+     "box": [
+      0.52,
+      0.38,
+      0.828,
+      0.81
+     ]
+    }
+   ]
+  },
+  {
+   "img": "p4.webp",
+   "lines": [
+    {
+     "en": "We will take a train!",
+     "who": "milo",
+     "who_name": "小猫",
+     "zh": "我们要坐火车去！"
+    },
+    {
+     "en": "We will take a boat, too!",
+     "who": "coco",
+     "who_name": "小狗",
+     "zh": "我们还要坐小船！"
+    }
+   ],
+   "narr": "去的路上，他们要坐火车，还要坐小船。",
+   "spots": [
+    {
+     "who": "boat",
+     "say": "boat",
+     "zh": "小船",
+     "box": [
+      0.749,
+      0.508,
+      0.837,
+      0.55
+     ],
+     "kind": "obj"
+    },
+    {
+     "who": "milo",
+     "say": "We will take a train!",
+     "zh": "我们要坐火车去！",
+     "box": [
+      0.079,
+      0.261,
+      0.435,
+      0.934
+     ]
+    },
+    {
+     "who": "coco",
+     "say": "We will take a boat, too!",
+     "zh": "我们还要坐小船！",
+     "box": [
+      0.362,
+      0.364,
+      0.637,
+      0.89
+     ]
+    }
+   ]
+  },
+  {
+   "img": "p5.webp",
+   "lines": [
+    {
+     "en": "We will have a picnic!",
+     "who": "milo",
+     "who_name": "小猫",
+     "zh": "我们要野餐！"
+    },
+    {
+     "en": "We will take a camera!",
+     "who": "coco",
+     "who_name": "小狗",
+     "zh": "我们要带上照相机！"
+    }
+   ],
+   "narr": "他们还要在草地上野餐，用照相机拍下好玩的事。",
+   "spots": [
+    {
+     "who": "picnic",
+     "say": "picnic",
+     "zh": "野餐",
+     "box": [
+      0.36,
+      0.41,
+      0.648,
+      0.891
+     ],
+     "kind": "obj"
+    },
+    {
+     "who": "camera",
+     "say": "camera",
+     "zh": "照相机",
+     "box": [
+      0.662,
+      0.76,
+      0.877,
+      0.891
+     ],
+     "kind": "obj"
+    },
+    {
+     "who": "milo",
+     "say": "We will have a picnic!",
+     "zh": "我们要野餐！",
+     "box": [
+      0.088,
+      0.167,
+      0.412,
+      0.8
+     ]
+    },
+    {
+     "who": "coco",
+     "say": "We will take a camera!",
+     "zh": "我们要带上照相机！",
+     "box": [
+      0.598,
+      0.244,
+      0.948,
+      0.775
+     ]
+    }
+   ]
+  },
+  {
+   "img": "p6.webp",
+   "lines": [
+    {
+     "en": "Tomorrow will be wonderful!",
+     "who": "milo",
+     "who_name": "小猫",
+     "zh": "明天一定是美好的一天！"
+    },
+    {
+     "en": "Let's go together tomorrow!",
+     "who": "coco",
+     "who_name": "小狗",
+     "zh": "明天我们一起去吧！"
+    }
+   ],
+   "narr": "明天，他们要一起出发，真是让人期待的一天。",
+   "spots": [
+    {
+     "who": "sun",
+     "say": "sun",
+     "zh": "太阳",
+     "box": [
+      0.806,
+      0.183,
+      0.874,
+      0.252
+     ],
+     "kind": "obj"
+    },
+    {
+     "who": "milo",
+     "say": "Tomorrow will be wonderful!",
+     "zh": "明天一定是美好的一天！",
+     "box": [
+      0.099,
+      0.214,
+      0.527,
+      0.935
+     ]
+    },
+    {
+     "who": "coco",
+     "say": "Let's go together tomorrow!",
+     "zh": "明天我们一起去吧！",
+     "box": [
+      0.431,
+      0.38,
+      0.801,
+      0.924
+     ]
+    }
+   ]
+  }
+ ],
+ "taskA": {
+  "options": [
+   "Tomorrow, we will go to the zoo!",
+   "Tomorrow, we will go to the beach!",
+   "Tomorrow will be wonderful!"
+  ],
+  "right_msg": "对啦！这句是在说明天去动物园。",
+  "target": "Tomorrow, we will go to the zoo!",
+  "wrong_msg": "再听一遍，听听是不是在说动物园。"
+ },
+ "taskB": {
+  "done_msg": "三对全配上啦！",
+  "instruction": "先点一个英文词，再点对应的中文词，配成一对。",
+  "left": [
+   {
+    "k": "w-tomorrow",
+    "label": "tomorrow"
+   },
+   {
+    "k": "w-zoo",
+    "label": "zoo"
+   },
+   {
+    "k": "w-beach",
+    "label": "beach"
+   }
+  ],
+  "right": [
+   {
+    "k": "w-beach",
+    "label": "海滩",
+    "say": "beach"
+   },
+   {
+    "k": "w-tomorrow",
+    "label": "明天",
+    "say": "tomorrow"
+   },
+   {
+    "k": "w-zoo",
+    "label": "动物园",
+    "say": "zoo"
+   }
+  ],
+  "title": "明天去哪儿，配一配"
+ },
+ "taskC": [
+  [
+   "Tomorrow, we will go to the zoo!",
+   "明天，我们要去动物园！"
+  ],
+  [
+   "Tomorrow, we will go to the beach!",
+   "明天，我们要去海滩！"
+  ],
+  [
+   "We will take a train!",
+   "我们要坐火车去！"
+  ],
+  [
+   "We will have a picnic!",
+   "我们要野餐！"
+  ],
+  [
+   "Tomorrow will be wonderful!",
+   "明天一定是美好的一天！"
+  ]
+ ],
+ "title_en": "Tomorrow We Will Go!",
+ "title_zh": "明天去哪儿",
+ "words": [
+  [
+   "tomorrow",
+   "明天"
+  ],
+  [
+   "will",
+   "将要"
+  ],
+  [
+   "zoo",
+   "动物园"
+  ],
+  [
+   "beach",
+   "海滩"
+  ],
+  [
+   "train",
+   "火车"
+  ],
+  [
+   "boat",
+   "小船"
+  ],
+  [
+   "picnic",
+   "野餐"
+  ],
+  [
+   "kite",
+   "风筝"
+  ],
+  [
+   "camera",
+   "照相机"
+  ],
+  [
+   "trip",
+   "旅行"
+  ]
+ ]
+}

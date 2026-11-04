@@ -1,0 +1,483 @@
+{
+  "audio_texts": [
+    "Daisy Goes Shopping!",
+    "Let's go to the store!",
+    "Look! A doll!",
+    "How much is the doll?",
+    "It is five yuan.",
+    "Here is the money.",
+    "Thank you very much!",
+    "I want to buy a kite, too!",
+    "How much is the kite?",
+    "It is three yuan.",
+    "I like my doll and my kite!",
+    "Let's go home!",
+    "money",
+    "price",
+    "buy",
+    "pay",
+    "store",
+    "toy",
+    "doll",
+    "kite",
+    "coin",
+    "bag"
+  ],
+  "chapter": "第 7 章 · 出门啦",
+  "cover_img": "cover.webp",
+  "cover_line": {
+    "en": "Let's go to the store!",
+    "zh": "我们去商店吧！点句子可以听发音"
+  },
+  "cover_sub": "第 27 课 · 出门啦——小鸭 Daisy 去商店买东西，学会问价、付钱，买到娃娃和风筝。",
+  "finish_title": "这一课，你学会买东西啦 🎉",
+  "key": [
+    [
+      "Let's go to the store!",
+      "我们去商店吧！"
+    ],
+    [
+      "How much is the doll?",
+      "娃娃多少钱？"
+    ],
+    [
+      "It is five yuan.",
+      "五元。"
+    ],
+    [
+      "Here is the money.",
+      "给你钱。"
+    ],
+    [
+      "I like my doll and my kite!",
+      "我喜欢我的娃娃和风筝！"
+    ]
+  ],
+  "num": 27,
+  "pages": [
+    {
+      "img": "p2.webp",
+      "lines": [
+        {
+          "en": "Look! A doll!",
+          "who": "daisy",
+          "who_name": "小鸭",
+          "zh": "看！一个娃娃！"
+        },
+        {
+          "en": "How much is the doll?",
+          "who": "daisy",
+          "who_name": "小鸭",
+          "zh": "娃娃多少钱？"
+        }
+      ],
+      "narr": "Daisy 走进商店，看见一个漂亮的娃娃：娃娃多少钱？",
+      "spots": [
+        {
+          "box": [
+            0.598,
+            0.101,
+            0.895,
+            0.734
+          ],
+          "kind": "obj",
+          "say": "doll",
+          "who": "doll",
+          "zh": "娃娃"
+        },
+        {
+          "box": [
+            0.048,
+            0.197,
+            0.534,
+            0.893
+          ],
+          "say": "Look! A doll!",
+          "who": "daisy",
+          "zh": "看！一个娃娃！"
+        }
+      ]
+    },
+    {
+      "img": "p3.webp",
+      "lines": [
+        {
+          "en": "It is five yuan.",
+          "who": "daisy",
+          "who_name": "小鸭",
+          "zh": "五元。"
+        },
+        {
+          "en": "Here is the money.",
+          "who": "daisy",
+          "who_name": "小鸭",
+          "zh": "给你钱。"
+        }
+      ],
+      "narr": "娃娃五元。Daisy 递上钱，买下了娃娃。",
+      "spots": [
+        {
+          "box": [
+            0.702,
+            0.637,
+            0.877,
+            0.868
+          ],
+          "kind": "obj",
+          "say": "doll",
+          "who": "doll",
+          "zh": "娃娃"
+        },
+        {
+          "box": [
+            0.45,
+            0.79,
+            0.7,
+            0.92
+          ],
+          "kind": "obj",
+          "say": "coin",
+          "who": "coin",
+          "zh": "硬币"
+        },
+        {
+          "box": [
+            0.058,
+            0.376,
+            0.447,
+            0.99
+          ],
+          "say": "It is five yuan.",
+          "who": "daisy",
+          "zh": "五元。"
+        }
+      ]
+    },
+    {
+      "img": "p4.webp",
+      "lines": [
+        {
+          "en": "Thank you very much!",
+          "who": "daisy",
+          "who_name": "小鸭",
+          "zh": "非常感谢！"
+        },
+        {
+          "en": "I want to buy a kite, too!",
+          "who": "daisy",
+          "who_name": "小鸭",
+          "zh": "我还想买一个风筝！"
+        }
+      ],
+      "narr": "Daisy 说声谢谢，又看中了一个风筝：我还想买一个风筝！",
+      "spots": [
+        {
+          "box": [
+            0.62,
+            0.0,
+            0.9,
+            0.35
+          ],
+          "kind": "obj",
+          "say": "kite",
+          "who": "kite",
+          "zh": "风筝"
+        },
+        {
+          "box": [
+            0.188,
+            0.367,
+            0.532,
+            1.0
+          ],
+          "say": "Thank you very much!",
+          "who": "daisy",
+          "zh": "非常感谢！"
+        },
+        {
+          "box": [
+            0.44,
+            0.596,
+            0.66,
+            1.0
+          ],
+          "kind": "obj",
+          "say": "doll",
+          "who": "doll",
+          "zh": "娃娃"
+        }
+      ]
+    },
+    {
+      "img": "p5.webp",
+      "lines": [
+        {
+          "en": "How much is the kite?",
+          "who": "daisy",
+          "who_name": "小鸭",
+          "zh": "风筝多少钱？"
+        },
+        {
+          "en": "It is three yuan.",
+          "who": "daisy",
+          "who_name": "小鸭",
+          "zh": "三元。"
+        }
+      ],
+      "narr": "风筝多少钱？三元！Daisy 付钱买下风筝。",
+      "spots": [
+        {
+          "box": [
+            0.68,
+            0.6,
+            0.97,
+            0.87
+          ],
+          "kind": "obj",
+          "say": "kite",
+          "who": "kite",
+          "zh": "风筝"
+        },
+        {
+          "box": [
+            0.258,
+            0.112,
+            0.674,
+            0.815
+          ],
+          "say": "How much is the kite?",
+          "who": "daisy",
+          "zh": "风筝多少钱？"
+        },
+        {
+          "box": [
+            0.394,
+            0.591,
+            0.512,
+            0.684
+          ],
+          "kind": "obj",
+          "say": "coin",
+          "who": "coin",
+          "zh": "硬币"
+        }
+      ]
+    },
+    {
+      "img": "p6.webp",
+      "lines": [
+        {
+          "en": "I like my doll and my kite!",
+          "who": "daisy",
+          "who_name": "小鸭",
+          "zh": "我喜欢我的娃娃和风筝！"
+        },
+        {
+          "en": "Let's go home!",
+          "who": "daisy",
+          "who_name": "小鸭",
+          "zh": "我们回家吧！"
+        }
+      ],
+      "narr": "Daisy 提着袋子，抱着娃娃、拿着风筝，开心地回家啦！",
+      "spots": [
+        {
+          "box": [
+            0.205,
+            0.52,
+            0.39,
+            0.82
+          ],
+          "kind": "obj",
+          "say": "kite",
+          "who": "kite",
+          "zh": "风筝"
+        },
+        {
+          "box": [
+            0.395,
+            0.132,
+            0.665,
+            0.888
+          ],
+          "say": "I like my doll and my kite!",
+          "who": "daisy",
+          "zh": "我喜欢我的娃娃和风筝！"
+        },
+        {
+          "box": [
+            0.33,
+            0.53,
+            0.51,
+            0.805
+          ],
+          "kind": "obj",
+          "say": "bag",
+          "who": "bag",
+          "zh": "袋子"
+        },
+        {
+          "box": [
+            0.514,
+            0.452,
+            0.672,
+            0.782
+          ],
+          "kind": "obj",
+          "say": "doll",
+          "who": "doll",
+          "zh": "娃娃"
+        }
+      ]
+    }
+  ],
+  "taskA": {
+    "options": [
+      "How much is the doll?",
+      "It is five yuan.",
+      "I like my doll and my kite!"
+    ],
+    "right_msg": "对啦！这句是在问娃娃多少钱。",
+    "target": "How much is the doll?",
+    "wrong_msg": "再听一遍，听听是不是在问娃娃多少钱。"
+  },
+  "taskB": {
+    "done_msg": "三对全配上啦！",
+    "instruction": "先点一个英文词，再点对应的中文词，配成一对。",
+    "left": [
+      {
+        "k": "w-doll",
+        "label": "doll"
+      },
+      {
+        "k": "w-kite",
+        "label": "kite"
+      },
+      {
+        "k": "w-money",
+        "label": "money"
+      }
+    ],
+    "right": [
+      {
+        "k": "w-money",
+        "label": "钱",
+        "say": "money"
+      },
+      {
+        "k": "w-doll",
+        "label": "娃娃",
+        "say": "doll"
+      },
+      {
+        "k": "w-kite",
+        "label": "风筝",
+        "say": "kite"
+      }
+    ],
+    "title": "购物配一配"
+  },
+  "taskC": [
+    [
+      "Let's go to the store!",
+      "我们去商店吧！"
+    ],
+    [
+      "How much is the doll?",
+      "娃娃多少钱？"
+    ],
+    [
+      "It is five yuan.",
+      "五元。"
+    ],
+    [
+      "Here is the money.",
+      "给你钱。"
+    ],
+    [
+      "I like my doll and my kite!",
+      "我喜欢我的娃娃和风筝！"
+    ]
+  ],
+  "title_en": "Daisy Goes Shopping!",
+  "title_zh": "买东西",
+  "words": [
+    [
+      "money",
+      "钱"
+    ],
+    [
+      "price",
+      "价格"
+    ],
+    [
+      "buy",
+      "买"
+    ],
+    [
+      "pay",
+      "付钱"
+    ],
+    [
+      "store",
+      "商店"
+    ],
+    [
+      "toy",
+      "玩具"
+    ],
+    [
+      "doll",
+      "娃娃"
+    ],
+    [
+      "kite",
+      "风筝"
+    ],
+    [
+      "coin",
+      "硬币"
+    ],
+    [
+      "bag",
+      "袋子"
+    ]
+  ],
+  "cover_spots": [
+    {
+      "box": [
+        0.185,
+        0.18,
+        0.3,
+        0.42
+      ],
+      "kind": "obj",
+      "say": "kite",
+      "who": "kite",
+      "zh": "风筝"
+    },
+    {
+      "box": [
+        0.3,
+        0.312,
+        0.57,
+        0.949
+      ],
+      "say": "Let's go to the store!",
+      "who": "daisy",
+      "zh": "我们去商店吧！"
+    },
+    {
+      "box": [
+        0.262,
+        0.692,
+        0.428,
+        0.902
+      ],
+      "kind": "obj",
+      "say": "bag",
+      "who": "bag",
+      "zh": "袋子"
+    }
+  ]
+}

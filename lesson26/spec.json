@@ -1,0 +1,460 @@
+{
+  "audio_texts": [
+    "Daisy Asks the Way!",
+    "Excuse me, where is the library?",
+    "Go straight!",
+    "Turn left at the corner.",
+    "The library is on the left.",
+    "Here is the library!",
+    "Thank you very much!",
+    "Excuse me, where is the zoo?",
+    "Turn right at the bridge.",
+    "Cross the street.",
+    "Here is the zoo!",
+    "left",
+    "right",
+    "straight",
+    "turn",
+    "street",
+    "corner",
+    "bridge",
+    "traffic light",
+    "map",
+    "Excuse me",
+    "library",
+    "zoo"
+  ],
+  "chapter": "第 7 章 · 出门啦",
+  "cover_img": "cover.webp",
+  "cover_line": {
+    "en": "Excuse me, where is the library?",
+    "zh": "请问，图书馆在哪里？点句子可以听发音"
+  },
+  "cover_sub": "第 26 课 · 出门啦——小鸭 Daisy 拿着地图问路，学会直走、左转、右转，顺利找到图书馆和动物园。",
+  "finish_title": "这一课，你学会问路啦 🎉",
+  "key": [
+    [
+      "Excuse me, where is the library?",
+      "请问，图书馆在哪里？"
+    ],
+    [
+      "Go straight!",
+      "直走！"
+    ],
+    [
+      "Turn left at the corner.",
+      "在拐角处左转。"
+    ],
+    [
+      "The library is on the left.",
+      "图书馆在左边。"
+    ],
+    [
+      "Cross the street.",
+      "过马路。"
+    ]
+  ],
+  "num": 26,
+  "pages": [
+    {
+      "img": "p2.webp",
+      "lines": [
+        {
+          "en": "Excuse me, where is the library?",
+          "who": "daisy",
+          "who_name": "小鸭",
+          "zh": "请问，图书馆在哪里？"
+        },
+        {
+          "en": "Go straight!",
+          "who": "daisy",
+          "who_name": "小鸭",
+          "zh": "直走！"
+        }
+      ],
+      "narr": "Daisy 拿着地图站在路口问路：请问，图书馆在哪里？路人说：请直走！",
+      "spots": [
+        {
+          "box": [
+            0.58,
+            0.45,
+            0.985,
+            0.995
+          ],
+          "kind": "obj",
+          "say": "street",
+          "who": "street",
+          "zh": "街道"
+        },
+        {
+          "box": [
+            0.178,
+            0.132,
+            0.565,
+            0.94
+          ],
+          "say": "Excuse me, where is the library?",
+          "who": "daisy",
+          "zh": "请问，图书馆在哪里？"
+        },
+        {
+          "box": [
+            0.405,
+            0.495,
+            0.58,
+            0.79
+          ],
+          "kind": "obj",
+          "say": "map",
+          "who": "map",
+          "zh": "地图"
+        }
+      ]
+    },
+    {
+      "img": "p3.webp",
+      "lines": [
+        {
+          "en": "Turn left at the corner.",
+          "who": "daisy",
+          "who_name": "小鸭",
+          "zh": "在拐角处左转。"
+        },
+        {
+          "en": "The library is on the left.",
+          "who": "daisy",
+          "who_name": "小鸭",
+          "zh": "图书馆在左边。"
+        }
+      ],
+      "narr": "走到拐角，Daisy 左转：看，图书馆就在左边！",
+      "spots": [
+        {
+          "box": [
+            0.096,
+            0.008,
+            0.588,
+            0.77
+          ],
+          "kind": "obj",
+          "say": "library",
+          "who": "library",
+          "zh": "图书馆"
+        },
+        {
+          "box": [
+            0.489,
+            0.158,
+            0.919,
+            0.944
+          ],
+          "say": "Turn left at the corner.",
+          "who": "daisy",
+          "zh": "在拐角处左转。"
+        }
+      ]
+    },
+    {
+      "img": "p4.webp",
+      "lines": [
+        {
+          "en": "Here is the library!",
+          "who": "daisy",
+          "who_name": "小鸭",
+          "zh": "图书馆在这儿！"
+        },
+        {
+          "en": "Thank you very much!",
+          "who": "daisy",
+          "who_name": "小鸭",
+          "zh": "非常感谢！"
+        }
+      ],
+      "narr": "图书馆到啦！Daisy 高兴地说：非常感谢！",
+      "spots": [
+        {
+          "box": [
+            0.511,
+            0.187,
+            0.719,
+            0.757
+          ],
+          "kind": "obj",
+          "say": "library",
+          "who": "library",
+          "zh": "图书馆"
+        },
+        {
+          "box": [
+            0.339,
+            0.271,
+            0.606,
+            0.938
+          ],
+          "say": "Here is the library!",
+          "who": "daisy",
+          "zh": "图书馆在这儿！"
+        }
+      ]
+    },
+    {
+      "img": "p5.webp",
+      "lines": [
+        {
+          "en": "Excuse me, where is the zoo?",
+          "who": "daisy",
+          "who_name": "小鸭",
+          "zh": "请问，动物园在哪里？"
+        },
+        {
+          "en": "Turn right at the bridge.",
+          "who": "daisy",
+          "who_name": "小鸭",
+          "zh": "在桥那儿右转。"
+        }
+      ],
+      "narr": "从图书馆出来，Daisy 又问路：请问，动物园在哪里？在桥那儿右转！",
+      "spots": [
+        {
+          "box": [
+            0.165,
+            0.595,
+            0.83,
+            0.84
+          ],
+          "kind": "obj",
+          "say": "bridge",
+          "who": "bridge",
+          "zh": "桥"
+        },
+        {
+          "box": [
+            0.668,
+            0.13,
+            0.91,
+            0.522
+          ],
+          "kind": "obj",
+          "say": "zoo",
+          "who": "zoo",
+          "zh": "动物园"
+        },
+        {
+          "box": [
+            0.4,
+            0.26,
+            0.595,
+            0.638
+          ],
+          "say": "Excuse me, where is the zoo?",
+          "who": "daisy",
+          "zh": "请问，动物园在哪里？"
+        }
+      ]
+    },
+    {
+      "img": "p6.webp",
+      "lines": [
+        {
+          "en": "Cross the street.",
+          "who": "daisy",
+          "who_name": "小鸭",
+          "zh": "过马路。"
+        },
+        {
+          "en": "Here is the zoo!",
+          "who": "daisy",
+          "who_name": "小鸭",
+          "zh": "动物园在这儿！"
+        }
+      ],
+      "narr": "过马路，动物园就到啦！Daisy 开心极了。",
+      "spots": [
+        {
+          "box": [
+            0.098,
+            0.0,
+            0.204,
+            0.712
+          ],
+          "kind": "obj",
+          "say": "traffic light",
+          "who": "traffic light",
+          "zh": "红绿灯"
+        },
+        {
+          "box": [
+            0.332,
+            0.301,
+            0.627,
+            0.882
+          ],
+          "say": "Cross the street.",
+          "who": "daisy",
+          "zh": "过马路。"
+        },
+        {
+          "box": [
+            0.63,
+            0.18,
+            0.842,
+            0.54
+          ],
+          "kind": "obj",
+          "say": "zoo",
+          "who": "zoo",
+          "zh": "动物园"
+        }
+      ]
+    }
+  ],
+  "taskA": {
+    "options": [
+      "Excuse me, where is the library?",
+      "Turn right at the bridge.",
+      "Here is the zoo!"
+    ],
+    "right_msg": "对啦！这句是在问图书馆在哪里。",
+    "target": "Excuse me, where is the library?",
+    "wrong_msg": "再听一遍，听听是不是在问图书馆在哪里。"
+  },
+  "taskB": {
+    "done_msg": "三对全配上啦！",
+    "instruction": "先点一个英文词，再点对应的中文词，配成一对。",
+    "left": [
+      {
+        "k": "w-left",
+        "label": "left"
+      },
+      {
+        "k": "w-right",
+        "label": "right"
+      },
+      {
+        "k": "w-bridge",
+        "label": "bridge"
+      }
+    ],
+    "right": [
+      {
+        "k": "w-right",
+        "label": "右边",
+        "say": "right"
+      },
+      {
+        "k": "w-left",
+        "label": "左边",
+        "say": "left"
+      },
+      {
+        "k": "w-bridge",
+        "label": "桥",
+        "say": "bridge"
+      }
+    ],
+    "title": "方向配一配"
+  },
+  "taskC": [
+    [
+      "Excuse me, where is the library?",
+      "请问，图书馆在哪里？"
+    ],
+    [
+      "Go straight!",
+      "直走！"
+    ],
+    [
+      "Turn left at the corner.",
+      "在拐角处左转。"
+    ],
+    [
+      "The library is on the left.",
+      "图书馆在左边。"
+    ],
+    [
+      "Cross the street.",
+      "过马路。"
+    ]
+  ],
+  "title_en": "Daisy Asks the Way!",
+  "title_zh": "问路",
+  "words": [
+    [
+      "left",
+      "左边"
+    ],
+    [
+      "right",
+      "右边"
+    ],
+    [
+      "straight",
+      "直行"
+    ],
+    [
+      "turn",
+      "转弯"
+    ],
+    [
+      "street",
+      "街道"
+    ],
+    [
+      "corner",
+      "拐角"
+    ],
+    [
+      "bridge",
+      "桥"
+    ],
+    [
+      "traffic light",
+      "红绿灯"
+    ],
+    [
+      "map",
+      "地图"
+    ],
+    [
+      "excuse me",
+      "请问"
+    ]
+  ],
+  "cover_spots": [
+    {
+      "box": [
+        0.75,
+        0.002,
+        0.992,
+        0.63
+      ],
+      "kind": "obj",
+      "say": "library",
+      "who": "library",
+      "zh": "图书馆"
+    },
+    {
+      "box": [
+        0.297,
+        0.19,
+        0.64,
+        0.932
+      ],
+      "say": "Excuse me, where is the library?",
+      "who": "daisy",
+      "zh": "请问，图书馆在哪里？"
+    },
+    {
+      "box": [
+        0.552,
+        0.502,
+        0.668,
+        0.819
+      ],
+      "kind": "obj",
+      "say": "map",
+      "who": "map",
+      "zh": "地图"
+    }
+  ]
+}
