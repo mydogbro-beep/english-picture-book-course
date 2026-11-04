@@ -2,6 +2,13 @@
 
 ![封面](cover.jpg)
 
+## 本地使用（离线包 / GitHub 安装方式）
+
+不用在线也能学，有两种拿法：
+
+1. **下离线包（推荐）**：到本仓库的 [Releases](https://github.com/mydogbro-beep/english-picture-book-course/releases) 下载 `english-picture-book-offline.zip`（只要英文课）或 `ascendcost-edu-full.zip`（三科全集）。解压后双击「启动课堂-Windows.bat」（Windows）或「启动课堂-Mac.command」（Mac），浏览器自动打开课程首页，断网可学。
+2. **克隆源码**：`git clone https://github.com/mydogbro-beep/english-picture-book-course.git` —— 仓库里是课程源码与素材（插图、音频、生产脚本），适合二次开发；日常学习请用上面的离线包或在线版。
+
 ## 使用介绍
 
 - **直接打开就能学**：在线版 https://edu.ascendcost.com/english/ ，手机、平板、电脑浏览器都可以，不用下载、不用注册。
