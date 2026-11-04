@@ -1,0 +1,386 @@
+{
+ "audio_texts": [
+  "What Can You Do?",
+  "What can you do?",
+  "I can swim!",
+  "Can you jump?",
+  "Yes, I can jump!",
+  "Can you fly?",
+  "No, I can't fly. I can run fast!",
+  "What can you do, Pip?",
+  "I can climb a tree!",
+  "We can sing and dance!",
+  "Thank you, friends!",
+  "swim",
+  "run",
+  "jump",
+  "fly",
+  "climb",
+  "sing",
+  "dance",
+  "hop",
+  "dig",
+  "hide"
+ ],
+ "chapter": "第 4 章 · 动物朋友们",
+ "cover_img": "cover.webp",
+ "cover_line": {
+  "en": "What can you do?",
+  "zh": "你会做什么？点句子可以听发音"
+ },
+ "cover_sub": "第 14 课 · 它会做什么 — 皮皮问问农场朋友：你会做什么？",
+ "finish_title": "这一课，你学会说会做什么 🎉",
+ "key": [
+  [
+   "What can you do?",
+   "你会做什么？"
+  ],
+  [
+   "I can swim!",
+   "我会游泳！"
+  ],
+  [
+   "Can you jump?",
+   "你会跳吗？"
+  ],
+  [
+   "Yes, I can jump!",
+   "会！我会跳！"
+  ],
+  [
+   "No, I can't fly. I can run fast!",
+   "我不会飞，但我跑得快！"
+  ],
+  [
+   "I can climb a tree!",
+   "我会爬树！"
+  ]
+ ],
+ "num": 14,
+ "pages": [
+  {
+   "img": "p2.webp",
+   "lines": [
+    {
+     "en": "What can you do?",
+     "who": "pip",
+     "who_name": "皮皮",
+     "zh": "你会做什么？"
+    },
+    {
+     "en": "I can swim!",
+     "who": "pip",
+     "who_name": "鸭子",
+     "zh": "我会游泳！"
+    }
+   ],
+   "narr": "皮皮来到池塘边，鸭子正在水里游泳。",
+   "spots": [
+    {
+     "who": "pip",
+     "box": [
+      0.03,
+      0.145,
+      0.434,
+      0.758
+     ],
+     "say": "What can you do?",
+     "zh": "你会做什么？"
+    },
+    {
+     "who": "duck",
+     "box": [
+      0.557,
+      0.385,
+      0.842,
+      0.818
+     ],
+     "say": "I can swim!",
+     "zh": "我会游泳！"
+    }
+   ]
+  },
+  {
+   "img": "p3.webp",
+   "lines": [
+    {
+     "en": "Can you jump?",
+     "who": "pip",
+     "who_name": "皮皮",
+     "zh": "你会跳吗？"
+    },
+    {
+     "en": "Yes, I can jump!",
+     "who": "pip",
+     "who_name": "兔子",
+     "zh": "会！我会跳！"
+    }
+   ],
+   "narr": "草地上，兔子蹦蹦跳跳地跑了过来。",
+   "spots": [
+    {
+     "who": "pip",
+     "box": [
+      0.086,
+      0.37,
+      0.454,
+      0.929
+     ],
+     "say": "Can you jump?",
+     "zh": "你会跳吗？"
+    },
+    {
+     "who": "rabbit",
+     "box": [
+      0.507,
+      0.014,
+      0.819,
+      0.674
+     ],
+     "say": "Yes, I can jump!",
+     "zh": "会！我会跳！"
+    }
+   ]
+  },
+  {
+   "img": "p4.webp",
+   "lines": [
+    {
+     "en": "Can you fly?",
+     "who": "pip",
+     "who_name": "皮皮",
+     "zh": "你会飞吗？"
+    },
+    {
+     "en": "No, I can't fly. I can run fast!",
+     "who": "pip",
+     "who_name": "马儿",
+     "zh": "我不会飞，但我跑得快！"
+    }
+   ],
+   "narr": "田野里，马儿跑得飞快，皮皮好奇地问它。",
+   "spots": [
+    {
+     "who": "pip",
+     "box": [
+      0.038,
+      0.375,
+      0.372,
+      0.892
+     ],
+     "say": "Can you fly?",
+     "zh": "你会飞吗？"
+    },
+    {
+     "who": "horse",
+     "box": [
+      0.357,
+      0.088,
+      0.891,
+      0.649
+     ],
+     "say": "No, I can't fly. I can run fast!",
+     "zh": "我不会飞，但我跑得快！"
+    }
+   ]
+  },
+  {
+   "img": "p5.webp",
+   "lines": [
+    {
+     "en": "What can you do, Pip?",
+     "who": "pip",
+     "who_name": "鸭子",
+     "zh": "皮皮，你会做什么？"
+    },
+    {
+     "en": "I can climb a tree!",
+     "who": "pip",
+     "who_name": "皮皮",
+     "zh": "我会爬树！"
+    }
+   ],
+   "narr": "轮到皮皮了，他嗖嗖嗖爬上了一棵大树。",
+   "spots": [
+    {
+     "who": "duck",
+     "box": [
+      0.168,
+      0.674,
+      0.363,
+      1.0
+     ],
+     "say": "What can you do, Pip?",
+     "zh": "皮皮，你会做什么？"
+    },
+    {
+     "who": "pip",
+     "box": [
+      0.528,
+      0.062,
+      0.919,
+      0.658
+     ],
+     "say": "I can climb a tree!",
+     "zh": "我会爬树！"
+    }
+   ]
+  },
+  {
+   "img": "p6.webp",
+   "lines": [
+    {
+     "en": "We can sing and dance!",
+     "who": "pip",
+     "who_name": "皮皮",
+     "zh": "我们一起唱歌跳舞吧！"
+    },
+    {
+     "en": "Thank you, friends!",
+     "who": "pip",
+     "who_name": "皮皮",
+     "zh": "谢谢你们，朋友们！"
+    }
+   ],
+   "narr": "大家一起唱歌跳舞，农场里真热闹。",
+   "spots": [
+    {
+     "who": "pip",
+     "box": [
+      0.038,
+      0.227,
+      0.41,
+      0.828
+     ],
+     "say": "We can sing and dance!",
+     "zh": "我们一起唱歌跳舞吧！"
+    }
+   ]
+  }
+ ],
+ "taskA": {
+  "options": [
+   "Can you jump?",
+   "I can swim!",
+   "What can you do?"
+  ],
+  "right_msg": "对啦！这句是「你会跳吗？」",
+  "target": "Can you jump?",
+  "wrong_msg": "再听一遍，仔细听中间那个词。"
+ },
+ "taskB": {
+  "done_msg": "三对全配上啦！",
+  "instruction": "先点一个英文动作词，再点对应的中文词，配成一对。",
+  "left": [
+   {
+    "k": "v-swim",
+    "label": "swim"
+   },
+   {
+    "k": "v-jump",
+    "label": "jump"
+   },
+   {
+    "k": "v-fly",
+    "label": "fly"
+   }
+  ],
+  "right": [
+   {
+    "k": "v-jump",
+    "label": "跳",
+    "say": "jump"
+   },
+   {
+    "k": "v-fly",
+    "label": "飞",
+    "say": "fly"
+   },
+   {
+    "k": "v-swim",
+    "label": "游泳",
+    "say": "swim"
+   }
+  ],
+  "title": "动作词配一配"
+ },
+ "taskC": [
+  [
+   "What can you do?",
+   "你会做什么？"
+  ],
+  [
+   "I can swim!",
+   "我会游泳！"
+  ],
+  [
+   "Can you jump?",
+   "你会跳吗？"
+  ],
+  [
+   "Yes, I can jump!",
+   "会！我会跳！"
+  ],
+  [
+   "I can climb a tree!",
+   "我会爬树！"
+  ]
+ ],
+ "title_en": "What Can You Do?",
+ "title_zh": "它会做什么",
+ "words": [
+  [
+   "swim",
+   "游泳"
+  ],
+  [
+   "run",
+   "跑"
+  ],
+  [
+   "jump",
+   "跳"
+  ],
+  [
+   "fly",
+   "飞"
+  ],
+  [
+   "climb",
+   "爬"
+  ],
+  [
+   "sing",
+   "唱歌"
+  ],
+  [
+   "dance",
+   "跳舞"
+  ],
+  [
+   "hop",
+   "蹦跳"
+  ],
+  [
+   "dig",
+   "挖"
+  ],
+  [
+   "hide",
+   "躲藏"
+  ]
+ ],
+ "cover_spots": [
+  {
+   "who": "pip",
+   "box": [
+    0.028,
+    0.169,
+    0.498,
+    0.8
+   ],
+   "say": "What can you do?",
+   "zh": "你会做什么？"
+  }
+ ]
+}

@@ -1,0 +1,471 @@
+{
+ "audio_texts": [
+  "I Like Cookies!",
+  "I like cookies!",
+  "Hello! I am Benny.",
+  "I like cookies.",
+  "I like oranges.",
+  "I like cheese.",
+  "I don't like fish.",
+  "I don't like carrots.",
+  "I like ice cream.",
+  "I like candy.",
+  "Do you like cookies?",
+  "Yes! I like cookies.",
+  "cookie",
+  "cheese",
+  "grape",
+  "orange",
+  "carrot",
+  "tomato",
+  "fish",
+  "chicken",
+  "ice cream",
+  "candy"
+ ],
+ "chapter": "第 3 章 · 吃什么",
+ "cover_img": "cover.webp",
+ "cover_line": {
+  "en": "I like cookies!",
+  "zh": "我喜欢饼干！点句子可以听发音"
+ },
+ "cover_sub": "第 10 课 · 小熊本尼尝尝这个、尝尝那个，哪些他喜欢、哪些不喜欢呢？",
+ "finish_title": "这一课，你学会说喜欢和不喜欢 🎉",
+ "key": [
+  [
+   "I like cookies.",
+   "我喜欢饼干。"
+  ],
+  [
+   "I like oranges.",
+   "我喜欢橙子。"
+  ],
+  [
+   "I don't like fish.",
+   "我不喜欢鱼。"
+  ],
+  [
+   "Do you like cookies?",
+   "你喜欢饼干吗？"
+  ],
+  [
+   "Yes! I like cookies.",
+   "是的！我喜欢饼干。"
+  ]
+ ],
+ "num": 10,
+ "pages": [
+  {
+   "img": "p2.webp",
+   "lines": [
+    {
+     "en": "Hello! I am Benny.",
+     "who": "benny",
+     "who_name": "本尼",
+     "zh": "你好！我是本尼。"
+    },
+    {
+     "en": "I like cookies.",
+     "who": "benny",
+     "who_name": "本尼",
+     "zh": "我喜欢饼干。"
+    }
+   ],
+   "narr": "本尼打开小篮子，里面有香香的饼干。",
+   "spots": [
+    {
+     "who": "benny",
+     "box": [
+      0.31,
+      0.07,
+      0.84,
+      0.915
+     ],
+     "say": "Hello! I am Benny.",
+     "zh": "你好！我是本尼。"
+    },
+    {
+     "kind": "obj",
+     "who": "cookie",
+     "box": [
+      0.331,
+      0.642,
+      0.578,
+      0.784
+     ],
+     "say": "cookie",
+     "zh": "饼干"
+    }
+   ]
+  },
+  {
+   "img": "p3.webp",
+   "lines": [
+    {
+     "en": "I like oranges.",
+     "who": "benny",
+     "who_name": "本尼",
+     "zh": "我喜欢橙子。"
+    },
+    {
+     "en": "I like cheese.",
+     "who": "benny",
+     "who_name": "本尼",
+     "zh": "我喜欢奶酪。"
+    }
+   ],
+   "narr": "桌子上还有橙子和奶酪，本尼一样一样尝过去。",
+   "spots": [
+    {
+     "kind": "obj",
+     "who": "cheese",
+     "box": [
+      0.718,
+      0.717,
+      0.87,
+      0.871
+     ],
+     "say": "cheese",
+     "zh": "奶酪"
+    },
+    {
+     "kind": "obj",
+     "who": "orange",
+     "box": [
+      0.15,
+      0.78,
+      0.28,
+      0.908
+     ],
+     "say": "orange",
+     "zh": "橙子"
+    },
+    {
+     "who": "benny",
+     "box": [
+      0.216,
+      0.094,
+      0.715,
+      0.808
+     ],
+     "say": "I like oranges.",
+     "zh": "我喜欢橙子。"
+    },
+    {
+     "kind": "obj",
+     "who": "orange",
+     "box": [
+      0.459,
+      0.52,
+      0.564,
+      0.622
+     ],
+     "say": "orange",
+     "zh": "橙子"
+    }
+   ]
+  },
+  {
+   "img": "p4.webp",
+   "lines": [
+    {
+     "en": "I don't like fish.",
+     "who": "benny",
+     "who_name": "本尼",
+     "zh": "我不喜欢鱼。"
+    },
+    {
+     "en": "I don't like carrots.",
+     "who": "benny",
+     "who_name": "本尼",
+     "zh": "我不喜欢胡萝卜。"
+    }
+   ],
+   "narr": "尝到鱼和胡萝卜，本尼摇摇头——这两个他不喜欢。",
+   "spots": [
+    {
+     "kind": "obj",
+     "who": "carrot",
+     "box": [
+      0.693,
+      0.745,
+      0.808,
+      0.841
+     ],
+     "say": "carrot",
+     "zh": "胡萝卜"
+    },
+    {
+     "who": "benny",
+     "box": [
+      0.105,
+      0.095,
+      0.623,
+      0.92
+     ],
+     "say": "I don't like fish.",
+     "zh": "我不喜欢鱼。"
+    },
+    {
+     "kind": "obj",
+     "who": "fish",
+     "box": [
+      0.533,
+      0.669,
+      0.787,
+      0.818
+     ],
+     "say": "fish",
+     "zh": "鱼"
+    }
+   ]
+  },
+  {
+   "img": "p5.webp",
+   "lines": [
+    {
+     "en": "I like ice cream.",
+     "who": "benny",
+     "who_name": "本尼",
+     "zh": "我喜欢冰淇淋。"
+    },
+    {
+     "en": "I like candy.",
+     "who": "benny",
+     "who_name": "本尼",
+     "zh": "我喜欢糖果。"
+    }
+   ],
+   "narr": "最后是冰淇淋和糖果，本尼吃得眉开眼笑。",
+   "spots": [
+    {
+     "kind": "obj",
+     "who": "candy",
+     "box": [
+      0.689,
+      0.85,
+      0.839,
+      0.944
+     ],
+     "say": "candy",
+     "zh": "糖果"
+    },
+    {
+     "who": "benny",
+     "box": [
+      0.217,
+      0.08,
+      0.732,
+      0.806
+     ],
+     "say": "I like ice cream.",
+     "zh": "我喜欢冰淇淋。"
+    },
+    {
+     "kind": "obj",
+     "who": "icecream",
+     "box": [
+      0.458,
+      0.554,
+      0.673,
+      0.788
+     ],
+     "say": "ice cream",
+     "zh": "冰淇淋"
+    }
+   ]
+  },
+  {
+   "img": "p6.webp",
+   "lines": [
+    {
+     "en": "Do you like cookies?",
+     "who": "benny",
+     "who_name": "本尼",
+     "zh": "你喜欢饼干吗？"
+    },
+    {
+     "en": "Yes! I like cookies.",
+     "who": "benny",
+     "who_name": "本尼",
+     "zh": "是的！我喜欢饼干。"
+    }
+   ],
+   "narr": "本尼举起一块饼干问你：你也喜欢吗？",
+   "spots": [
+    {
+     "who": "benny",
+     "box": [
+      0.317,
+      0.09,
+      0.719,
+      0.868
+     ],
+     "say": "Do you like cookies?",
+     "zh": "你喜欢饼干吗？"
+    },
+    {
+     "kind": "obj",
+     "who": "cookie",
+     "box": [
+      0.342,
+      0.364,
+      0.448,
+      0.512
+     ],
+     "say": "cookie",
+     "zh": "饼干"
+    }
+   ]
+  }
+ ],
+ "taskA": {
+  "options": [
+   "I like cookies.",
+   "I don't like fish.",
+   "Do you like cookies?"
+  ],
+  "right_msg": "对啦！这句是「我喜欢饼干。」",
+  "target": "I like cookies.",
+  "wrong_msg": "再听一遍，仔细听有没有 don't。"
+ },
+ "taskB": {
+  "done_msg": "三对全配上啦！",
+  "instruction": "先点一个英文词，再点对应的中文词，配成一对。",
+  "left": [
+   {
+    "k": "b-cookie",
+    "label": "cookie"
+   },
+   {
+    "k": "b-fish",
+    "label": "fish"
+   },
+   {
+    "k": "b-carrot",
+    "label": "carrot"
+   }
+  ],
+  "right": [
+   {
+    "k": "b-fish",
+    "label": "鱼",
+    "say": "fish"
+   },
+   {
+    "k": "b-carrot",
+    "label": "胡萝卜",
+    "say": "carrot"
+   },
+   {
+    "k": "b-cookie",
+    "label": "饼干",
+    "say": "cookie"
+   }
+  ],
+  "title": "喜欢词配一配"
+ },
+ "taskC": [
+  [
+   "I like cookies.",
+   "我喜欢饼干。"
+  ],
+  [
+   "I like oranges.",
+   "我喜欢橙子。"
+  ],
+  [
+   "I don't like fish.",
+   "我不喜欢鱼。"
+  ],
+  [
+   "Do you like cookies?",
+   "你喜欢饼干吗？"
+  ],
+  [
+   "Yes! I like cookies.",
+   "是的！我喜欢饼干。"
+  ]
+ ],
+ "title_en": "I Like Cookies!",
+ "title_zh": "喜欢和不喜欢",
+ "words": [
+  [
+   "cookie",
+   "饼干"
+  ],
+  [
+   "cheese",
+   "奶酪"
+  ],
+  [
+   "grape",
+   "葡萄"
+  ],
+  [
+   "orange",
+   "橙子"
+  ],
+  [
+   "carrot",
+   "胡萝卜"
+  ],
+  [
+   "tomato",
+   "西红柿"
+  ],
+  [
+   "fish",
+   "鱼"
+  ],
+  [
+   "chicken",
+   "鸡肉"
+  ],
+  [
+   "ice cream",
+   "冰淇淋"
+  ],
+  [
+   "candy",
+   "糖果"
+  ]
+ ],
+ "cover_spots": [
+  {
+   "kind": "obj",
+   "who": "cheese",
+   "box": [
+    0.314,
+    0.762,
+    0.436,
+    0.868
+   ],
+   "say": "cheese",
+   "zh": "奶酪"
+  },
+  {
+   "who": "benny",
+   "box": [
+    0.266,
+    0.1,
+    0.718,
+    0.732
+   ],
+   "say": "I like cookies!",
+   "zh": "我喜欢饼干！"
+  },
+  {
+   "kind": "obj",
+   "who": "cookie",
+   "box": [
+    0.472,
+    0.45,
+    0.706,
+    0.601
+   ],
+   "say": "cookie",
+   "zh": "饼干"
+  }
+ ]
+}

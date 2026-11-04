@@ -1,0 +1,494 @@
+{
+ "audio_texts": [
+  "Yummy Food!",
+  "Hello! I am Benny.",
+  "I am hungry!",
+  "I want an apple.",
+  "I like milk.",
+  "I have some bread.",
+  "I have an egg.",
+  "I eat bread.",
+  "I drink milk.",
+  "Yummy food!",
+  "Thank you! I am happy.",
+  "apple",
+  "banana",
+  "milk",
+  "bread",
+  "egg",
+  "rice",
+  "juice",
+  "water",
+  "honey",
+  "cake"
+ ],
+ "chapter": "第 3 章 · 吃什么",
+ "cover_img": "cover.webp",
+ "cover_line": {
+  "en": "Yummy food!",
+  "zh": "好吃的食物！点句子可以听发音"
+ },
+ "cover_sub": "第 9 课 · 小熊本尼饿了，看看他都吃了什么好吃的。",
+ "finish_title": "这一课，你认识了好多好吃的食物 🎉",
+ "key": [
+  [
+   "I am hungry!",
+   "我饿了！"
+  ],
+  [
+   "I want an apple.",
+   "我想要一个苹果。"
+  ],
+  [
+   "I like milk.",
+   "我喜欢牛奶。"
+  ],
+  [
+   "I eat bread.",
+   "我吃面包。"
+  ],
+  [
+   "I drink milk.",
+   "我喝牛奶。"
+  ]
+ ],
+ "num": 9,
+ "pages": [
+  {
+   "img": "p2.webp",
+   "lines": [
+    {
+     "en": "Hello! I am Benny.",
+     "who": "benny",
+     "who_name": "本尼",
+     "zh": "你好！我是本尼。"
+    },
+    {
+     "en": "I am hungry!",
+     "who": "benny",
+     "who_name": "本尼",
+     "zh": "我饿了！"
+    }
+   ],
+   "narr": "早上，本尼揉揉肚子，他饿了，想吃点好吃的。",
+   "spots": [
+    {
+     "kind": "obj",
+     "who": "apple",
+     "box": [
+      0.07,
+      0.505,
+      0.16,
+      0.59
+     ],
+     "say": "apple",
+     "zh": "苹果"
+    },
+    {
+     "kind": "obj",
+     "who": "honey",
+     "box": [
+      0.785,
+      0.639,
+      0.879,
+      0.793
+     ],
+     "say": "honey",
+     "zh": "蜂蜜"
+    },
+    {
+     "kind": "obj",
+     "who": "rice",
+     "box": [
+      0.839,
+      0.745,
+      0.991,
+      0.848
+     ],
+     "say": "rice",
+     "zh": "米饭"
+    },
+    {
+     "who": "benny",
+     "box": [
+      0.272,
+      0.134,
+      0.691,
+      0.909
+     ],
+     "say": "Hello! I am Benny.",
+     "zh": "你好！我是本尼。"
+    }
+   ]
+  },
+  {
+   "img": "p3.webp",
+   "lines": [
+    {
+     "en": "I want an apple.",
+     "who": "benny",
+     "who_name": "本尼",
+     "zh": "我想要一个苹果。"
+    },
+    {
+     "en": "I like milk.",
+     "who": "benny",
+     "who_name": "本尼",
+     "zh": "我喜欢牛奶。"
+    }
+   ],
+   "narr": "本尼拿起一个红红的苹果，又倒了一杯牛奶。",
+   "spots": [
+    {
+     "who": "benny",
+     "box": [
+      0.251,
+      0.093,
+      0.723,
+      0.953
+     ],
+     "say": "I want an apple.",
+     "zh": "我想要一个苹果。"
+    },
+    {
+     "kind": "obj",
+     "who": "apple",
+     "box": [
+      0.394,
+      0.472,
+      0.508,
+      0.667
+     ],
+     "say": "apple",
+     "zh": "苹果"
+    },
+    {
+     "kind": "obj",
+     "who": "milk",
+     "box": [
+      0.591,
+      0.44,
+      0.7,
+      0.673
+     ],
+     "say": "milk",
+     "zh": "牛奶"
+    }
+   ]
+  },
+  {
+   "img": "p4.webp",
+   "lines": [
+    {
+     "en": "I have some bread.",
+     "who": "benny",
+     "who_name": "本尼",
+     "zh": "我有一些面包。"
+    },
+    {
+     "en": "I have an egg.",
+     "who": "benny",
+     "who_name": "本尼",
+     "zh": "我有一个鸡蛋。"
+    }
+   ],
+   "narr": "桌子上还有面包和鸡蛋，本尼一样一样数给自己听。",
+   "spots": [
+    {
+     "kind": "obj",
+     "who": "bread",
+     "box": [
+      0.192,
+      0.7,
+      0.481,
+      0.902
+     ],
+     "say": "bread",
+     "zh": "面包"
+    },
+    {
+     "kind": "obj",
+     "who": "egg",
+     "box": [
+      0.518,
+      0.748,
+      0.632,
+      0.892
+     ],
+     "say": "egg",
+     "zh": "鸡蛋"
+    },
+    {
+     "who": "benny",
+     "box": [
+      0.394,
+      0.116,
+      0.928,
+      0.813
+     ],
+     "say": "I have some bread.",
+     "zh": "我有一些面包。"
+    }
+   ]
+  },
+  {
+   "img": "p5.webp",
+   "lines": [
+    {
+     "en": "I eat bread.",
+     "who": "benny",
+     "who_name": "本尼",
+     "zh": "我吃面包。"
+    },
+    {
+     "en": "I drink milk.",
+     "who": "benny",
+     "who_name": "本尼",
+     "zh": "我喝牛奶。"
+    }
+   ],
+   "narr": "本尼大口吃面包，咕嘟咕嘟喝牛奶，吃得香香的。",
+   "spots": [
+    {
+     "who": "benny",
+     "box": [
+      0.194,
+      0.077,
+      0.809,
+      0.844
+     ],
+     "say": "I eat bread.",
+     "zh": "我吃面包。"
+    },
+    {
+     "kind": "obj",
+     "who": "bread",
+     "box": [
+      0.424,
+      0.491,
+      0.589,
+      0.721
+     ],
+     "say": "bread",
+     "zh": "面包"
+    },
+    {
+     "kind": "obj",
+     "who": "milk",
+     "box": [
+      0.634,
+      0.544,
+      0.777,
+      0.857
+     ],
+     "say": "milk",
+     "zh": "牛奶"
+    }
+   ]
+  },
+  {
+   "img": "p6.webp",
+   "lines": [
+    {
+     "en": "Yummy food!",
+     "who": "benny",
+     "who_name": "本尼",
+     "zh": "好吃的食物！"
+    },
+    {
+     "en": "Thank you! I am happy.",
+     "who": "benny",
+     "who_name": "本尼",
+     "zh": "谢谢！我很开心。"
+    }
+   ],
+   "narr": "吃饱啦！本尼摸摸圆圆的肚子，开心地笑了。",
+   "spots": [
+    {
+     "who": "benny",
+     "box": [
+      0.178,
+      0.069,
+      0.663,
+      0.873
+     ],
+     "say": "Yummy food!",
+     "zh": "好吃的食物！"
+    }
+   ]
+  }
+ ],
+ "taskA": {
+  "options": [
+   "I want an apple.",
+   "I am hungry!",
+   "I like milk."
+  ],
+  "right_msg": "对啦！这句是「我想要一个苹果。」",
+  "target": "I want an apple.",
+  "wrong_msg": "再听一遍，仔细听最后一个词。"
+ },
+ "taskB": {
+  "done_msg": "三对全配上啦！",
+  "instruction": "先点一个英文词，再点对应的中文词，配成一对。",
+  "left": [
+   {
+    "k": "r-apple",
+    "label": "apple"
+   },
+   {
+    "k": "r-milk",
+    "label": "milk"
+   },
+   {
+    "k": "r-bread",
+    "label": "bread"
+   }
+  ],
+  "right": [
+   {
+    "k": "r-milk",
+    "label": "牛奶",
+    "say": "milk"
+   },
+   {
+    "k": "r-bread",
+    "label": "面包",
+    "say": "bread"
+   },
+   {
+    "k": "r-apple",
+    "label": "苹果",
+    "say": "apple"
+   }
+  ],
+  "title": "食物词配一配"
+ },
+ "taskC": [
+  [
+   "I am hungry!",
+   "我饿了！"
+  ],
+  [
+   "I want an apple.",
+   "我想要一个苹果。"
+  ],
+  [
+   "I like milk.",
+   "我喜欢牛奶。"
+  ],
+  [
+   "I eat bread.",
+   "我吃面包。"
+  ],
+  [
+   "I drink milk.",
+   "我喝牛奶。"
+  ]
+ ],
+ "title_en": "Yummy Food!",
+ "title_zh": "好吃的食物",
+ "words": [
+  [
+   "apple",
+   "苹果"
+  ],
+  [
+   "banana",
+   "香蕉"
+  ],
+  [
+   "milk",
+   "牛奶"
+  ],
+  [
+   "bread",
+   "面包"
+  ],
+  [
+   "egg",
+   "鸡蛋"
+  ],
+  [
+   "rice",
+   "米饭"
+  ],
+  [
+   "juice",
+   "果汁"
+  ],
+  [
+   "water",
+   "水"
+  ],
+  [
+   "honey",
+   "蜂蜜"
+  ],
+  [
+   "cake",
+   "蛋糕"
+  ]
+ ],
+ "cover_spots": [
+  {
+   "kind": "obj",
+   "who": "apple",
+   "box": [
+    0.078,
+    0.552,
+    0.212,
+    0.718
+   ],
+   "say": "apple",
+   "zh": "苹果"
+  },
+  {
+   "kind": "obj",
+   "who": "milk",
+   "box": [
+    0.687,
+    0.49,
+    0.775,
+    0.755
+   ],
+   "say": "milk",
+   "zh": "牛奶"
+  },
+  {
+   "kind": "obj",
+   "who": "honey",
+   "box": [
+    0.795,
+    0.634,
+    0.926,
+    0.856
+   ],
+   "say": "honey",
+   "zh": "蜂蜜"
+  },
+  {
+   "who": "benny",
+   "box": [
+    0.283,
+    0.098,
+    0.663,
+    0.747
+   ],
+   "say": "Yummy food!",
+   "zh": "好吃的食物！"
+  },
+  {
+   "kind": "obj",
+   "who": "bread",
+   "box": [
+    0.203,
+    0.682,
+    0.419,
+    0.854
+   ],
+   "say": "bread",
+   "zh": "面包"
+  }
+ ]
+}

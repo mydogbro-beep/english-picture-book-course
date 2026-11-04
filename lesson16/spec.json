@@ -1,0 +1,424 @@
+{
+ "audio_texts": [
+  "The Animal Sports Day!",
+  "Let's have a race!",
+  "Welcome to the sports day!",
+  "Let's have a race!",
+  "The horse is fast!",
+  "I can run fast!",
+  "Can you swim?",
+  "Yes! I can swim!",
+  "Can you jump?",
+  "Yes! I can jump!",
+  "I am small. I can climb a tree!",
+  "Big and small, we are friends!",
+  "race",
+  "jump",
+  "swim",
+  "fast",
+  "slow",
+  "big",
+  "small",
+  "elephant",
+  "horse",
+  "friend"
+ ],
+ "chapter": "第 4 章 · 动物朋友们",
+ "cover_img": "cover.webp",
+ "cover_line": {
+  "en": "Let's have a race!",
+  "zh": "我们来赛跑吧！点句子可以听发音"
+ },
+ "cover_sub": "第 16 课 · 第 4 章复习：动物运动会开场啦！马儿跑、鸭子游、兔子跳，谁是冠军？",
+ "finish_title": "这一课，你复习了动物朋友和运动会 🎉",
+ "key": [
+  [
+   "Welcome to the sports day!",
+   "欢迎来到运动会！"
+  ],
+  [
+   "Let's have a race!",
+   "我们来赛跑吧！"
+  ],
+  [
+   "The horse is fast!",
+   "这匹马跑得快！"
+  ],
+  [
+   "Can you swim?",
+   "你会游泳吗？"
+  ],
+  [
+   "Can you jump?",
+   "你会跳吗？"
+  ],
+  [
+   "Big and small, we are friends!",
+   "大的、小的，都是好朋友！"
+  ]
+ ],
+ "num": 16,
+ "pages": [
+  {
+   "img": "p2.webp",
+   "lines": [
+    {
+     "en": "Welcome to the sports day!",
+     "who": "pip",
+     "who_name": "皮皮",
+     "zh": "欢迎来到运动会！"
+    },
+    {
+     "en": "Let's have a race!",
+     "who": "pip",
+     "who_name": "皮皮",
+     "zh": "我们来赛跑吧！"
+    }
+   ],
+   "narr": "运动会开场啦！皮皮站在起跑线上，欢迎所有的动物朋友。",
+   "spots": [
+    {
+     "kind": "obj",
+     "who": "horse",
+     "box": [
+      0.538,
+      0.075,
+      0.784,
+      0.669
+     ],
+     "say": "horse",
+     "zh": "马"
+    },
+    {
+     "who": "pip",
+     "box": [
+      0.019,
+      0.163,
+      0.497,
+      0.889
+     ],
+     "say": "Welcome to the sports day!",
+     "zh": "欢迎来到运动会！"
+    }
+   ]
+  },
+  {
+   "img": "p3.webp",
+   "lines": [
+    {
+     "en": "The horse is fast!",
+     "who": "pip",
+     "who_name": "皮皮",
+     "zh": "这匹马跑得快！"
+    },
+    {
+     "en": "I can run fast!",
+     "who": "pip",
+     "who_name": "马儿",
+     "zh": "我跑得可快了！"
+    }
+   ],
+   "narr": "赛跑开始！马儿像风一样冲出去，跑得飞快。",
+   "spots": [
+    {
+     "who": "horse",
+     "box": [
+      0.308,
+      0.079,
+      0.896,
+      0.723
+     ],
+     "say": "I can run fast!",
+     "zh": "我跑得可快了！"
+    },
+    {
+     "who": "pip",
+     "box": [
+      0.038,
+      0.347,
+      0.406,
+      0.899
+     ],
+     "say": "The horse is fast!",
+     "zh": "这匹马跑得快！"
+    }
+   ]
+  },
+  {
+   "img": "p4.webp",
+   "lines": [
+    {
+     "en": "Can you swim?",
+     "who": "pip",
+     "who_name": "皮皮",
+     "zh": "你会游泳吗？"
+    },
+    {
+     "en": "Yes! I can swim!",
+     "who": "pip",
+     "who_name": "鸭子",
+     "zh": "会！我会游泳！"
+    }
+   ],
+   "narr": "游泳比赛在池塘里，鸭子划着水，游得又稳又快。",
+   "spots": [
+    {
+     "who": "duck",
+     "box": [
+      0.159,
+      0.361,
+      0.365,
+      0.603
+     ],
+     "say": "Yes! I can swim!",
+     "zh": "会！我会游泳！"
+    },
+    {
+     "who": "pip",
+     "box": [
+      0.584,
+      0.194,
+      0.974,
+      0.81
+     ],
+     "say": "Can you swim?",
+     "zh": "你会游泳吗？"
+    }
+   ]
+  },
+  {
+   "img": "p5.webp",
+   "lines": [
+    {
+     "en": "Can you jump?",
+     "who": "pip",
+     "who_name": "皮皮",
+     "zh": "你会跳吗？"
+    },
+    {
+     "en": "Yes! I can jump!",
+     "who": "pip",
+     "who_name": "兔子",
+     "zh": "会！我会跳！"
+    }
+   ],
+   "narr": "跳高比赛轮到兔子，一蹦就跳得老高。",
+   "spots": [
+    {
+     "who": "rabbit",
+     "box": [
+      0.115,
+      0.075,
+      0.51,
+      0.575
+     ],
+     "say": "Yes! I can jump!",
+     "zh": "会！我会跳！"
+    },
+    {
+     "who": "pip",
+     "box": [
+      0.57,
+      0.405,
+      0.96,
+      0.945
+     ],
+     "say": "Can you jump?",
+     "zh": "你会跳吗？"
+    }
+   ]
+  },
+  {
+   "img": "p6.webp",
+   "lines": [
+    {
+     "en": "I am small. I can climb a tree!",
+     "who": "pip",
+     "who_name": "皮皮",
+     "zh": "我很小。我会爬树！"
+    },
+    {
+     "en": "Big and small, we are friends!",
+     "who": "pip",
+     "who_name": "皮皮",
+     "zh": "大的、小的，都是好朋友！"
+    }
+   ],
+   "narr": "皮皮爬上高高的大树，大家一起欢呼：不管大小，都是好朋友！",
+   "spots": [
+    {
+     "kind": "obj",
+     "who": "horse",
+     "box": [
+      0.074,
+      0.535,
+      0.338,
+      0.989
+     ],
+     "say": "horse",
+     "zh": "马"
+    },
+    {
+     "kind": "obj",
+     "who": "elephant",
+     "box": [
+      0.656,
+      0.549,
+      0.913,
+      0.953
+     ],
+     "say": "elephant",
+     "zh": "大象"
+    },
+    {
+     "who": "pip",
+     "box": [
+      0.456,
+      0.067,
+      0.594,
+      0.4
+     ],
+     "say": "I am small. I can climb a tree!",
+     "zh": "我很小。我会爬树！"
+    }
+   ]
+  }
+ ],
+ "taskA": {
+  "options": [
+   "Let's have a race!",
+   "The horse is fast!",
+   "I can run fast!"
+  ],
+  "right_msg": "对啦！这句是「我们来赛跑吧！」",
+  "target": "Let's have a race!",
+  "wrong_msg": "再听一遍，听听是不是说赛跑。"
+ },
+ "taskB": {
+  "done_msg": "三对全配上啦！",
+  "instruction": "先点一个英文词，再点对应的中文词，配成一对。",
+  "left": [
+   {
+    "k": "c-race",
+    "label": "race"
+   },
+   {
+    "k": "c-jump",
+    "label": "jump"
+   },
+   {
+    "k": "c-swim",
+    "label": "swim"
+   }
+  ],
+  "right": [
+   {
+    "k": "c-swim",
+    "label": "游泳",
+    "say": "swim"
+   },
+   {
+    "k": "c-jump",
+    "label": "跳",
+    "say": "jump"
+   },
+   {
+    "k": "c-race",
+    "label": "赛跑",
+    "say": "race"
+   }
+  ],
+  "title": "运动词配一配"
+ },
+ "taskC": [
+  [
+   "Welcome to the sports day!",
+   "欢迎来到运动会！"
+  ],
+  [
+   "Let's have a race!",
+   "我们来赛跑吧！"
+  ],
+  [
+   "The horse is fast!",
+   "这匹马跑得快！"
+  ],
+  [
+   "Can you swim?",
+   "你会游泳吗？"
+  ],
+  [
+   "Can you jump?",
+   "你会跳吗？"
+  ]
+ ],
+ "title_en": "The Animal Sports Day!",
+ "title_zh": "动物运动会",
+ "words": [
+  [
+   "race",
+   "赛跑"
+  ],
+  [
+   "jump",
+   "跳"
+  ],
+  [
+   "swim",
+   "游泳"
+  ],
+  [
+   "fast",
+   "快的"
+  ],
+  [
+   "slow",
+   "慢的"
+  ],
+  [
+   "big",
+   "大的"
+  ],
+  [
+   "small",
+   "小的"
+  ],
+  [
+   "elephant",
+   "大象"
+  ],
+  [
+   "horse",
+   "马"
+  ],
+  [
+   "friend",
+   "朋友"
+  ]
+ ],
+ "cover_spots": [
+  {
+   "kind": "obj",
+   "who": "horse",
+   "box": [
+    0.0,
+    0.152,
+    0.254,
+    0.736
+   ],
+   "say": "horse",
+   "zh": "马"
+  },
+  {
+   "who": "pip",
+   "box": [
+    0.359,
+    0.242,
+    0.678,
+    0.888
+   ],
+   "say": "Let's have a race!",
+   "zh": "我们来赛跑吧！"
+  }
+ ]
+}

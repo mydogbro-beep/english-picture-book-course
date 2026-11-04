@@ -1,0 +1,470 @@
+{
+ "audio_texts": [
+  "Breakfast Time!",
+  "It's time for breakfast!",
+  "Good morning, Benny.",
+  "It's seven o'clock.",
+  "I eat toast in the morning.",
+  "I eat cereal in the morning.",
+  "I drink milk in the morning.",
+  "What time is it?",
+  "It's eight o'clock.",
+  "I like breakfast!",
+  "Good morning, everyone!",
+  "breakfast",
+  "morning",
+  "clock",
+  "seven",
+  "eight",
+  "toast",
+  "butter",
+  "jam",
+  "cereal",
+  "spoon"
+ ],
+ "chapter": "第 3 章 · 吃什么",
+ "cover_img": "cover.webp",
+ "cover_line": {
+  "en": "It's time for breakfast!",
+  "zh": "到吃早餐的时间啦！点句子可以听发音"
+ },
+ "cover_sub": "第 11 课 · 小熊本尼的早晨：七点起床，吃一顿香香的早餐。",
+ "finish_title": "这一课，你学会说早餐和时间 🎉",
+ "key": [
+  [
+   "It's seven o'clock.",
+   "现在七点钟。"
+  ],
+  [
+   "It's time for breakfast!",
+   "到吃早餐的时间啦！"
+  ],
+  [
+   "I eat toast in the morning.",
+   "早上我吃吐司。"
+  ],
+  [
+   "I drink milk in the morning.",
+   "早上我喝牛奶。"
+  ],
+  [
+   "What time is it?",
+   "现在几点钟？"
+  ]
+ ],
+ "num": 11,
+ "pages": [
+  {
+   "img": "p2.webp",
+   "lines": [
+    {
+     "en": "Good morning, Benny.",
+     "who": "benny",
+     "who_name": "本尼",
+     "zh": "早上好，本尼。"
+    },
+    {
+     "en": "It's seven o'clock.",
+     "who": "benny",
+     "who_name": "本尼",
+     "zh": "现在七点钟。"
+    }
+   ],
+   "narr": "早晨七点，本尼起床了，墙上的时钟正指着七点。",
+   "spots": [
+    {
+     "kind": "obj",
+     "who": "clock",
+     "box": [
+      0.514,
+      0.069,
+      0.639,
+      0.278
+     ],
+     "say": "clock",
+     "zh": "时钟"
+    },
+    {
+     "who": "benny",
+     "box": [
+      0.088,
+      0.084,
+      0.488,
+      0.957
+     ],
+     "say": "Good morning, Benny.",
+     "zh": "早上好，本尼。"
+    }
+   ]
+  },
+  {
+   "img": "p3.webp",
+   "lines": [
+    {
+     "en": "It's time for breakfast!",
+     "who": "benny",
+     "who_name": "本尼",
+     "zh": "到吃早餐的时间啦！"
+    },
+    {
+     "en": "I eat toast in the morning.",
+     "who": "benny",
+     "who_name": "本尼",
+     "zh": "早上我吃吐司。"
+    }
+   ],
+   "narr": "本尼坐到餐桌前，抹上果酱的吐司香香的。",
+   "spots": [
+    {
+     "kind": "obj",
+     "who": "jam",
+     "box": [
+      0.618,
+      0.61,
+      0.764,
+      0.875
+     ],
+     "say": "jam",
+     "zh": "果酱"
+    },
+    {
+     "who": "benny",
+     "box": [
+      0.102,
+      0.119,
+      0.596,
+      0.85
+     ],
+     "say": "It's time for breakfast!",
+     "zh": "到吃早餐的时间啦！"
+    },
+    {
+     "kind": "obj",
+     "who": "toast",
+     "box": [
+      0.358,
+      0.493,
+      0.573,
+      0.709
+     ],
+     "say": "toast",
+     "zh": "吐司"
+    }
+   ]
+  },
+  {
+   "img": "p4.webp",
+   "lines": [
+    {
+     "en": "I eat cereal in the morning.",
+     "who": "benny",
+     "who_name": "本尼",
+     "zh": "早上我吃麦片。"
+    },
+    {
+     "en": "I drink milk in the morning.",
+     "who": "benny",
+     "who_name": "本尼",
+     "zh": "早上我喝牛奶。"
+    }
+   ],
+   "narr": "还有一碗麦片和一杯牛奶，本尼吃得津津有味。",
+   "spots": [
+    {
+     "who": "benny",
+     "box": [
+      0.162,
+      0.104,
+      0.685,
+      0.86
+     ],
+     "say": "I eat cereal in the morning.",
+     "zh": "早上我吃麦片。"
+    },
+    {
+     "kind": "obj",
+     "who": "cereal",
+     "box": [
+      0.417,
+      0.71,
+      0.694,
+      0.936
+     ],
+     "say": "cereal",
+     "zh": "麦片"
+    },
+    {
+     "kind": "obj",
+     "who": "spoon",
+     "box": [
+      0.373,
+      0.609,
+      0.574,
+      0.782
+     ],
+     "say": "spoon",
+     "zh": "勺子"
+    }
+   ]
+  },
+  {
+   "img": "p5.webp",
+   "lines": [
+    {
+     "en": "What time is it?",
+     "who": "benny",
+     "who_name": "本尼",
+     "zh": "现在几点钟？"
+    },
+    {
+     "en": "It's eight o'clock.",
+     "who": "benny",
+     "who_name": "本尼",
+     "zh": "现在八点钟。"
+    }
+   ],
+   "narr": "吃完早餐，本尼抬头看看时钟——已经八点啦。",
+   "spots": [
+    {
+     "kind": "obj",
+     "who": "clock",
+     "box": [
+      0.584,
+      0.037,
+      0.746,
+      0.278
+     ],
+     "say": "clock",
+     "zh": "时钟"
+    },
+    {
+     "kind": "obj",
+     "who": "cereal",
+     "box": [
+      0.094,
+      0.78,
+      0.299,
+      0.942
+     ],
+     "say": "cereal",
+     "zh": "麦片"
+    },
+    {
+     "who": "benny",
+     "box": [
+      0.314,
+      0.226,
+      0.609,
+      0.918
+     ],
+     "say": "What time is it?",
+     "zh": "现在几点钟？"
+    }
+   ]
+  },
+  {
+   "img": "p6.webp",
+   "lines": [
+    {
+     "en": "I like breakfast!",
+     "who": "benny",
+     "who_name": "本尼",
+     "zh": "我喜欢早餐！"
+    },
+    {
+     "en": "Good morning, everyone!",
+     "who": "benny",
+     "who_name": "本尼",
+     "zh": "大家早上好！"
+    }
+   ],
+   "narr": "吃饱的本尼开开心心，向大家问一声早上好。",
+   "spots": [
+    {
+     "kind": "obj",
+     "who": "toast",
+     "box": [
+      0.072,
+      0.63,
+      0.238,
+      0.731
+     ],
+     "say": "toast",
+     "zh": "吐司"
+    },
+    {
+     "who": "benny",
+     "box": [
+      0.226,
+      0.108,
+      0.79,
+      0.967
+     ],
+     "say": "I like breakfast!",
+     "zh": "我喜欢早餐！"
+    }
+   ]
+  }
+ ],
+ "taskA": {
+  "options": [
+   "It's seven o'clock.",
+   "It's time for breakfast!",
+   "What time is it?"
+  ],
+  "right_msg": "对啦！这句是「现在七点钟。」",
+  "target": "It's seven o'clock.",
+  "wrong_msg": "再听一遍，仔细听是几点钟。"
+ },
+ "taskB": {
+  "done_msg": "三对全配上啦！",
+  "instruction": "先点一个英文词，再点对应的中文词，配成一对。",
+  "left": [
+   {
+    "k": "b-breakfast",
+    "label": "breakfast"
+   },
+   {
+    "k": "b-toast",
+    "label": "toast"
+   },
+   {
+    "k": "b-clock",
+    "label": "clock"
+   }
+  ],
+  "right": [
+   {
+    "k": "b-clock",
+    "label": "时钟",
+    "say": "clock"
+   },
+   {
+    "k": "b-toast",
+    "label": "吐司",
+    "say": "toast"
+   },
+   {
+    "k": "b-breakfast",
+    "label": "早餐",
+    "say": "breakfast"
+   }
+  ],
+  "title": "早餐词配一配"
+ },
+ "taskC": [
+  [
+   "It's seven o'clock.",
+   "现在七点钟。"
+  ],
+  [
+   "It's time for breakfast!",
+   "到吃早餐的时间啦！"
+  ],
+  [
+   "I eat toast in the morning.",
+   "早上我吃吐司。"
+  ],
+  [
+   "I drink milk in the morning.",
+   "早上我喝牛奶。"
+  ],
+  [
+   "What time is it?",
+   "现在几点钟？"
+  ]
+ ],
+ "title_en": "Breakfast Time!",
+ "title_zh": "早餐时间",
+ "words": [
+  [
+   "breakfast",
+   "早餐"
+  ],
+  [
+   "morning",
+   "早晨"
+  ],
+  [
+   "clock",
+   "时钟"
+  ],
+  [
+   "seven",
+   "七"
+  ],
+  [
+   "eight",
+   "八"
+  ],
+  [
+   "toast",
+   "吐司"
+  ],
+  [
+   "butter",
+   "黄油"
+  ],
+  [
+   "jam",
+   "果酱"
+  ],
+  [
+   "cereal",
+   "麦片"
+  ],
+  [
+   "spoon",
+   "勺子"
+  ]
+ ],
+ "cover_spots": [
+  {
+   "kind": "obj",
+   "who": "toast",
+   "box": [
+    0.175,
+    0.746,
+    0.396,
+    0.902
+   ],
+   "say": "toast",
+   "zh": "吐司"
+  },
+  {
+   "kind": "obj",
+   "who": "jam",
+   "box": [
+    0.068,
+    0.626,
+    0.179,
+    0.826
+   ],
+   "say": "jam",
+   "zh": "果酱"
+  },
+  {
+   "kind": "obj",
+   "who": "cereal",
+   "box": [
+    0.543,
+    0.73,
+    0.739,
+    0.912
+   ],
+   "say": "cereal",
+   "zh": "麦片"
+  },
+  {
+   "who": "benny",
+   "box": [
+    0.286,
+    0.125,
+    0.703,
+    0.804
+   ],
+   "say": "It's time for breakfast!",
+   "zh": "到吃早餐的时间啦！"
+  }
+ ]
+}

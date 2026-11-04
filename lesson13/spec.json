@@ -1,0 +1,535 @@
+{
+ "audio_texts": [
+  "Pip's Farm Friends!",
+  "Welcome to the farm!",
+  "Look! A cow!",
+  "What is this?",
+  "This is a pig.",
+  "This is a sheep.",
+  "This is a duck.",
+  "This is a horse.",
+  "This is a hen.",
+  "I like the farm!",
+  "Thank you, friends!",
+  "This is a cow.",
+  "farm",
+  "cow",
+  "pig",
+  "sheep",
+  "duck",
+  "horse",
+  "hen",
+  "goat",
+  "rabbit",
+  "barn"
+ ],
+ "chapter": "第 4 章 · 动物朋友们",
+ "cover_img": "cover.webp",
+ "cover_line": {
+  "en": "Welcome to the farm!",
+  "zh": "欢迎来到农场！点句子可以听发音"
+ },
+ "cover_sub": "第 13 课 · 农场动物 — 松鼠皮皮带你去农场，认识新朋友。",
+ "finish_title": "这一课，你认识了农场动物 🎉",
+ "key": [
+  [
+   "Welcome to the farm!",
+   "欢迎来到农场！"
+  ],
+  [
+   "Look! A cow!",
+   "看！一头奶牛！"
+  ],
+  [
+   "What is this?",
+   "这是什么？"
+  ],
+  [
+   "This is a pig.",
+   "这是一头小猪。"
+  ],
+  [
+   "This is a sheep.",
+   "这是一只绵羊。"
+  ],
+  [
+   "I like the farm!",
+   "我喜欢农场！"
+  ]
+ ],
+ "num": 13,
+ "pages": [
+  {
+   "img": "p2.webp",
+   "lines": [
+    {
+     "en": "Welcome to the farm!",
+     "who": "pip",
+     "who_name": "皮皮",
+     "zh": "欢迎来到农场！"
+    },
+    {
+     "en": "Look! A cow!",
+     "who": "pip",
+     "who_name": "皮皮",
+     "zh": "看！一头奶牛！"
+    }
+   ],
+   "narr": "皮皮来到农场门口，远远就看见一头奶牛在吃草。",
+   "spots": [
+    {
+     "kind": "obj",
+     "who": "cow",
+     "box": [
+      0.648,
+      0.3,
+      0.814,
+      0.49
+     ],
+     "say": "cow",
+     "zh": "奶牛"
+    },
+    {
+     "who": "pip",
+     "box": [
+      0.056,
+      0.203,
+      0.546,
+      0.92
+     ],
+     "say": "Welcome to the farm!",
+     "zh": "欢迎来到农场！"
+    }
+   ]
+  },
+  {
+   "img": "p3.webp",
+   "lines": [
+    {
+     "en": "What is this?",
+     "who": "pip",
+     "who_name": "皮皮",
+     "zh": "这是什么？"
+    },
+    {
+     "en": "This is a pig.",
+     "who": "pip",
+     "who_name": "皮皮",
+     "zh": "这是一头小猪。"
+    }
+   ],
+   "narr": "泥坑边有一头小猪，皮皮凑过去打招呼。",
+   "spots": [
+    {
+     "kind": "obj",
+     "who": "pig",
+     "box": [
+      0.552,
+      0.254,
+      0.941,
+      0.815
+     ],
+     "say": "pig",
+     "zh": "小猪"
+    },
+    {
+     "who": "pip",
+     "box": [
+      0.034,
+      0.16,
+      0.521,
+      0.835
+     ],
+     "say": "What is this?",
+     "zh": "这是什么？"
+    }
+   ]
+  },
+  {
+   "img": "p4.webp",
+   "lines": [
+    {
+     "en": "This is a sheep.",
+     "who": "pip",
+     "who_name": "皮皮",
+     "zh": "这是一只绵羊。"
+    },
+    {
+     "en": "This is a duck.",
+     "who": "pip",
+     "who_name": "皮皮",
+     "zh": "这是一只鸭子。"
+    }
+   ],
+   "narr": "草地上，绵羊在吃草；池塘里，鸭子在游泳。",
+   "spots": [
+    {
+     "kind": "obj",
+     "who": "sheep",
+     "box": [
+      0.515,
+      0.085,
+      0.812,
+      0.445
+     ],
+     "say": "sheep",
+     "zh": "绵羊"
+    },
+    {
+     "kind": "obj",
+     "who": "duck",
+     "box": [
+      0.734,
+      0.645,
+      0.863,
+      0.776
+     ],
+     "say": "duck",
+     "zh": "鸭子"
+    },
+    {
+     "who": "pip",
+     "box": [
+      0.026,
+      0.214,
+      0.44,
+      0.875
+     ],
+     "say": "This is a sheep.",
+     "zh": "这是一只绵羊。"
+    }
+   ]
+  },
+  {
+   "img": "p5.webp",
+   "lines": [
+    {
+     "en": "This is a horse.",
+     "who": "pip",
+     "who_name": "皮皮",
+     "zh": "这是一匹马。"
+    },
+    {
+     "en": "This is a hen.",
+     "who": "pip",
+     "who_name": "皮皮",
+     "zh": "这是一只母鸡。"
+    }
+   ],
+   "narr": "马儿在田野里跑，母鸡带着小鸡在谷仓边找食。",
+   "spots": [
+    {
+     "kind": "obj",
+     "who": "barn",
+     "box": [
+      0.747,
+      0.092,
+      0.991,
+      0.366
+     ],
+     "say": "barn",
+     "zh": "谷仓"
+    },
+    {
+     "kind": "obj",
+     "who": "horse",
+     "box": [
+      0.441,
+      0.186,
+      0.715,
+      0.495
+     ],
+     "say": "horse",
+     "zh": "马"
+    },
+    {
+     "kind": "obj",
+     "who": "hen",
+     "box": [
+      0.762,
+      0.436,
+      0.904,
+      0.671
+     ],
+     "say": "hen",
+     "zh": "母鸡"
+    },
+    {
+     "who": "pip",
+     "box": [
+      0.026,
+      0.2,
+      0.444,
+      0.905
+     ],
+     "say": "This is a horse.",
+     "zh": "这是一匹马。"
+    }
+   ]
+  },
+  {
+   "img": "p6.webp",
+   "lines": [
+    {
+     "en": "I like the farm!",
+     "who": "pip",
+     "who_name": "皮皮",
+     "zh": "我喜欢农场！"
+    },
+    {
+     "en": "Thank you, friends!",
+     "who": "pip",
+     "who_name": "皮皮",
+     "zh": "谢谢你们，朋友们！"
+    }
+   ],
+   "narr": "太阳下山了，皮皮向农场的新朋友们挥手告别。",
+   "spots": [
+    {
+     "kind": "obj",
+     "who": "barn",
+     "box": [
+      0.596,
+      0.051,
+      0.953,
+      0.402
+     ],
+     "say": "barn",
+     "zh": "谷仓"
+    },
+    {
+     "kind": "obj",
+     "who": "cow",
+     "box": [
+      0.42,
+      0.325,
+      0.677,
+      0.706
+     ],
+     "say": "cow",
+     "zh": "奶牛"
+    },
+    {
+     "kind": "obj",
+     "who": "horse",
+     "box": [
+      0.777,
+      0.34,
+      1.0,
+      0.749
+     ],
+     "say": "horse",
+     "zh": "马"
+    },
+    {
+     "kind": "obj",
+     "who": "pig",
+     "box": [
+      0.564,
+      0.458,
+      0.756,
+      0.714
+     ],
+     "say": "pig",
+     "zh": "小猪"
+    },
+    {
+     "kind": "obj",
+     "who": "sheep",
+     "box": [
+      0.662,
+      0.527,
+      0.842,
+      0.814
+     ],
+     "say": "sheep",
+     "zh": "绵羊"
+    },
+    {
+     "kind": "obj",
+     "who": "duck",
+     "box": [
+      0.597,
+      0.696,
+      0.748,
+      0.947
+     ],
+     "say": "duck",
+     "zh": "鸭子"
+    },
+    {
+     "kind": "obj",
+     "who": "hen",
+     "box": [
+      0.798,
+      0.644,
+      0.947,
+      0.935
+     ],
+     "say": "hen",
+     "zh": "母鸡"
+    },
+    {
+     "who": "pip",
+     "box": [
+      0.023,
+      0.335,
+      0.408,
+      0.912
+     ],
+     "say": "I like the farm!",
+     "zh": "我喜欢农场！"
+    }
+   ]
+  }
+ ],
+ "taskA": {
+  "options": [
+   "What is this?",
+   "Welcome to the farm!",
+   "I like the farm!"
+  ],
+  "right_msg": "对啦！这句是「这是什么？」",
+  "target": "What is this?",
+  "wrong_msg": "再听一遍，仔细听第一个词。"
+ },
+ "taskB": {
+  "done_msg": "三对全配上啦！",
+  "instruction": "先点一个英文词，再点对应的中文词，配成一对。",
+  "left": [
+   {
+    "k": "f-cow",
+    "label": "cow"
+   },
+   {
+    "k": "f-pig",
+    "label": "pig"
+   },
+   {
+    "k": "f-sheep",
+    "label": "sheep"
+   }
+  ],
+  "right": [
+   {
+    "k": "f-sheep",
+    "label": "绵羊",
+    "say": "sheep"
+   },
+   {
+    "k": "f-cow",
+    "label": "奶牛",
+    "say": "cow"
+   },
+   {
+    "k": "f-pig",
+    "label": "小猪",
+    "say": "pig"
+   }
+  ],
+  "title": "农场动物配一配"
+ },
+ "taskC": [
+  [
+   "Welcome to the farm!",
+   "欢迎来到农场！"
+  ],
+  [
+   "What is this?",
+   "这是什么？"
+  ],
+  [
+   "This is a cow.",
+   "这是一头奶牛。"
+  ],
+  [
+   "This is a pig.",
+   "这是一头小猪。"
+  ],
+  [
+   "I like the farm!",
+   "我喜欢农场！"
+  ]
+ ],
+ "title_en": "Pip's Farm Friends!",
+ "title_zh": "农场动物",
+ "words": [
+  [
+   "farm",
+   "农场"
+  ],
+  [
+   "cow",
+   "奶牛"
+  ],
+  [
+   "pig",
+   "小猪"
+  ],
+  [
+   "sheep",
+   "绵羊"
+  ],
+  [
+   "duck",
+   "鸭子"
+  ],
+  [
+   "horse",
+   "马"
+  ],
+  [
+   "hen",
+   "母鸡"
+  ],
+  [
+   "goat",
+   "山羊"
+  ],
+  [
+   "rabbit",
+   "兔子"
+  ],
+  [
+   "barn",
+   "谷仓"
+  ]
+ ],
+ "cover_spots": [
+  {
+   "kind": "obj",
+   "who": "barn",
+   "box": [
+    0.257,
+    0.07,
+    0.519,
+    0.278
+   ],
+   "say": "barn",
+   "zh": "谷仓"
+  },
+  {
+   "kind": "obj",
+   "who": "cow",
+   "box": [
+    0.58,
+    0.188,
+    0.722,
+    0.337
+   ],
+   "say": "cow",
+   "zh": "奶牛"
+  },
+  {
+   "who": "pip",
+   "box": [
+    0.326,
+    0.282,
+    0.778,
+    0.963
+   ],
+   "say": "Welcome to the farm!",
+   "zh": "欢迎来到农场！"
+  }
+ ]
+}

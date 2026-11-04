@@ -1,0 +1,411 @@
+{
+ "audio_texts": [
+  "Big and Small",
+  "It is big!",
+  "Look! An elephant!",
+  "It is big! Very big!",
+  "Hello, Pip! You are small.",
+  "I am small. I can climb a tree!",
+  "The horse is fast!",
+  "Yes! I can run fast!",
+  "Is the duck fast?",
+  "No. I am slow. I am happy!",
+  "The tree is tall! I can climb!",
+  "Big and small, we are friends!",
+  "big",
+  "small",
+  "fast",
+  "slow",
+  "tall",
+  "short",
+  "long",
+  "fat",
+  "thin",
+  "elephant"
+ ],
+ "chapter": "第 4 章 · 动物朋友们",
+ "cover_img": "cover.webp",
+ "cover_line": {
+  "en": "It is big!",
+  "zh": "它好大！点句子可以听发音"
+ },
+ "cover_sub": "第 15 课 · 大小快慢 — 皮皮认识新朋友大象：它好大！谁跑得快，谁走得慢？",
+ "finish_title": "这一课，你学会说大小快慢啦 🎉",
+ "key": [
+  [
+   "Look! An elephant!",
+   "看！一头大象！"
+  ],
+  [
+   "It is big!",
+   "它好大！"
+  ],
+  [
+   "Hello, Pip! You are small.",
+   "你好，皮皮！你小小的。"
+  ],
+  [
+   "The horse is fast!",
+   "这匹马跑得快！"
+  ],
+  [
+   "Is the duck fast?",
+   "鸭子跑得快吗？"
+  ],
+  [
+   "No. I am slow. I am happy!",
+   "不，我很慢。我很开心！"
+  ]
+ ],
+ "num": 15,
+ "pages": [
+  {
+   "img": "p2.webp",
+   "lines": [
+    {
+     "en": "Look! An elephant!",
+     "who": "pip",
+     "who_name": "皮皮",
+     "zh": "看！一头大象！"
+    },
+    {
+     "en": "It is big! Very big!",
+     "who": "pip",
+     "who_name": "皮皮",
+     "zh": "它好大！好大好大！"
+    }
+   ],
+   "narr": "皮皮在树林里散步，迎面走来一头大象，它的鼻子长长的。",
+   "spots": [
+    {
+     "kind": "obj",
+     "who": "elephant",
+     "box": [
+      0.367,
+      0.081,
+      0.917,
+      0.83
+     ],
+     "say": "elephant",
+     "zh": "大象"
+    },
+    {
+     "who": "pip",
+     "box": [
+      0.107,
+      0.508,
+      0.393,
+      0.926
+     ],
+     "say": "Look! An elephant!",
+     "zh": "看！一头大象！"
+    }
+   ]
+  },
+  {
+   "img": "p3.webp",
+   "lines": [
+    {
+     "en": "Hello, Pip! You are small.",
+     "who": "pip",
+     "who_name": "大象",
+     "zh": "你好，皮皮！你小小的。"
+    },
+    {
+     "en": "I am small. I can climb a tree!",
+     "who": "pip",
+     "who_name": "皮皮",
+     "zh": "我很小。我会爬树！"
+    }
+   ],
+   "narr": "大象低下头，笑眯眯地看着脚边小小的皮皮。",
+   "spots": [
+    {
+     "who": "elephant",
+     "box": [
+      0.0,
+      0.0,
+      0.711,
+      0.918
+     ],
+     "say": "Hello, Pip! You are small.",
+     "zh": "你好，皮皮！你小小的。"
+    },
+    {
+     "who": "pip",
+     "box": [
+      0.606,
+      0.568,
+      0.868,
+      0.956
+     ],
+     "say": "I am small. I can climb a tree!",
+     "zh": "我很小。我会爬树！"
+    }
+   ]
+  },
+  {
+   "img": "p4.webp",
+   "lines": [
+    {
+     "en": "The horse is fast!",
+     "who": "pip",
+     "who_name": "皮皮",
+     "zh": "这匹马跑得快！"
+    },
+    {
+     "en": "Yes! I can run fast!",
+     "who": "pip",
+     "who_name": "马儿",
+     "zh": "对！我跑得可快了！"
+    }
+   ],
+   "narr": "马儿从旁边跑过，跑得飞快。",
+   "spots": [
+    {
+     "who": "horse",
+     "box": [
+      0.314,
+      0.083,
+      0.885,
+      0.73
+     ],
+     "say": "Yes! I can run fast!",
+     "zh": "对！我跑得可快了！"
+    },
+    {
+     "who": "pip",
+     "box": [
+      0.016,
+      0.533,
+      0.244,
+      0.892
+     ],
+     "say": "The horse is fast!",
+     "zh": "这匹马跑得快！"
+    }
+   ]
+  },
+  {
+   "img": "p5.webp",
+   "lines": [
+    {
+     "en": "Is the duck fast?",
+     "who": "pip",
+     "who_name": "皮皮",
+     "zh": "鸭子跑得快吗？"
+    },
+    {
+     "en": "No. I am slow. I am happy!",
+     "who": "pip",
+     "who_name": "鸭子",
+     "zh": "不快，我很慢。我很开心！"
+    }
+   ],
+   "narr": "鸭子摇摇摆摆地走过来，一点儿也不着急。",
+   "spots": [
+    {
+     "who": "duck",
+     "box": [
+      0.191,
+      0.412,
+      0.409,
+      0.794
+     ],
+     "say": "No. I am slow. I am happy!",
+     "zh": "不快，我很慢。我很开心！"
+    },
+    {
+     "who": "pip",
+     "box": [
+      0.495,
+      0.345,
+      0.908,
+      0.9
+     ],
+     "say": "Is the duck fast?",
+     "zh": "鸭子跑得快吗？"
+    }
+   ]
+  },
+  {
+   "img": "p6.webp",
+   "lines": [
+    {
+     "en": "The tree is tall! I can climb!",
+     "who": "pip",
+     "who_name": "皮皮",
+     "zh": "这棵树好高！我会爬！"
+    },
+    {
+     "en": "Big and small, we are friends!",
+     "who": "pip",
+     "who_name": "大象",
+     "zh": "大的、小的，都是好朋友！"
+    }
+   ],
+   "narr": "皮皮爬上高高的大树，大家一起看夕阳。",
+   "spots": [
+    {
+     "who": "elephant",
+     "box": [
+      0.134,
+      0.499,
+      0.493,
+      0.948
+     ],
+     "say": "Big and small, we are friends!",
+     "zh": "大的、小的，都是好朋友！"
+    },
+    {
+     "who": "pip",
+     "box": [
+      0.154,
+      0.062,
+      0.42,
+      0.366
+     ],
+     "say": "The tree is tall! I can climb!",
+     "zh": "这棵树好高！我会爬！"
+    }
+   ]
+  }
+ ],
+ "taskA": {
+  "options": [
+   "I am small. I can climb a tree!",
+   "It is big! Very big!",
+   "The horse is fast!"
+  ],
+  "right_msg": "对啦！这句是「它好大！好大好大！」",
+  "target": "It is big! Very big!",
+  "wrong_msg": "再听一遍，听听哪个词是说「大」的。"
+ },
+ "taskB": {
+  "done_msg": "三对全配上啦！",
+  "instruction": "先点一个英文词，再点对应的中文词，配成一对。",
+  "left": [
+   {
+    "k": "a-big",
+    "label": "big"
+   },
+   {
+    "k": "a-slow",
+    "label": "slow"
+   },
+   {
+    "k": "a-tall",
+    "label": "tall"
+   }
+  ],
+  "right": [
+   {
+    "k": "a-slow",
+    "label": "慢的",
+    "say": "slow"
+   },
+   {
+    "k": "a-tall",
+    "label": "高的",
+    "say": "tall"
+   },
+   {
+    "k": "a-big",
+    "label": "大的",
+    "say": "big"
+   }
+  ],
+  "title": "大小快慢配一配"
+ },
+ "taskC": [
+  [
+   "Look! An elephant!",
+   "看！一头大象！"
+  ],
+  [
+   "It is big! Very big!",
+   "它好大！好大好大！"
+  ],
+  [
+   "I am small. I can climb a tree!",
+   "我很小。我会爬树！"
+  ],
+  [
+   "The horse is fast!",
+   "这匹马跑得快！"
+  ],
+  [
+   "Big and small, we are friends!",
+   "大的、小的，都是好朋友！"
+  ]
+ ],
+ "title_en": "Big and Small",
+ "title_zh": "大小快慢",
+ "words": [
+  [
+   "big",
+   "大的"
+  ],
+  [
+   "small",
+   "小的"
+  ],
+  [
+   "fast",
+   "快的"
+  ],
+  [
+   "slow",
+   "慢的"
+  ],
+  [
+   "tall",
+   "高的"
+  ],
+  [
+   "short",
+   "矮的"
+  ],
+  [
+   "long",
+   "长的"
+  ],
+  [
+   "fat",
+   "胖的"
+  ],
+  [
+   "thin",
+   "瘦的"
+  ],
+  [
+   "elephant",
+   "大象"
+  ]
+ ],
+ "cover_spots": [
+  {
+   "kind": "obj",
+   "who": "elephant",
+   "box": [
+    0.424,
+    0.0,
+    1.0,
+    0.89
+   ],
+   "say": "elephant",
+   "zh": "大象"
+  },
+  {
+   "who": "pip",
+   "box": [
+    0.06,
+    0.44,
+    0.395,
+    0.945
+   ],
+   "say": "It is big!",
+   "zh": "它好大！"
+  }
+ ]
+}
