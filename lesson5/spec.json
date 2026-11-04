@@ -1,0 +1,515 @@
+{
+ "audio_texts": [
+  "My Big Family!",
+  "Welcome to my home!",
+  "Who is this?",
+  "This is my mom.",
+  "This is my dad.",
+  "This is my grandma.",
+  "This is my grandpa.",
+  "This is my sister.",
+  "This is my brother.",
+  "This is the baby.",
+  "This is my family.",
+  "I love my family!",
+  "What is this?",
+  "What color is it?",
+  "mom",
+  "dad",
+  "grandma",
+  "grandpa",
+  "brother",
+  "sister",
+  "baby",
+  "family",
+  "home",
+  "photo",
+  "Hello! I am Coco!",
+  "Hello! I am Grandpa!",
+  "Hello! I am Sister!",
+  "Hello! I am Baby!",
+  "Hello! I am Brother!"
+ ],
+ "chapter": "第 2 章 · 我和我的家",
+ "cover_img": "cover.webp",
+ "cover_line": {
+  "en": "Welcome to my home!",
+  "zh": "欢迎来我家！点句子可以听发音"
+ },
+ "cover_sub": "第 5 课 · 家人称呼 — 米洛拿出全家福，给可可介绍自己的家人。",
+ "finish_title": "这一课，你认识了米洛的一家人 🎉",
+ "key": [
+  [
+   "Who is this?",
+   "这是谁？"
+  ],
+  [
+   "This is my mom.",
+   "这是我妈妈。"
+  ],
+  [
+   "This is my dad.",
+   "这是我爸爸。"
+  ],
+  [
+   "This is my grandma.",
+   "这是我奶奶。"
+  ],
+  [
+   "This is my grandpa.",
+   "这是我爷爷。"
+  ],
+  [
+   "This is my family.",
+   "这是我的一家人。"
+  ],
+  [
+   "I love my family!",
+   "我爱我的一家人！"
+  ],
+  [
+   "Welcome to my home!",
+   "欢迎来我家！"
+  ]
+ ],
+ "num": 5,
+ "pages": [
+  {
+   "img": "p2.webp",
+   "lines": [
+    {
+     "en": "Who is this?",
+     "who": "coco",
+     "who_name": "可可",
+     "zh": "这是谁？"
+    },
+    {
+     "en": "This is my mom.",
+     "who": "milo",
+     "who_name": "米洛",
+     "zh": "这是我妈妈。"
+    }
+   ],
+   "narr": "米洛拿出一张全家福，指着照片上的人给可可介绍。",
+   "spots": [
+    {
+     "kind": "obj",
+     "who": "photo",
+     "box": [
+      0.318,
+      0.507,
+      0.739,
+      0.917
+     ],
+     "say": "photo",
+     "zh": "照片"
+    },
+    {
+     "who": "milo",
+     "box": [
+      0.054,
+      0.104,
+      0.476,
+      0.856
+     ],
+     "say": "This is my mom.",
+     "zh": "这是我妈妈。"
+    },
+    {
+     "who": "coco",
+     "box": [
+      0.602,
+      0.231,
+      0.976,
+      0.811
+     ],
+     "say": "Who is this?",
+     "zh": "这是谁？"
+    }
+   ]
+  },
+  {
+   "img": "p3.webp",
+   "lines": [
+    {
+     "en": "This is my dad.",
+     "who": "milo",
+     "who_name": "米洛",
+     "zh": "这是我爸爸。"
+    },
+    {
+     "en": "This is my grandma.",
+     "who": "milo",
+     "who_name": "米洛",
+     "zh": "这是我奶奶。"
+    }
+   ],
+   "narr": "爸爸和奶奶笑眯眯地站在花园里。",
+   "spots": [
+    {
+     "who": "milo",
+     "box": [
+      0.131,
+      0.414,
+      0.438,
+      0.922
+     ],
+     "say": "This is my dad.",
+     "zh": "这是我爸爸。"
+    },
+    {
+     "who": "coco",
+     "box": [
+      0.48,
+      0.422,
+      0.758,
+      0.906
+     ],
+     "say": "Hello! I am Coco!",
+     "zh": "你好！我是可可！"
+    }
+   ]
+  },
+  {
+   "img": "p4.webp",
+   "lines": [
+    {
+     "en": "This is my grandpa.",
+     "who": "milo",
+     "who_name": "米洛",
+     "zh": "这是我爷爷。"
+    },
+    {
+     "en": "This is my sister.",
+     "who": "milo",
+     "who_name": "米洛",
+     "zh": "这是我姐姐。"
+    }
+   ],
+   "narr": "爷爷戴着老花镜，姐姐抱着一只小花猫。",
+   "spots": [
+    {
+     "who": "milo",
+     "box": [
+      0.029,
+      0.315,
+      0.32,
+      0.915
+     ],
+     "say": "This is my grandpa.",
+     "zh": "这是我爷爷。"
+    },
+    {
+     "who": "coco",
+     "box": [
+      0.27,
+      0.407,
+      0.52,
+      0.907
+     ],
+     "say": "Hello! I am Coco!",
+     "zh": "你好！我是可可！"
+    },
+    {
+     "who": "grandpa",
+     "box": [
+      0.54,
+      0.07,
+      0.9,
+      0.56
+     ],
+     "say": "Hello! I am Grandpa!",
+     "zh": "你好！我是爷爷！"
+    },
+    {
+     "who": "sister",
+     "box": [
+      0.65,
+      0.47,
+      0.868,
+      0.975
+     ],
+     "say": "Hello! I am Sister!",
+     "zh": "你好！我是姐姐！"
+    },
+    {
+     "who": "baby",
+     "box": [
+      0.57,
+      0.595,
+      0.74,
+      0.895
+     ],
+     "say": "Hello! I am Baby!",
+     "zh": "你好！我是小宝宝！"
+    }
+   ]
+  },
+  {
+   "img": "p5.webp",
+   "lines": [
+    {
+     "en": "This is my brother.",
+     "who": "milo",
+     "who_name": "米洛",
+     "zh": "这是我弟弟。"
+    },
+    {
+     "en": "This is the baby.",
+     "who": "milo",
+     "who_name": "米洛",
+     "zh": "这是小宝宝。"
+    }
+   ],
+   "narr": "弟弟举着小汽车，小宝宝坐在摇篮里笑。",
+   "spots": [
+    {
+     "who": "milo",
+     "box": [
+      0.009,
+      0.098,
+      0.429,
+      0.857
+     ],
+     "say": "This is my brother.",
+     "zh": "这是我弟弟。"
+    },
+    {
+     "who": "coco",
+     "box": [
+      0.525,
+      0.135,
+      0.949,
+      0.748
+     ],
+     "say": "Hello! I am Coco!",
+     "zh": "你好！我是可可！"
+    },
+    {
+     "who": "brother",
+     "box": [
+      0.315,
+      0.37,
+      0.62,
+      0.93
+     ],
+     "say": "Hello! I am Brother!",
+     "zh": "你好！我是弟弟！"
+    },
+    {
+     "who": "baby",
+     "box": [
+      0.7,
+      0.57,
+      0.905,
+      0.85
+     ],
+     "say": "Hello! I am Baby!",
+     "zh": "你好！我是小宝宝！"
+    }
+   ]
+  },
+  {
+   "img": "p6.webp",
+   "lines": [
+    {
+     "en": "This is my family.",
+     "who": "milo",
+     "who_name": "米洛",
+     "zh": "这是我的一家人。"
+    },
+    {
+     "en": "I love my family!",
+     "who": "milo",
+     "who_name": "米洛",
+     "zh": "我爱我的一家人！"
+    }
+   ],
+   "narr": "一家人站在家门口，拍了一张大大的全家福。",
+   "spots": [
+    {
+     "who": "family",
+     "box": [
+      0.025,
+      0.105,
+      0.78,
+      0.975
+     ],
+     "say": "This is my family.",
+     "zh": "这是我的一家人。"
+    },
+    {
+     "who": "coco",
+     "box": [
+      0.704,
+      0.525,
+      0.95,
+      0.945
+     ],
+     "say": "Hello! I am Coco!",
+     "zh": "你好！我是可可！"
+    },
+    {
+     "kind": "obj",
+     "who": "home",
+     "box": [
+      0.46,
+      0.005,
+      0.998,
+      0.55
+     ],
+     "say": "home",
+     "zh": "家"
+    }
+   ]
+  }
+ ],
+ "taskA": {
+  "options": [
+   "What is this?",
+   "Who is this?",
+   "What color is it?"
+  ],
+  "right_msg": "对啦！这句是「这是谁？」",
+  "target": "Who is this?",
+  "wrong_msg": "再听一遍，仔细听第一个词。"
+ },
+ "taskB": {
+  "done_msg": "三对全配上啦！",
+  "instruction": "先点一个英文词，再点对应的中文词，配成一对。",
+  "left": [
+   {
+    "k": "f-mom",
+    "label": "mom"
+   },
+   {
+    "k": "f-dad",
+    "label": "dad"
+   },
+   {
+    "k": "f-grandma",
+    "label": "grandma"
+   }
+  ],
+  "right": [
+   {
+    "k": "f-dad",
+    "label": "爸爸",
+    "say": "dad"
+   },
+   {
+    "k": "f-grandma",
+    "label": "奶奶",
+    "say": "grandma"
+   },
+   {
+    "k": "f-mom",
+    "label": "妈妈",
+    "say": "mom"
+   }
+  ],
+  "title": "家人词配一配"
+ },
+ "taskC": [
+  [
+   "Who is this?",
+   "这是谁？"
+  ],
+  [
+   "This is my mom.",
+   "这是我妈妈。"
+  ],
+  [
+   "This is my dad.",
+   "这是我爸爸。"
+  ],
+  [
+   "This is my family.",
+   "这是我的一家人。"
+  ],
+  [
+   "I love my family!",
+   "我爱我的一家人！"
+  ]
+ ],
+ "title_en": "My Big Family!",
+ "title_zh": "我的一家人",
+ "words": [
+  [
+   "mom",
+   "妈妈"
+  ],
+  [
+   "dad",
+   "爸爸"
+  ],
+  [
+   "grandma",
+   "奶奶"
+  ],
+  [
+   "grandpa",
+   "爷爷"
+  ],
+  [
+   "brother",
+   "弟弟"
+  ],
+  [
+   "sister",
+   "姐姐"
+  ],
+  [
+   "baby",
+   "小宝宝"
+  ],
+  [
+   "family",
+   "一家人"
+  ],
+  [
+   "home",
+   "家"
+  ],
+  [
+   "photo",
+   "照片"
+  ]
+ ],
+ "cover_spots": [
+  {
+   "who": "milo",
+   "box": [
+    0.155,
+    0.255,
+    0.49,
+    0.938
+   ],
+   "say": "Welcome to my home!",
+   "zh": "欢迎来我家！"
+  },
+  {
+   "who": "coco",
+   "box": [
+    0.518,
+    0.322,
+    0.842,
+    0.938
+   ],
+   "say": "Hello! I am Coco!",
+   "zh": "你好！我是可可！"
+  },
+  {
+   "kind": "obj",
+   "who": "photo",
+   "box": [
+    0.5,
+    0.63,
+    0.615,
+    0.8
+   ],
+   "say": "photo",
+   "zh": "照片"
+  }
+ ]
+}

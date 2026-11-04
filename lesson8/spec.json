@@ -1,0 +1,603 @@
+{
+ "audio_texts": [
+  "Grandma's Birthday!",
+  "Happy birthday, Grandma!",
+  "Who is this?",
+  "This is my grandma.",
+  "I love my grandma!",
+  "Where is the cake?",
+  "It is on the table.",
+  "How many balloons?",
+  "I have five balloons.",
+  "This is my family.",
+  "Touch your nose!",
+  "grandma",
+  "birthday",
+  "cake",
+  "gift",
+  "balloon",
+  "family",
+  "table",
+  "chair",
+  "mom",
+  "dad",
+  "Hello! I am Coco!",
+  "Hello! I am Grandma!",
+  "Hello! I am Mom!"
+ ],
+ "chapter": "第 2 章 · 我和我的家",
+ "cover_img": "cover.webp",
+ "cover_line": {
+  "en": "Happy birthday, Grandma!",
+  "zh": "奶奶，生日快乐！点句子可以听发音"
+ },
+ "cover_sub": "第 8 课 · 复习课 — 第二章的好朋友们给奶奶过生日。",
+ "finish_title": "这一课，你把第二章都复习了一遍 🎉",
+ "key": [
+  [
+   "Who is this?",
+   "这是谁？"
+  ],
+  [
+   "This is my grandma.",
+   "这是我奶奶。"
+  ],
+  [
+   "Happy birthday, Grandma!",
+   "奶奶，生日快乐！"
+  ],
+  [
+   "Where is the cake?",
+   "蛋糕在哪儿？"
+  ],
+  [
+   "It is on the table.",
+   "它在桌子上。"
+  ],
+  [
+   "How many balloons?",
+   "有多少个气球？"
+  ],
+  [
+   "This is my family.",
+   "这是我的一家人。"
+  ]
+ ],
+ "num": 8,
+ "pages": [
+  {
+   "img": "p2.webp",
+   "lines": [
+    {
+     "en": "Who is this?",
+     "who": "coco",
+     "who_name": "可可",
+     "zh": "这是谁？"
+    },
+    {
+     "en": "This is my grandma.",
+     "who": "milo",
+     "who_name": "米洛",
+     "zh": "这是我奶奶。"
+    }
+   ],
+   "narr": "今天是奶奶的生日，米洛拿出全家福，先向可可介绍奶奶。",
+   "spots": [
+    {
+     "kind": "obj",
+     "who": "table",
+     "box": [
+      0.77,
+      0.408,
+      1.0,
+      0.766
+     ],
+     "say": "table",
+     "zh": "桌子"
+    },
+    {
+     "who": "milo",
+     "box": [
+      0.044,
+      0.16,
+      0.428,
+      0.944
+     ],
+     "say": "This is my grandma.",
+     "zh": "这是我奶奶。"
+    },
+    {
+     "who": "coco",
+     "box": [
+      0.555,
+      0.313,
+      0.931,
+      0.945
+     ],
+     "say": "Who is this?",
+     "zh": "这是谁？"
+    },
+    {
+     "who": "grandma",
+     "box": [
+      0.407,
+      0.283,
+      0.543,
+      0.532
+     ],
+     "say": "Hello! I am Grandma!",
+     "zh": "你好！我是奶奶！"
+    }
+   ]
+  },
+  {
+   "img": "p3.webp",
+   "lines": [
+    {
+     "en": "Happy birthday, Grandma!",
+     "who": "milo",
+     "who_name": "米洛",
+     "zh": "奶奶，生日快乐！"
+    },
+    {
+     "en": "I love my grandma!",
+     "who": "coco",
+     "who_name": "可可",
+     "zh": "我爱我的奶奶！"
+    }
+   ],
+   "narr": "奶奶笑眯眯地走进来，大家一起祝她生日快乐。",
+   "spots": [
+    {
+     "who": "milo",
+     "box": [
+      0.15,
+      0.403,
+      0.381,
+      0.896
+     ],
+     "say": "Happy birthday, Grandma!",
+     "zh": "奶奶，生日快乐！"
+    },
+    {
+     "who": "coco",
+     "box": [
+      0.346,
+      0.519,
+      0.529,
+      0.876
+     ],
+     "say": "I love my grandma!",
+     "zh": "我爱我的奶奶！"
+    },
+    {
+     "who": "grandma",
+     "box": [
+      0.59,
+      0.04,
+      0.92,
+      0.998
+     ],
+     "say": "Hello! I am Grandma!",
+     "zh": "你好！我是奶奶！"
+    }
+   ]
+  },
+  {
+   "img": "p4.webp",
+   "lines": [
+    {
+     "en": "Where is the cake?",
+     "who": "coco",
+     "who_name": "可可",
+     "zh": "蛋糕在哪儿？"
+    },
+    {
+     "en": "It is on the table.",
+     "who": "milo",
+     "who_name": "米洛",
+     "zh": "它在桌子上。"
+    }
+   ],
+   "narr": "客厅的桌子上，摆着一个大大的生日蛋糕，旁边还有礼物。",
+   "spots": [
+    {
+     "kind": "obj",
+     "who": "table",
+     "box": [
+      0.035,
+      0.605,
+      1.0,
+      1.0
+     ],
+     "say": "table",
+     "zh": "桌子"
+    },
+    {
+     "kind": "obj",
+     "who": "cake",
+     "box": [
+      0.312,
+      0.34,
+      0.663,
+      0.83
+     ],
+     "say": "cake",
+     "zh": "蛋糕"
+    },
+    {
+     "kind": "obj",
+     "who": "gift",
+     "box": [
+      0.717,
+      0.626,
+      0.908,
+      0.873
+     ],
+     "say": "gift",
+     "zh": "礼物"
+    },
+    {
+     "who": "milo",
+     "box": [
+      0.0,
+      0.163,
+      0.328,
+      0.735
+     ],
+     "say": "It is on the table.",
+     "zh": "它在桌子上。"
+    },
+    {
+     "who": "coco",
+     "box": [
+      0.637,
+      0.189,
+      0.97,
+      0.682
+     ],
+     "say": "Where is the cake?",
+     "zh": "蛋糕在哪儿？"
+    }
+   ]
+  },
+  {
+   "img": "p5.webp",
+   "lines": [
+    {
+     "en": "How many balloons?",
+     "who": "milo",
+     "who_name": "米洛",
+     "zh": "有多少个气球？"
+    },
+    {
+     "en": "I have five balloons.",
+     "who": "coco",
+     "who_name": "可可",
+     "zh": "我有五个气球。"
+    }
+   ],
+   "narr": "大家一起数气球：一个、两个、三个、四个、五个，飘在椅子旁边。",
+   "spots": [
+    {
+     "kind": "obj",
+     "who": "balloon",
+     "box": [
+      0.447,
+      0.036,
+      0.565,
+      0.258
+     ],
+     "say": "balloon",
+     "zh": "气球"
+    },
+    {
+     "kind": "obj",
+     "who": "balloon",
+     "box": [
+      0.647,
+      0.016,
+      0.758,
+      0.189
+     ],
+     "say": "balloon",
+     "zh": "气球"
+    },
+    {
+     "kind": "obj",
+     "who": "balloon",
+     "box": [
+      0.577,
+      0.161,
+      0.692,
+      0.384
+     ],
+     "say": "balloon",
+     "zh": "气球"
+    },
+    {
+     "kind": "obj",
+     "who": "gift",
+     "box": [
+      0.843,
+      0.827,
+      0.951,
+      0.945
+     ],
+     "say": "gift",
+     "zh": "礼物"
+    },
+    {
+     "who": "milo",
+     "box": [
+      0.054,
+      0.337,
+      0.409,
+      0.953
+     ],
+     "say": "How many balloons?",
+     "zh": "有多少个气球？"
+    },
+    {
+     "who": "coco",
+     "box": [
+      0.348,
+      0.457,
+      0.599,
+      0.93
+     ],
+     "say": "I have five balloons.",
+     "zh": "我有五个气球。"
+    }
+   ]
+  },
+  {
+   "img": "p6.webp",
+   "lines": [
+    {
+     "en": "This is my family.",
+     "who": "milo",
+     "who_name": "米洛",
+     "zh": "这是我的一家人。"
+    },
+    {
+     "en": "Happy birthday, Grandma!",
+     "who": "coco",
+     "who_name": "可可",
+     "zh": "奶奶，生日快乐！"
+    }
+   ],
+   "narr": "一家人围坐在桌边，陪奶奶吹蜡烛、吃蛋糕，生日快乐！",
+   "spots": [
+    {
+     "who": "milo",
+     "box": [
+      0.018,
+      0.444,
+      0.299,
+      0.853
+     ],
+     "say": "This is my family.",
+     "zh": "这是我的一家人。"
+    },
+    {
+     "who": "grandma",
+     "box": [
+      0.385,
+      0.07,
+      0.735,
+      0.805
+     ],
+     "say": "Hello! I am Grandma!",
+     "zh": "你好！我是奶奶！"
+    },
+    {
+     "who": "mom",
+     "box": [
+      0.65,
+      0.06,
+      1.0,
+      0.69
+     ],
+     "say": "Hello! I am Mom!",
+     "zh": "你好！我是妈妈！"
+    },
+    {
+     "who": "coco",
+     "box": [
+      0.69,
+      0.469,
+      0.895,
+      0.834
+     ],
+     "say": "Happy birthday, Grandma!",
+     "zh": "奶奶，生日快乐！"
+    },
+    {
+     "kind": "obj",
+     "who": "cake",
+     "box": [
+      0.362,
+      0.598,
+      0.61,
+      0.897
+     ],
+     "say": "cake",
+     "zh": "蛋糕"
+    }
+   ]
+  }
+ ],
+ "taskA": {
+  "options": [
+   "Where is the cake?",
+   "Who is this?",
+   "Happy birthday, Grandma!"
+  ],
+  "right_msg": "对啦！这句是「蛋糕在哪儿？」",
+  "target": "Where is the cake?",
+  "wrong_msg": "再听一遍，仔细听第二个词。"
+ },
+ "taskB": {
+  "done_msg": "三对全配上啦！",
+  "instruction": "先点一个英文词，再点对应的中文词，配成一对。",
+  "left": [
+   {
+    "k": "r-cake",
+    "label": "cake"
+   },
+   {
+    "k": "r-balloon",
+    "label": "balloon"
+   },
+   {
+    "k": "r-grandma",
+    "label": "grandma"
+   }
+  ],
+  "right": [
+   {
+    "k": "r-balloon",
+    "label": "气球",
+    "say": "balloon"
+   },
+   {
+    "k": "r-grandma",
+    "label": "奶奶",
+    "say": "grandma"
+   },
+   {
+    "k": "r-cake",
+    "label": "蛋糕",
+    "say": "cake"
+   }
+  ],
+  "title": "复习词配一配"
+ },
+ "taskC": [
+  [
+   "Who is this?",
+   "这是谁？"
+  ],
+  [
+   "Happy birthday, Grandma!",
+   "奶奶，生日快乐！"
+  ],
+  [
+   "Where is the cake?",
+   "蛋糕在哪儿？"
+  ],
+  [
+   "It is on the table.",
+   "它在桌子上。"
+  ],
+  [
+   "This is my family.",
+   "这是我的一家人。"
+  ]
+ ],
+ "title_en": "Grandma's Birthday!",
+ "title_zh": "奶奶的生日",
+ "words": [
+  [
+   "grandma",
+   "奶奶"
+  ],
+  [
+   "birthday",
+   "生日"
+  ],
+  [
+   "cake",
+   "蛋糕"
+  ],
+  [
+   "gift",
+   "礼物"
+  ],
+  [
+   "balloon",
+   "气球"
+  ],
+  [
+   "family",
+   "一家人"
+  ],
+  [
+   "table",
+   "桌子"
+  ],
+  [
+   "chair",
+   "椅子"
+  ],
+  [
+   "mom",
+   "妈妈"
+  ],
+  [
+   "dad",
+   "爸爸"
+  ]
+ ],
+ "cover_spots": [
+  {
+   "kind": "obj",
+   "who": "cake",
+   "box": [
+    0.39,
+    0.333,
+    0.618,
+    0.629
+   ],
+   "say": "cake",
+   "zh": "蛋糕"
+  },
+  {
+   "kind": "obj",
+   "who": "balloon",
+   "box": [
+    0.099,
+    0.0,
+    0.23,
+    0.178
+   ],
+   "say": "balloon",
+   "zh": "气球"
+  },
+  {
+   "kind": "obj",
+   "who": "balloon",
+   "box": [
+    0.364,
+    0.108,
+    0.462,
+    0.31
+   ],
+   "say": "balloon",
+   "zh": "气球"
+  },
+  {
+   "who": "milo",
+   "box": [
+    0.033,
+    0.265,
+    0.371,
+    0.895
+   ],
+   "say": "Happy birthday, Grandma!",
+   "zh": "奶奶，生日快乐！"
+  },
+  {
+   "who": "coco",
+   "box": [
+    0.658,
+    0.431,
+    0.956,
+    0.934
+   ],
+   "say": "Hello! I am Coco!",
+   "zh": "你好！我是可可！"
+  }
+ ]
+}

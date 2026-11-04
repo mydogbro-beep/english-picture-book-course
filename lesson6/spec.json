@@ -1,0 +1,571 @@
+{
+ "audio_texts": [
+  "Where Is the Ball?",
+  "Welcome to my home!",
+  "This is my living room.",
+  "Where is the ball?",
+  "It is on the table.",
+  "Where is the book?",
+  "It is under the chair.",
+  "Look! It is in the box.",
+  "This is my bedroom.",
+  "The ball is on the bed.",
+  "I love my home!",
+  "Who is this?",
+  "What is this?",
+  "table",
+  "chair",
+  "bed",
+  "sofa",
+  "book",
+  "ball",
+  "box",
+  "kitchen",
+  "bedroom",
+  "living room",
+  "Hello! I am Coco!"
+ ],
+ "chapter": "第 2 章 · 我和我的家",
+ "cover_img": "cover.webp",
+ "cover_line": {
+  "en": "Welcome to my home!",
+  "zh": "欢迎来我家！点句子可以听发音"
+ },
+ "cover_sub": "第 6 课 · 房间与方位 — 米洛带可可参观家里，球到底藏在哪儿？",
+ "finish_title": "这一课，你学会了说东西在哪儿 🎉",
+ "key": [
+  [
+   "Where is the ball?",
+   "球在哪儿？"
+  ],
+  [
+   "It is on the table.",
+   "它在桌子上。"
+  ],
+  [
+   "It is under the chair.",
+   "它在椅子下面。"
+  ],
+  [
+   "It is in the box.",
+   "它在盒子里。"
+  ],
+  [
+   "This is my living room.",
+   "这是我的客厅。"
+  ],
+  [
+   "Welcome to my home!",
+   "欢迎来我家！"
+  ],
+  [
+   "I love my home!",
+   "我爱我的家！"
+  ]
+ ],
+ "num": 6,
+ "pages": [
+  {
+   "img": "p2.webp",
+   "lines": [
+    {
+     "en": "Welcome to my home!",
+     "who": "milo",
+     "who_name": "米洛",
+     "zh": "欢迎来我家！"
+    },
+    {
+     "en": "This is my living room.",
+     "who": "milo",
+     "who_name": "米洛",
+     "zh": "这是我的客厅。"
+    }
+   ],
+   "narr": "米洛带可可走进客厅，沙发软软的，桌子上放着一个球。",
+   "spots": [
+    {
+     "kind": "obj",
+     "who": "sofa",
+     "box": [
+      0.011,
+      0.068,
+      0.585,
+      0.779
+     ],
+     "say": "sofa",
+     "zh": "沙发"
+    },
+    {
+     "who": "milo",
+     "box": [
+      0.054,
+      0.145,
+      0.535,
+      0.917
+     ],
+     "say": "Welcome to my home!",
+     "zh": "欢迎来我家！"
+    },
+    {
+     "who": "coco",
+     "box": [
+      0.559,
+      0.381,
+      0.909,
+      0.92
+     ],
+     "say": "Hello! I am Coco!",
+     "zh": "你好！我是可可！"
+    }
+   ]
+  },
+  {
+   "img": "p3.webp",
+   "lines": [
+    {
+     "en": "Where is the ball?",
+     "who": "coco",
+     "who_name": "可可",
+     "zh": "球在哪儿？"
+    },
+    {
+     "en": "It is on the table.",
+     "who": "milo",
+     "who_name": "米洛",
+     "zh": "它在桌子上。"
+    }
+   ],
+   "narr": "可可东张西望找球，米洛指着桌子：球就在桌子上，圆圆的。",
+   "spots": [
+    {
+     "kind": "obj",
+     "who": "sofa",
+     "box": [
+      0.554,
+      0.292,
+      0.985,
+      0.656
+     ],
+     "say": "sofa",
+     "zh": "沙发"
+    },
+    {
+     "kind": "obj",
+     "who": "table",
+     "box": [
+      0.018,
+      0.742,
+      0.881,
+      0.987
+     ],
+     "say": "table",
+     "zh": "桌子"
+    },
+    {
+     "who": "milo",
+     "box": [
+      0.013,
+      0.103,
+      0.542,
+      0.858
+     ],
+     "say": "It is on the table.",
+     "zh": "它在桌子上。"
+    },
+    {
+     "who": "coco",
+     "box": [
+      0.583,
+      0.358,
+      0.976,
+      0.922
+     ],
+     "say": "Where is the ball?",
+     "zh": "球在哪儿？"
+    },
+    {
+     "kind": "obj",
+     "who": "ball",
+     "box": [
+      0.419,
+      0.669,
+      0.582,
+      0.904
+     ],
+     "say": "ball",
+     "zh": "球"
+    }
+   ]
+  },
+  {
+   "img": "p4.webp",
+   "lines": [
+    {
+     "en": "Where is the book?",
+     "who": "coco",
+     "who_name": "可可",
+     "zh": "书在哪儿？"
+    },
+    {
+     "en": "It is under the chair.",
+     "who": "milo",
+     "who_name": "米洛",
+     "zh": "它在椅子下面。"
+    }
+   ],
+   "narr": "一本书掉到了椅子下面，可可趴下来，伸长脖子往里看。",
+   "spots": [
+    {
+     "kind": "obj",
+     "who": "chair",
+     "box": [
+      0.118,
+      0.037,
+      0.68,
+      0.88
+     ],
+     "say": "chair",
+     "zh": "椅子"
+    },
+    {
+     "kind": "obj",
+     "who": "book",
+     "box": [
+      0.283,
+      0.71,
+      0.52,
+      0.868
+     ],
+     "say": "book",
+     "zh": "书"
+    },
+    {
+     "who": "coco",
+     "box": [
+      0.056,
+      0.432,
+      0.394,
+      0.806
+     ],
+     "say": "Where is the book?",
+     "zh": "书在哪儿？"
+    },
+    {
+     "who": "milo",
+     "box": [
+      0.605,
+      0.316,
+      0.918,
+      0.912
+     ],
+     "say": "It is under the chair.",
+     "zh": "它在椅子下面。"
+    }
+   ]
+  },
+  {
+   "img": "p5.webp",
+   "lines": [
+    {
+     "en": "Look! It is in the box.",
+     "who": "milo",
+     "who_name": "米洛",
+     "zh": "看！它在盒子里。"
+    },
+    {
+     "en": "This is my bedroom.",
+     "who": "milo",
+     "who_name": "米洛",
+     "zh": "这是我的卧室。"
+    }
+   ],
+   "narr": "原来球藏在卧室的盒子里，米洛把盒子盖打开给可可看。",
+   "spots": [
+    {
+     "kind": "obj",
+     "who": "bed",
+     "box": [
+      0.086,
+      0.018,
+      0.998,
+      0.673
+     ],
+     "say": "bed",
+     "zh": "床"
+    },
+    {
+     "who": "milo",
+     "box": [
+      0.046,
+      0.218,
+      0.482,
+      0.884
+     ],
+     "say": "Look! It is in the box.",
+     "zh": "看！它在盒子里。"
+    },
+    {
+     "who": "coco",
+     "box": [
+      0.531,
+      0.377,
+      0.924,
+      0.917
+     ],
+     "say": "Hello! I am Coco!",
+     "zh": "你好！我是可可！"
+    },
+    {
+     "kind": "obj",
+     "who": "box",
+     "box": [
+      0.208,
+      0.61,
+      0.646,
+      0.971
+     ],
+     "say": "box",
+     "zh": "盒子"
+    },
+    {
+     "kind": "obj",
+     "who": "ball",
+     "box": [
+      0.383,
+      0.627,
+      0.487,
+      0.739
+     ],
+     "say": "ball",
+     "zh": "球"
+    }
+   ]
+  },
+  {
+   "img": "p6.webp",
+   "lines": [
+    {
+     "en": "The ball is on the bed.",
+     "who": "milo",
+     "who_name": "米洛",
+     "zh": "球在床上。"
+    },
+    {
+     "en": "I love my home!",
+     "who": "milo",
+     "who_name": "米洛",
+     "zh": "我爱我的家！"
+    }
+   ],
+   "narr": "大家把球放在床上，在卧室里一起玩，家里真好玩。",
+   "spots": [
+    {
+     "kind": "obj",
+     "who": "bed",
+     "box": [
+      0.0,
+      0.082,
+      1.0,
+      0.3
+     ],
+     "say": "bed",
+     "zh": "床"
+    },
+    {
+     "who": "milo",
+     "box": [
+      0.085,
+      0.295,
+      0.5,
+      0.795
+     ],
+     "say": "The ball is on the bed.",
+     "zh": "球在床上。"
+    },
+    {
+     "who": "coco",
+     "box": [
+      0.522,
+      0.322,
+      0.9,
+      0.799
+     ],
+     "say": "Hello! I am Coco!",
+     "zh": "你好！我是可可！"
+    },
+    {
+     "kind": "obj",
+     "who": "ball",
+     "box": [
+      0.44,
+      0.656,
+      0.546,
+      0.812
+     ],
+     "say": "ball",
+     "zh": "球"
+    }
+   ]
+  }
+ ],
+ "taskA": {
+  "options": [
+   "Where is the ball?",
+   "Who is this?",
+   "What is this?"
+  ],
+  "right_msg": "对啦！这句是「球在哪儿？」",
+  "target": "Where is the ball?",
+  "wrong_msg": "再听一遍，仔细听第一个词。"
+ },
+ "taskB": {
+  "done_msg": "三对全配上啦！",
+  "instruction": "先点一个英文词，再点对应的中文词，配成一对。",
+  "left": [
+   {
+    "k": "f-table",
+    "label": "table"
+   },
+   {
+    "k": "f-chair",
+    "label": "chair"
+   },
+   {
+    "k": "f-box",
+    "label": "box"
+   }
+  ],
+  "right": [
+   {
+    "k": "f-chair",
+    "label": "椅子",
+    "say": "chair"
+   },
+   {
+    "k": "f-box",
+    "label": "盒子",
+    "say": "box"
+   },
+   {
+    "k": "f-table",
+    "label": "桌子",
+    "say": "table"
+   }
+  ],
+  "title": "家具词配一配"
+ },
+ "taskC": [
+  [
+   "Welcome to my home!",
+   "欢迎来我家！"
+  ],
+  [
+   "Where is the ball?",
+   "球在哪儿？"
+  ],
+  [
+   "It is on the table.",
+   "它在桌子上。"
+  ],
+  [
+   "It is under the chair.",
+   "它在椅子下面。"
+  ],
+  [
+   "It is in the box.",
+   "它在盒子里。"
+  ]
+ ],
+ "title_en": "Where Is the Ball?",
+ "title_zh": "球在哪儿？",
+ "words": [
+  [
+   "table",
+   "桌子"
+  ],
+  [
+   "chair",
+   "椅子"
+  ],
+  [
+   "bed",
+   "床"
+  ],
+  [
+   "sofa",
+   "沙发"
+  ],
+  [
+   "book",
+   "书"
+  ],
+  [
+   "ball",
+   "球"
+  ],
+  [
+   "box",
+   "盒子"
+  ],
+  [
+   "kitchen",
+   "厨房"
+  ],
+  [
+   "bedroom",
+   "卧室"
+  ],
+  [
+   "living room",
+   "客厅"
+  ]
+ ],
+ "cover_spots": [
+  {
+   "kind": "obj",
+   "who": "sofa",
+   "box": [
+    0.194,
+    0.107,
+    1.0,
+    0.763
+   ],
+   "say": "sofa",
+   "zh": "沙发"
+  },
+  {
+   "who": "milo",
+   "box": [
+    0.068,
+    0.296,
+    0.5,
+    0.868
+   ],
+   "say": "Welcome to my home!",
+   "zh": "欢迎来我家！"
+  },
+  {
+   "who": "coco",
+   "box": [
+    0.53,
+    0.325,
+    0.901,
+    0.888
+   ],
+   "say": "Hello! I am Coco!",
+   "zh": "你好！我是可可！"
+  },
+  {
+   "kind": "obj",
+   "who": "ball",
+   "box": [
+    0.455,
+    0.745,
+    0.546,
+    0.87
+   ],
+   "say": "ball",
+   "zh": "球"
+  }
+ ]
+}

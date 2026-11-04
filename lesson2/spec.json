@@ -1,0 +1,643 @@
+{
+ "audio_texts": [
+  "One, Two, Apples!",
+  "Let's count!",
+  "Good morning, Coco!",
+  "How many apples?",
+  "One, two, three!",
+  "Four, five, six!",
+  "Seven, eight, nine!",
+  "Ten! I have ten apples.",
+  "Thank you, Pip!",
+  "I have ten apples.",
+  "Thank you!",
+  "Good morning!",
+  "What's your name?",
+  "one",
+  "two",
+  "three",
+  "four",
+  "five",
+  "six",
+  "seven",
+  "eight",
+  "nine",
+  "ten",
+  "Hello! I am Milo!",
+  "Hello! I am Coco!",
+  "Hello! I am Pip!",
+  "apple",
+  "basket"
+ ],
+ "chapter": "第 1 章 · 你好，新朋友",
+ "cover_img": "cover.webp",
+ "cover_line": {
+  "en": "Let's count!",
+  "zh": "我们来数一数！点句子可以听发音"
+ },
+ "cover_sub": "第 2 课 · 数字 — 苹果树下，数一数有多少个苹果。",
+ "finish_title": "这一课，你学会了数 1 到 10 🎉",
+ "key": [
+  [
+   "Good morning!",
+   "早上好！"
+  ],
+  [
+   "How many apples?",
+   "有多少个苹果？"
+  ],
+  [
+   "Let's count!",
+   "我们来数一数！"
+  ],
+  [
+   "One, two, three!",
+   "一、二、三！"
+  ],
+  [
+   "Four, five, six!",
+   "四、五、六！"
+  ],
+  [
+   "Seven, eight, nine!",
+   "七、八、九！"
+  ],
+  [
+   "I have ten apples.",
+   "我有十个苹果。"
+  ],
+  [
+   "Thank you!",
+   "谢谢！"
+  ]
+ ],
+ "num": 2,
+ "pages": [
+  {
+   "img": "p2.webp",
+   "lines": [
+    {
+     "en": "Good morning, Coco!",
+     "who": "milo",
+     "who_name": "米洛",
+     "zh": "早上好，可可！"
+    },
+    {
+     "en": "How many apples?",
+     "who": "coco",
+     "who_name": "可可",
+     "zh": "有多少个苹果？"
+    }
+   ],
+   "narr": "清晨，米洛和可可来到苹果树下。",
+   "spots": [
+    {
+     "kind": "obj",
+     "who": "apple",
+     "box": [
+      0.775,
+      0.09,
+      0.872,
+      0.226
+     ],
+     "say": "apple",
+     "zh": "苹果"
+    },
+    {
+     "kind": "obj",
+     "who": "apple",
+     "box": [
+      0.531,
+      0.124,
+      0.628,
+      0.245
+     ],
+     "say": "apple",
+     "zh": "苹果"
+    },
+    {
+     "kind": "obj",
+     "who": "basket",
+     "box": [
+      0.06,
+      0.786,
+      0.283,
+      0.964
+     ],
+     "say": "basket",
+     "zh": "篮子"
+    },
+    {
+     "who": "milo",
+     "box": [
+      0.202,
+      0.35,
+      0.483,
+      0.908
+     ],
+     "say": "Good morning, Coco!",
+     "zh": "早上好，可可！"
+    },
+    {
+     "who": "coco",
+     "box": [
+      0.483,
+      0.368,
+      0.751,
+      0.907
+     ],
+     "say": "How many apples?",
+     "zh": "有多少个苹果？"
+    }
+   ]
+  },
+  {
+   "img": "p3.webp",
+   "lines": [
+    {
+     "en": "One, two, three!",
+     "who": "milo",
+     "who_name": "米洛",
+     "zh": "一、二、三！"
+    }
+   ],
+   "narr": "米洛摘下低处的苹果，一个一个数。",
+   "spots": [
+    {
+     "kind": "obj",
+     "who": "apple",
+     "box": [
+      0.228,
+      0.174,
+      0.344,
+      0.322
+     ],
+     "say": "apple",
+     "zh": "苹果"
+    },
+    {
+     "kind": "obj",
+     "who": "apple",
+     "box": [
+      0.48,
+      0.041,
+      0.588,
+      0.186
+     ],
+     "say": "apple",
+     "zh": "苹果"
+    },
+    {
+     "kind": "obj",
+     "who": "basket",
+     "box": [
+      0.068,
+      0.585,
+      0.317,
+      0.875
+     ],
+     "say": "basket",
+     "zh": "篮子"
+    },
+    {
+     "who": "milo",
+     "box": [
+      0.258,
+      0.214,
+      0.583,
+      0.877
+     ],
+     "say": "One, two, three!",
+     "zh": "一、二、三！"
+    },
+    {
+     "who": "coco",
+     "box": [
+      0.618,
+      0.438,
+      0.9,
+      0.921
+     ],
+     "say": "Hello! I am Coco!",
+     "zh": "你好！我是可可！"
+    }
+   ]
+  },
+  {
+   "img": "p4.webp",
+   "lines": [
+    {
+     "en": "Four, five, six!",
+     "who": "milo",
+     "who_name": "米洛",
+     "zh": "四、五、六！"
+    }
+   ],
+   "narr": "搬来小梯子，接着往上摘。",
+   "spots": [
+    {
+     "kind": "obj",
+     "who": "apple",
+     "box": [
+      0.409,
+      0.134,
+      0.514,
+      0.284
+     ],
+     "say": "apple",
+     "zh": "苹果"
+    },
+    {
+     "kind": "obj",
+     "who": "apple",
+     "box": [
+      0.664,
+      0.037,
+      0.761,
+      0.157
+     ],
+     "say": "apple",
+     "zh": "苹果"
+    },
+    {
+     "kind": "obj",
+     "who": "basket",
+     "box": [
+      0.539,
+      0.628,
+      0.697,
+      0.853
+     ],
+     "say": "basket",
+     "zh": "篮子"
+    },
+    {
+     "who": "milo",
+     "box": [
+      0.154,
+      0.109,
+      0.468,
+      0.706
+     ],
+     "say": "Four, five, six!",
+     "zh": "四、五、六！"
+    },
+    {
+     "who": "coco",
+     "box": [
+      0.573,
+      0.374,
+      0.867,
+      0.942
+     ],
+     "say": "Hello! I am Coco!",
+     "zh": "你好！我是可可！"
+    }
+   ]
+  },
+  {
+   "img": "p5.webp",
+   "lines": [
+    {
+     "en": "Seven, eight, nine!",
+     "who": "pip",
+     "who_name": "皮皮",
+     "zh": "七、八、九！"
+    }
+   ],
+   "narr": "高处的苹果够不着，松鼠皮皮来帮忙啦。",
+   "spots": [
+    {
+     "kind": "obj",
+     "who": "apple",
+     "box": [
+      0.388,
+      0.027,
+      0.491,
+      0.156
+     ],
+     "say": "apple",
+     "zh": "苹果"
+    },
+    {
+     "kind": "obj",
+     "who": "apple",
+     "box": [
+      0.312,
+      0.141,
+      0.414,
+      0.291
+     ],
+     "say": "apple",
+     "zh": "苹果"
+    },
+    {
+     "kind": "obj",
+     "who": "basket",
+     "box": [
+      0.376,
+      0.7,
+      0.594,
+      0.973
+     ],
+     "say": "basket",
+     "zh": "篮子"
+    },
+    {
+     "who": "milo",
+     "box": [
+      0.075,
+      0.393,
+      0.382,
+      0.956
+     ],
+     "say": "Hello! I am Milo!",
+     "zh": "你好！我是米洛！"
+    },
+    {
+     "who": "coco",
+     "box": [
+      0.584,
+      0.464,
+      0.876,
+      0.969
+     ],
+     "say": "Hello! I am Coco!",
+     "zh": "你好！我是可可！"
+    },
+    {
+     "who": "pip",
+     "box": [
+      0.606,
+      0.061,
+      0.842,
+      0.375
+     ],
+     "say": "Seven, eight, nine!",
+     "zh": "七、八、九！"
+    }
+   ]
+  },
+  {
+   "img": "p6.webp",
+   "lines": [
+    {
+     "en": "Ten! I have ten apples.",
+     "who": "milo",
+     "who_name": "米洛",
+     "zh": "十！我有十个苹果。"
+    },
+    {
+     "en": "Thank you, Pip!",
+     "who": "coco",
+     "who_name": "可可",
+     "zh": "谢谢你，皮皮！"
+    }
+   ],
+   "narr": "篮子装满啦，整整十个苹果！",
+   "spots": [
+    {
+     "kind": "obj",
+     "who": "apple",
+     "box": [
+      0.062,
+      0.0,
+      0.156,
+      0.124
+     ],
+     "say": "apple",
+     "zh": "苹果"
+    },
+    {
+     "kind": "obj",
+     "who": "apple",
+     "box": [
+      0.561,
+      0.0,
+      0.655,
+      0.101
+     ],
+     "say": "apple",
+     "zh": "苹果"
+    },
+    {
+     "kind": "obj",
+     "who": "basket",
+     "box": [
+      0.338,
+      0.458,
+      0.664,
+      0.895
+     ],
+     "say": "basket",
+     "zh": "篮子"
+    },
+    {
+     "who": "milo",
+     "box": [
+      0.084,
+      0.333,
+      0.386,
+      0.939
+     ],
+     "say": "Ten! I have ten apples.",
+     "zh": "十！我有十个苹果。"
+    },
+    {
+     "who": "coco",
+     "box": [
+      0.617,
+      0.356,
+      0.907,
+      0.932
+     ],
+     "say": "Thank you, Pip!",
+     "zh": "谢谢你，皮皮！"
+    },
+    {
+     "who": "pip",
+     "box": [
+      0.294,
+      0.057,
+      0.579,
+      0.383
+     ],
+     "say": "Hello! I am Pip!",
+     "zh": "你好！我是皮皮！"
+    }
+   ]
+  }
+ ],
+ "taskA": {
+  "options": [
+   "How many apples?",
+   "What's your name?",
+   "Good morning!"
+  ],
+  "right_msg": "对啦！这句是「有多少个苹果？」",
+  "target": "How many apples?",
+  "wrong_msg": "再听一遍，仔细听第一个词。"
+ },
+ "taskB": {
+  "done_msg": "三对全配上啦！",
+  "instruction": "先点一个数字词，再点对应的数字，配成一对。",
+  "left": [
+   {
+    "k": "n3",
+    "label": "three"
+   },
+   {
+    "k": "n7",
+    "label": "seven"
+   },
+   {
+    "k": "n10",
+    "label": "ten"
+   }
+  ],
+  "right": [
+   {
+    "k": "n7",
+    "label": "7",
+    "say": "seven"
+   },
+   {
+    "k": "n10",
+    "label": "10",
+    "say": "ten"
+   },
+   {
+    "k": "n3",
+    "label": "3",
+    "say": "three"
+   }
+  ],
+  "title": "数一数，配一配"
+ },
+ "taskC": [
+  [
+   "Let's count!",
+   "我们来数一数！"
+  ],
+  [
+   "How many apples?",
+   "有多少个苹果？"
+  ],
+  [
+   "One, two, three!",
+   "一、二、三！"
+  ],
+  [
+   "I have ten apples.",
+   "我有十个苹果。"
+  ],
+  [
+   "Thank you!",
+   "谢谢！"
+  ]
+ ],
+ "title_en": "One, Two, Apples!",
+ "title_zh": "数苹果",
+ "words": [
+  [
+   "one",
+   "一"
+  ],
+  [
+   "two",
+   "二"
+  ],
+  [
+   "three",
+   "三"
+  ],
+  [
+   "four",
+   "四"
+  ],
+  [
+   "five",
+   "五"
+  ],
+  [
+   "six",
+   "六"
+  ],
+  [
+   "seven",
+   "七"
+  ],
+  [
+   "eight",
+   "八"
+  ],
+  [
+   "nine",
+   "九"
+  ],
+  [
+   "ten",
+   "十"
+  ]
+ ],
+ "cover_spots": [
+  {
+   "kind": "obj",
+   "who": "apple",
+   "box": [
+    0.531,
+    0.11,
+    0.634,
+    0.241
+   ],
+   "say": "apple",
+   "zh": "苹果"
+  },
+  {
+   "kind": "obj",
+   "who": "apple",
+   "box": [
+    0.234,
+    0.173,
+    0.328,
+    0.293
+   ],
+   "say": "apple",
+   "zh": "苹果"
+  },
+  {
+   "kind": "obj",
+   "who": "basket",
+   "box": [
+    0.756,
+    0.695,
+    0.948,
+    0.958
+   ],
+   "say": "basket",
+   "zh": "篮子"
+  },
+  {
+   "who": "milo",
+   "box": [
+    0.143,
+    0.35,
+    0.464,
+    0.935
+   ],
+   "say": "Let's count!",
+   "zh": "我们来数一数！"
+  },
+  {
+   "who": "coco",
+   "box": [
+    0.52,
+    0.433,
+    0.765,
+    0.921
+   ],
+   "say": "Hello! I am Coco!",
+   "zh": "你好！我是可可！"
+  }
+ ]
+}

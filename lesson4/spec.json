@@ -1,0 +1,551 @@
+{
+ "audio_texts": [
+  "The New Friends' Party",
+  "Welcome to our party!",
+  "Hello, everyone!",
+  "What is this?",
+  "It is a cake.",
+  "What color is it?",
+  "It is red!",
+  "How many balloons?",
+  "One, two, three!",
+  "I have ten apples.",
+  "Thank you, Milo!",
+  "What's your name?",
+  "My name is Milo.",
+  "party",
+  "cake",
+  "gift",
+  "balloon",
+  "apple",
+  "banana",
+  "red",
+  "yellow",
+  "three",
+  "ten",
+  "Hello! I am Coco!"
+ ],
+ "chapter": "第 1 章 · 你好，新朋友",
+ "cover_img": "cover.webp",
+ "cover_line": {
+  "en": "Welcome to our party!",
+  "zh": "欢迎来参加我们的派对！点句子可以听发音"
+ },
+ "cover_sub": "第 4 课 · 复习课 — 第一章的好朋友们聚在一起开派对。",
+ "finish_title": "这一课，你把第一章都复习了一遍 🎉",
+ "key": [
+  [
+   "Hello, everyone!",
+   "大家好！"
+  ],
+  [
+   "Welcome to our party!",
+   "欢迎来参加我们的派对！"
+  ],
+  [
+   "What's your name?",
+   "你叫什么名字？"
+  ],
+  [
+   "My name is Milo.",
+   "我叫米洛。"
+  ],
+  [
+   "What is this?",
+   "这是什么？"
+  ],
+  [
+   "What color is it?",
+   "这是什么颜色？"
+  ],
+  [
+   "How many balloons?",
+   "有多少个气球？"
+  ],
+  [
+   "Thank you, Milo!",
+   "谢谢你，米洛！"
+  ]
+ ],
+ "num": 4,
+ "pages": [
+  {
+   "img": "p2.webp",
+   "lines": [
+    {
+     "en": "Hello, everyone!",
+     "who": "milo",
+     "who_name": "米洛",
+     "zh": "大家好！"
+    },
+    {
+     "en": "Welcome to our party!",
+     "who": "coco",
+     "who_name": "可可",
+     "zh": "欢迎来参加我们的派对！"
+    }
+   ],
+   "narr": "派对开始啦，好朋友们都来了。",
+   "spots": [
+    {
+     "kind": "obj",
+     "who": "balloon",
+     "box": [
+      0.039,
+      0.018,
+      0.136,
+      0.18
+     ],
+     "say": "balloon",
+     "zh": "气球"
+    },
+    {
+     "kind": "obj",
+     "who": "balloon",
+     "box": [
+      0.785,
+      0.009,
+      0.883,
+      0.183
+     ],
+     "say": "balloon",
+     "zh": "气球"
+    },
+    {
+     "who": "milo",
+     "box": [
+      0.189,
+      0.31,
+      0.508,
+      0.95
+     ],
+     "say": "Hello, everyone!",
+     "zh": "大家好！"
+    },
+    {
+     "who": "coco",
+     "box": [
+      0.493,
+      0.461,
+      0.795,
+      0.949
+     ],
+     "say": "Welcome to our party!",
+     "zh": "欢迎来参加我们的派对！"
+    }
+   ]
+  },
+  {
+   "img": "p3.webp",
+   "lines": [
+    {
+     "en": "What is this?",
+     "who": "coco",
+     "who_name": "可可",
+     "zh": "这是什么？"
+    },
+    {
+     "en": "It is a cake.",
+     "who": "milo",
+     "who_name": "米洛",
+     "zh": "这是一个蛋糕。"
+    }
+   ],
+   "narr": "桌子中间，有一个大大的蛋糕。",
+   "spots": [
+    {
+     "kind": "obj",
+     "who": "cake",
+     "box": [
+      0.578,
+      0.336,
+      0.952,
+      0.858
+     ],
+     "say": "cake",
+     "zh": "蛋糕"
+    },
+    {
+     "who": "milo",
+     "box": [
+      0.0,
+      0.124,
+      0.355,
+      0.816
+     ],
+     "say": "It is a cake.",
+     "zh": "这是一个蛋糕。"
+    },
+    {
+     "who": "coco",
+     "box": [
+      0.317,
+      0.13,
+      0.628,
+      0.739
+     ],
+     "say": "What is this?",
+     "zh": "这是什么？"
+    }
+   ]
+  },
+  {
+   "img": "p4.webp",
+   "lines": [
+    {
+     "en": "What color is it?",
+     "who": "milo",
+     "who_name": "米洛",
+     "zh": "这是什么颜色？"
+    },
+    {
+     "en": "It is red!",
+     "who": "coco",
+     "who_name": "可可",
+     "zh": "它是红色的！"
+    }
+   ],
+   "narr": "一只红红的气球，飘到了天花板上。",
+   "spots": [
+    {
+     "kind": "obj",
+     "who": "balloon",
+     "box": [
+      0.515,
+      0.005,
+      0.66,
+      0.285
+     ],
+     "say": "balloon",
+     "zh": "气球"
+    },
+    {
+     "who": "milo",
+     "box": [
+      0.105,
+      0.343,
+      0.452,
+      0.974
+     ],
+     "say": "What color is it?",
+     "zh": "这是什么颜色？"
+    },
+    {
+     "who": "coco",
+     "box": [
+      0.588,
+      0.42,
+      0.902,
+      0.977
+     ],
+     "say": "It is red!",
+     "zh": "它是红色的！"
+    }
+   ]
+  },
+  {
+   "img": "p5.webp",
+   "lines": [
+    {
+     "en": "How many balloons?",
+     "who": "milo",
+     "who_name": "米洛",
+     "zh": "有多少个气球？"
+    },
+    {
+     "en": "One, two, three!",
+     "who": "coco",
+     "who_name": "可可",
+     "zh": "一、二、三！"
+    }
+   ],
+   "narr": "大家一起数气球，一个、两个、三个。",
+   "spots": [
+    {
+     "kind": "obj",
+     "who": "balloon",
+     "box": [
+      0.483,
+      0.03,
+      0.606,
+      0.262
+     ],
+     "say": "balloon",
+     "zh": "气球"
+    },
+    {
+     "kind": "obj",
+     "who": "balloon",
+     "box": [
+      0.708,
+      0.057,
+      0.831,
+      0.27
+     ],
+     "say": "balloon",
+     "zh": "气球"
+    },
+    {
+     "who": "milo",
+     "box": [
+      0.132,
+      0.276,
+      0.5,
+      0.945
+     ],
+     "say": "How many balloons?",
+     "zh": "有多少个气球？"
+    },
+    {
+     "who": "coco",
+     "box": [
+      0.536,
+      0.432,
+      0.869,
+      0.948
+     ],
+     "say": "One, two, three!",
+     "zh": "一、二、三！"
+    }
+   ]
+  },
+  {
+   "img": "p6.webp",
+   "lines": [
+    {
+     "en": "I have ten apples.",
+     "who": "milo",
+     "who_name": "米洛",
+     "zh": "我有十个苹果。"
+    },
+    {
+     "en": "Thank you, Milo!",
+     "who": "coco",
+     "who_name": "可可",
+     "zh": "谢谢你，米洛！"
+    }
+   ],
+   "narr": "米洛拿出十个苹果，和大家一起分享。",
+   "spots": [
+    {
+     "kind": "obj",
+     "who": "apple",
+     "box": [
+      0.43,
+      0.476,
+      0.539,
+      0.629
+     ],
+     "say": "apple",
+     "zh": "苹果"
+    },
+    {
+     "kind": "obj",
+     "who": "apple",
+     "box": [
+      0.436,
+      0.596,
+      0.545,
+      0.717
+     ],
+     "say": "apple",
+     "zh": "苹果"
+    },
+    {
+     "who": "milo",
+     "box": [
+      0.036,
+      0.107,
+      0.446,
+      0.857
+     ],
+     "say": "I have ten apples.",
+     "zh": "我有十个苹果。"
+    },
+    {
+     "who": "coco",
+     "box": [
+      0.554,
+      0.168,
+      0.974,
+      0.857
+     ],
+     "say": "Thank you, Milo!",
+     "zh": "谢谢你，米洛！"
+    }
+   ]
+  }
+ ],
+ "taskA": {
+  "options": [
+   "What color is it?",
+   "What is this?",
+   "How many balloons?"
+  ],
+  "right_msg": "对啦！这句是「这是什么颜色？」",
+  "target": "What color is it?",
+  "wrong_msg": "再听一遍，仔细听第二个词。"
+ },
+ "taskB": {
+  "done_msg": "三对全配上啦！",
+  "instruction": "先点一个英文词，再点对应的中文词，配成一对。",
+  "left": [
+   {
+    "k": "r-party",
+    "label": "party"
+   },
+   {
+    "k": "r-cake",
+    "label": "cake"
+   },
+   {
+    "k": "r-red",
+    "label": "red"
+   }
+  ],
+  "right": [
+   {
+    "k": "r-red",
+    "label": "红色",
+    "say": "red"
+   },
+   {
+    "k": "r-party",
+    "label": "派对",
+    "say": "party"
+   },
+   {
+    "k": "r-cake",
+    "label": "蛋糕",
+    "say": "cake"
+   }
+  ],
+  "title": "复习词配一配"
+ },
+ "taskC": [
+  [
+   "Hello, everyone!",
+   "大家好！"
+  ],
+  [
+   "What is this?",
+   "这是什么？"
+  ],
+  [
+   "What color is it?",
+   "这是什么颜色？"
+  ],
+  [
+   "How many balloons?",
+   "有多少个气球？"
+  ],
+  [
+   "Thank you, Milo!",
+   "谢谢你，米洛！"
+  ]
+ ],
+ "title_en": "The New Friends' Party",
+ "title_zh": "新朋友派对",
+ "words": [
+  [
+   "party",
+   "派对"
+  ],
+  [
+   "cake",
+   "蛋糕"
+  ],
+  [
+   "gift",
+   "礼物"
+  ],
+  [
+   "balloon",
+   "气球"
+  ],
+  [
+   "apple",
+   "苹果"
+  ],
+  [
+   "banana",
+   "香蕉"
+  ],
+  [
+   "red",
+   "红色"
+  ],
+  [
+   "yellow",
+   "黄色"
+  ],
+  [
+   "three",
+   "三"
+  ],
+  [
+   "ten",
+   "十"
+  ]
+ ],
+ "cover_spots": [
+  {
+   "kind": "obj",
+   "who": "cake",
+   "box": [
+    0.426,
+    0.47,
+    0.605,
+    0.705
+   ],
+   "say": "cake",
+   "zh": "蛋糕"
+  },
+  {
+   "kind": "obj",
+   "who": "balloon",
+   "box": [
+    0.244,
+    0.007,
+    0.338,
+    0.172
+   ],
+   "say": "balloon",
+   "zh": "气球"
+  },
+  {
+   "kind": "obj",
+   "who": "balloon",
+   "box": [
+    0.706,
+    0.048,
+    0.805,
+    0.229
+   ],
+   "say": "balloon",
+   "zh": "气球"
+  },
+  {
+   "who": "milo",
+   "box": [
+    0.067,
+    0.296,
+    0.37,
+    0.855
+   ],
+   "say": "Welcome to our party!",
+   "zh": "欢迎来参加我们的派对！"
+  },
+  {
+   "who": "coco",
+   "box": [
+    0.618,
+    0.353,
+    0.922,
+    0.854
+   ],
+   "say": "Hello! I am Coco!",
+   "zh": "你好！我是可可！"
+  }
+ ]
+}
