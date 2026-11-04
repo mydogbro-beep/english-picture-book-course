@@ -22,3 +22,12 @@
 - 本仓库为课程源码、插图与音频的公开备份（2026-11-04 首次入仓）
 - 主角轮换：Milo＆Coco（第 1–2 章）、小熊 Benny（第 3 章）、松鼠 Pip（第 4 章）、小兔 Ruby（第 5 章）、小狐狸 Felix（第 6 章）、小鸭 Daisy（第 7 章）、第 8 章全员团圆。
 - 每课目录含 `img/`（水彩插图）、`audio/`（标准美式发音，已放慢语速）、`spec.json`（课文与热点定义）、成品 HTML 与验收截图 `shots/`；根目录 `课程规划.md` 为总纲，`build_lesson.py` / `gen_audio.py` 为生产脚本。
+
+## 请作者喝杯咖啡
+
+课件免费用，觉得好用可以扫码打赏，支持作者继续做新课。在线版功能最全：https://edu.ascendcost.com/
+
+<p>
+<img src="tip-cup-wechat.png" width="220" alt="微信打赏">
+<img src="tip-cup-alipay.png" width="220" alt="支付宝打赏">
+</p>
